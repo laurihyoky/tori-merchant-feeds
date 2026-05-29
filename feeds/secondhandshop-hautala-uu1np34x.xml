@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Secondhandshop / Hautala</title>
+    <link>https://vend.com</link>
+    <description>Secondhandshop / Hautala – Lauri</description>
+    <item>
+      <g:id>tori-42113052</g:id>
+      <g:title><![CDATA[Vanha kaunis penkki - ilmainen toimitus pk-seudulle 5.6. / 12.6. ]]></g:title>
+      <g:description><![CDATA[Tämä vanha kaunis Kustavi tyylin penkki etsii uutta kotia. Runko ehjä ja tukeva. Maalissa ajan tuomia jälkiä. Verhoilussa pari liimatahraa. Verhoilu aikanaan va]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-kaunis-penkki</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113052/fe0970a9-9467-4e40-97ff-d59f28520e4f</g:image_link>
+      <g:price>135.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+    </item>
+  </channel>
+</rss>
