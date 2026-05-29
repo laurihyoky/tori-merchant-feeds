@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>ZZ Refresh Test</title>
+    <link>https://vend.com</link>
+    <description>ZZ Refresh Test</description>
+    <item>
+      <g:id>tori-31385053</g:id>
+      <g:title><![CDATA[ZARA Sänky Uusi 160 x 200]]></g:title>
+      <g:description><![CDATA[ZARA SÄNKY  160 x 200
+Tuote on varastossa, heti toimitettavissa.
+ERÄMAKSU: KLARNA
+Mitat (Leveys x Syvvys) / Dimensions (cm) :   160 x 200
+Jalan korkeus / Leg he]]></g:description>
+      <g:link>https://sohvakeskus.fi/tuote/zara-sanky-uusi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31385053/c2510d21-5871-4f8c-8214-b05319aa1695</g:image_link>
+      <g:price>690.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4435]]></g:google_product_category>
+    </item>
+  </channel>
+</rss>
