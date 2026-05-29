@@ -19,17 +19,6 @@ Hinta 120e
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42109010</g:id>
-      <g:title><![CDATA[Klassinen lipasto / laatikosto - ilmainen toimitus]]></g:title>
-      <g:description><![CDATA[Hieno kahdella eri tasolla varustettu klassinen lipasto myytävänä. Yleiskunto hyvä. Pieniä reunakolhuja löytyy. Vetolaatikot ja ovi toimivat hyvin. Sisusta siis]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/klassinen-lipasto-93cbb05e8ff6f6e0</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42109010/37375149-c55a-4d98-8dae-3f32905bc9f6</g:image_link>
-      <g:price>125.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-42109147</g:id>
       <g:title><![CDATA[Klassinen kaappi - ilmainen kotiinkuljetus]]></g:title>
       <g:description><![CDATA[Kaunis klassinen kaappi myytävänä. Yleiskunto hyvä. Kannessa muutamia jälkiä. Avain tallessa ja lukitus toimii ovessa. Sisusta siisti eikä ole hajuja. Rakenne t]]></g:description>
@@ -95,17 +84,15 @@ K 76]]></g:description>
       <g:google_product_category><![CDATA[5938]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42108925</g:id>
-      <g:title><![CDATA[Kustavi sivustavedettävä sohva]]></g:title>
-      <g:description><![CDATA[Kaunis vanhan tuotannon Kustavi tyylin sohva myytävänä. Sohvan runko tukeva ja ehjä. Verhoilussa pari jälkeä ja yksi rikki takareunassa. Ei hajuja. 
-
-Hinta 295e]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kustavilainen-sivustavedettava-sohva</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42108925/48f39a4f-0976-4a36-9a00-be28c9aac734</g:image_link>
-      <g:price>295.00 EUR</g:price>
+      <g:id>tori-42109010</g:id>
+      <g:title><![CDATA[Klassinen lipasto / laatikosto - ilmainen toimitus]]></g:title>
+      <g:description><![CDATA[Hieno kahdella eri tasolla varustettu klassinen lipasto myytävänä. Yleiskunto hyvä. Pieniä reunakolhuja löytyy. Vetolaatikot ja ovi toimivat hyvin. Sisusta siis]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/klassinen-lipasto-93cbb05e8ff6f6e0</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42109010/37375149-c55a-4d98-8dae-3f32905bc9f6</g:image_link>
+      <g:price>125.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42108798</g:id>
@@ -222,15 +209,17 @@ Hinta yhtee]]></g:description>
       <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42096557</g:id>
-      <g:title><![CDATA[Retro yöpöytä 2kpl]]></g:title>
-      <g:description><![CDATA[Kuvan upeat retro yöpöydät 2kpl uuteen kotiin. Kunto molemmissa ikäisekseen hyvä. Pari pientä reuna kolhua löytyy. Laatikot toimivat hyvin. Ei hajuja. Pari jälk]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upeat-retro-yopoydat-2kpl-39f0794a11732003</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096557/e39772b2-411e-45fa-83c5-68a3ab8f32ef</g:image_link>
-      <g:price>220.00 EUR</g:price>
+      <g:id>tori-42108925</g:id>
+      <g:title><![CDATA[Kustavi sivustavedettävä sohva]]></g:title>
+      <g:description><![CDATA[Kaunis vanhan tuotannon Kustavi tyylin sohva myytävänä. Sohvan runko tukeva ja ehjä. Verhoilussa pari jälkeä ja yksi rikki takareunassa. Ei hajuja. 
+
+Hinta 295e]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kustavilainen-sivustavedettava-sohva</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42108925/48f39a4f-0976-4a36-9a00-be28c9aac734</g:image_link>
+      <g:price>295.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6360]]></g:google_product_category>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42096633</g:id>
@@ -246,28 +235,6 @@ Mita]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[1395]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42096513</g:id>
-      <g:title><![CDATA[Antiikki tasakantinen arkku 1817]]></g:title>
-      <g:description><![CDATA[1800-luvun tasakantinen puinen arkku myytävänä. Pinnat aikanaan kunnostettu. Nykyisin maalissa lohkeamia. Kahvat molemmissa päissä. Sisusta siisti eikä ole haju]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-arkku-1817</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096513/e102227f-d71e-40ff-8b48-9008a8913432</g:image_link>
-      <g:price>150.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42096574</g:id>
-      <g:title><![CDATA[Duplo vintage työpöytä / kirjoituspöytä 40/50-luku]]></g:title>
-      <g:description><![CDATA[Tyylikäs ja kompakti 40/50-luvun työpöytä tuo kotiin upeaa vintage-tunnelmaa ja ajatonta designia. Kaunis kokonaisuus sopii täydellisesti niin etätyöpisteeksi, ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-duplo-kirjoituspoyta-40-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096574/65d6ae04-16ab-4db3-bdff-990687d63370</g:image_link>
-      <g:price>250.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42090604</g:id>
@@ -320,15 +287,37 @@ L 23,5 /]]></g:description>
       <g:google_product_category><![CDATA[7072]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42085719</g:id>
-      <g:title><![CDATA[Vintage kaappi tv / televisio 50-luku]]></g:title>
-      <g:description><![CDATA[Hyvässä kunnossa säilynyt 50-luvun Philips kaappi televisio myytävänä. Kaapissa rulo-ovi, joka toimii edelleen hienosti. Löytyy myös avain ja sekin toimii. Alla]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/philips-vintage-kaappi-tv</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42085719/a120e1d7-c13a-41ec-b261-bd8144bd397a</g:image_link>
-      <g:price>240.00 EUR</g:price>
+      <g:id>tori-42096513</g:id>
+      <g:title><![CDATA[Antiikki tasakantinen arkku 1817]]></g:title>
+      <g:description><![CDATA[1800-luvun tasakantinen puinen arkku myytävänä. Pinnat aikanaan kunnostettu. Nykyisin maalissa lohkeamia. Kahvat molemmissa päissä. Sisusta siisti eikä ole haju]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-arkku-1817</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096513/e102227f-d71e-40ff-8b48-9008a8913432</g:image_link>
+      <g:price>150.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4458]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42096574</g:id>
+      <g:title><![CDATA[Duplo vintage työpöytä / kirjoituspöytä 40/50-luku]]></g:title>
+      <g:description><![CDATA[Tyylikäs ja kompakti 40/50-luvun työpöytä tuo kotiin upeaa vintage-tunnelmaa ja ajatonta designia. Kaunis kokonaisuus sopii täydellisesti niin etätyöpisteeksi, ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-duplo-kirjoituspoyta-40-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096574/65d6ae04-16ab-4db3-bdff-990687d63370</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42096557</g:id>
+      <g:title><![CDATA[Retro yöpöytä 2kpl]]></g:title>
+      <g:description><![CDATA[Kuvan upeat retro yöpöydät 2kpl uuteen kotiin. Kunto molemmissa ikäisekseen hyvä. Pari pientä reuna kolhua löytyy. Laatikot toimivat hyvin. Ei hajuja. Pari jälk]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upeat-retro-yopoydat-2kpl-39f0794a11732003</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42096557/e39772b2-411e-45fa-83c5-68a3ab8f32ef</g:image_link>
+      <g:price>220.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6360]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42085701</g:id>
@@ -462,15 +451,15 @@ K]]></g:description>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42052758</g:id>
-      <g:title><![CDATA[Teak taso / pöytä 60-luku]]></g:title>
-      <g:description><![CDATA[Nätti 60-luvun tiikki pöytä myytävänä. Pöytä varustettu pyörillä, jotka kaikki toimivat hyvin. Yleiskunto ikäisekseen hyvä. Kannessa pientä ajan tuomaa jälkeä j]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/teak-poyta-pyorilla-60-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42052758/a6db0a87-989d-4a97-be82-b7c86e0a4a5c</g:image_link>
-      <g:price>135.00 EUR</g:price>
+      <g:id>tori-42085719</g:id>
+      <g:title><![CDATA[Vintage kaappi tv / televisio 50-luku]]></g:title>
+      <g:description><![CDATA[Hyvässä kunnossa säilynyt 50-luvun Philips kaappi televisio myytävänä. Kaapissa rulo-ovi, joka toimii edelleen hienosti. Löytyy myös avain ja sekin toimii. Alla]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/philips-vintage-kaappi-tv</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42085719/a120e1d7-c13a-41ec-b261-bd8144bd397a</g:image_link>
+      <g:price>240.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6358]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4458]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42052852</g:id>
@@ -592,15 +581,15 @@ Toimitus mah]]></g:description>
       <g:google_product_category><![CDATA[273]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42045982</g:id>
-      <g:title><![CDATA[Artek aurinkotuoli 4kpl, Aalto 50-luku]]></g:title>
-      <g:description><![CDATA[Harvemmin saatavilla oleva Aallon 50-luvun aurinko tuolit 4kpl myytävänä. Rungot ehjiä. Uudelleen maalatut. Muutamia jälkiä maalissa ja pari kolhua tuolin alapu]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/alvar-aalto-aurinkotuoli-4kpl-artek-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42045982/addc4de1-2189-4ed6-aa71-932e9e6ac36a</g:image_link>
-      <g:price>1400.00 EUR</g:price>
+      <g:id>tori-42052758</g:id>
+      <g:title><![CDATA[Teak taso / pöytä 60-luku]]></g:title>
+      <g:description><![CDATA[Nätti 60-luvun tiikki pöytä myytävänä. Pöytä varustettu pyörillä, jotka kaikki toimivat hyvin. Yleiskunto ikäisekseen hyvä. Kannessa pientä ajan tuomaa jälkeä j]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/teak-poyta-pyorilla-60-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42052758/a6db0a87-989d-4a97-be82-b7c86e0a4a5c</g:image_link>
+      <g:price>135.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[703]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6358]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42031364</g:id>
@@ -622,17 +611,6 @@ Kunto: Rungot ovat ]]></g:description>
       <g:link>https://secondhandshop.fi/tuote/antiikki-arkku-</g:link>
       <g:image_link>https://img.tori.net/dynamic/1280w/item/42031368/f9a0d8a0-17fb-413c-996e-c6c44e34633e</g:image_link>
       <g:price>225.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42031371</g:id>
-      <g:title><![CDATA[Retro lipasto]]></g:title>
-      <g:description><![CDATA[Tyylikäs Ruotsalainen puinen retro lipasto myytävänä. Kunto ikäisekseen hyvä. Messinkivetimet. Vetolaatikot toimivat hyvin. Sisusta siisti eikä ole hajuja. Rake]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-lipasto-8250b93bd9c81048</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42031371/21ca5a9c-8973-4660-83e1-9cf2d7c82888</g:image_link>
-      <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
@@ -718,15 +696,15 @@ Hinta 2]]></g:description>
       <g:google_product_category><![CDATA[6360]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42004054</g:id>
-      <g:title><![CDATA[Vintage tarjoiluvaunu / tarjoilukärry 60-luku]]></g:title>
-      <g:description><![CDATA[Tyylikäs 60-luvun retro tarjoilukärry myytävänä. Runko kaikin puolin ehjä ja renkaat kunnossa. Päällimmäisessä levyssä ajan tuomaa kuluneisuutta kuten myös rott]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-rottinkinen-tarjoiluvaunu-60-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42004054/4d44a969-8818-4d8a-9d7d-0e6624b201db</g:image_link>
-      <g:price>185.00 EUR</g:price>
+      <g:id>tori-42031371</g:id>
+      <g:title><![CDATA[Retro lipasto]]></g:title>
+      <g:description><![CDATA[Tyylikäs Ruotsalainen puinen retro lipasto myytävänä. Kunto ikäisekseen hyvä. Messinkivetimet. Vetolaatikot toimivat hyvin. Sisusta siisti eikä ole hajuja. Rake]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-lipasto-8250b93bd9c81048</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42031371/21ca5a9c-8973-4660-83e1-9cf2d7c82888</g:image_link>
+      <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42004299</g:id>
@@ -828,15 +806,15 @@ Hinta 2]]></g:description>
       <g:google_product_category><![CDATA[447]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41995483</g:id>
-      <g:title><![CDATA[Ikea kaappi]]></g:title>
-      <g:description><![CDATA[Tyylikäs Ikean musta kaappi myytävänä. Varastossa 3kpl. Tuotteen saldo näyttää ajantasaisen saatavuuden. Kunto jokaisessa hyvä. Pientä käyttäkulumaa löytyy. Sis]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/ikea-kaappi</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995483/bf0dd516-e865-4f45-a90b-4b917f0e81d5</g:image_link>
-      <g:price>95.00 EUR</g:price>
+      <g:id>tori-42004054</g:id>
+      <g:title><![CDATA[Vintage tarjoiluvaunu / tarjoilukärry 60-luku]]></g:title>
+      <g:description><![CDATA[Tyylikäs 60-luvun retro tarjoilukärry myytävänä. Runko kaikin puolin ehjä ja renkaat kunnossa. Päällimmäisessä levyssä ajan tuomaa kuluneisuutta kuten myös rott]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-rottinkinen-tarjoiluvaunu-60-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42004054/4d44a969-8818-4d8a-9d7d-0e6624b201db</g:image_link>
+      <g:price>185.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41995465</g:id>
@@ -848,40 +826,6 @@ Hinta 2]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41995363</g:id>
-      <g:title><![CDATA[Antiikki komuutti / lipasto]]></g:title>
-      <g:description><![CDATA[Hieno vanha puinen komuutti myytävänä. Kunto hyvä. Pinnat aikanaan kunnostettu. Avain tallessa ja lukitus toimii ovessa. Vanhaa jälkeä sisällä, ei hajuja. Raken]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-komuutti</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995363/d4895f31-6d35-4890-9086-eb6dc6f2e6d5</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41995410</g:id>
-      <g:title><![CDATA[Vintage seinähylly / hylly 50-luku]]></g:title>
-      <g:description><![CDATA[50-luvun tyylikäs hylly myytävänä. Kunto hyvä. Kaikki osat tallella. Muutamia pieniä jälkiä hyllyissä. 
-
-Hinta 195e
-
-Mitat cm:
-
-L 85
-
-S 28
-
-K 72
-
-Tuote Salossa.]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-seinahylly-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995410/1177706a-073b-48b6-90a3-64c35c7bf045</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41995392</g:id>
@@ -932,17 +876,49 @@ Kuvan upea 50-luvun kaappi myytävänä. Kaapin oviin löytyy avaimet ja l]]></g
       <g:google_product_category><![CDATA[4063]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41990501</g:id>
-      <g:title><![CDATA[Ilmainen kotiinkuljetus Tampereelle 24.6. - Lundia hylly, rulokaa]]></g:title>
-      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+      <g:id>tori-41995363</g:id>
+      <g:title><![CDATA[Antiikki komuutti / lipasto]]></g:title>
+      <g:description><![CDATA[Hieno vanha puinen komuutti myytävänä. Kunto hyvä. Pinnat aikanaan kunnostettu. Avain tallessa ja lukitus toimii ovessa. Vanhaa jälkeä sisällä, ei hajuja. Raken]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-komuutti</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995363/d4895f31-6d35-4890-9086-eb6dc6f2e6d5</g:image_link>
+      <g:price>195.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41995410</g:id>
+      <g:title><![CDATA[Vintage seinähylly / hylly 50-luku]]></g:title>
+      <g:description><![CDATA[50-luvun tyylikäs hylly myytävänä. Kunto hyvä. Kaikki osat tallella. Muutamia pieniä jälkiä hyllyissä. 
 
-Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen Tampereen seudulle, ]]></g:description>
-      <g:link>https://secondhandshop.fi/</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41990501/d7c004e4-da84-4b72-9667-dd5a2c079185</g:image_link>
-      <g:price>1.00 EUR</g:price>
+Hinta 195e
+
+Mitat cm:
+
+L 85
+
+S 28
+
+K 72
+
+Tuote Salossa.]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-seinahylly-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995410/1177706a-073b-48b6-90a3-64c35c7bf045</g:image_link>
+      <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41995483</g:id>
+      <g:title><![CDATA[Ikea kaappi]]></g:title>
+      <g:description><![CDATA[Tyylikäs Ikean musta kaappi myytävänä. Varastossa 3kpl. Tuotteen saldo näyttää ajantasaisen saatavuuden. Kunto jokaisessa hyvä. Pientä käyttäkulumaa löytyy. Sis]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/ikea-kaappi</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41995483/bf0dd516-e865-4f45-a90b-4b917f0e81d5</g:image_link>
+      <g:price>95.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41990458</g:id>
@@ -1070,15 +1046,17 @@ Tuote]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41970237</g:id>
-      <g:title><![CDATA[Retro kukkapöytä / taso - ilmainen toimitus]]></g:title>
-      <g:description><![CDATA[60/70-luvun retro kukkataso myytävänä. Rakenteeltaan tukeva. Jalat irroitettavat. Muovikaukalo pois nostettava. Kannessa kevyttä viilun kuprua paikka paikoin. E]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-kukkapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41970237/affc6f96-7dcf-438c-86b2-1276c70e4073</g:image_link>
-      <g:price>120.00 EUR</g:price>
+      <g:id>tori-41990501</g:id>
+      <g:title><![CDATA[Ilmainen kotiinkuljetus Tampereelle 24.6. - Lundia hylly, rulokaa]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+
+Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen Tampereen seudulle, ]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41990501/d7c004e4-da84-4b72-9667-dd5a2c079185</g:image_link>
+      <g:price>1.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41968054</g:id>
@@ -1220,15 +1198,15 @@ Tuot]]></g:description>
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41957118</g:id>
-      <g:title><![CDATA[Vanha talonpoikais jatkettava ruokapöytä]]></g:title>
-      <g:description><![CDATA[Talonpoikais henkinen vanhan jatkettava ruokapöytä myytävänä. Runko tukeva ja jatkot toimivat hyvin. Jalat aikanaan maalattu ja pöytä levy kunnostettu. Kaunista]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-jatkettava-ruokapoyta-383d1f346e4bb3f0</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41957118/473e4177-a397-44da-be36-89eba9c24e52</g:image_link>
-      <g:price>295.00 EUR</g:price>
+      <g:id>tori-41970237</g:id>
+      <g:title><![CDATA[Retro kukkapöytä / taso - ilmainen toimitus]]></g:title>
+      <g:description><![CDATA[60/70-luvun retro kukkataso myytävänä. Rakenteeltaan tukeva. Jalat irroitettavat. Muovikaukalo pois nostettava. Kannessa kevyttä viilun kuprua paikka paikoin. E]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-kukkapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41970237/affc6f96-7dcf-438c-86b2-1276c70e4073</g:image_link>
+      <g:price>120.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41957097</g:id>
@@ -1342,17 +1320,15 @@ S 2]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41946355</g:id>
-      <g:title><![CDATA[Vintage rottinkituoli 2kpl - ILMAINEN TOIMITUS pk-seudulle, Turku]]></g:title>
-      <g:description><![CDATA[https://secondhandshop.fi/tuote/vintage-rottinkituoli-2kpl
-
-Upeat kuvan Thonet tyyppiset rottinki käsinojatuolit 2kpl myytävänä. Vanhempaa tuotantoa. Molemmissa]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-rottinkituoli-2kpl</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41946355/1bd57a05-afb0-48e9-a332-994c1aa029c8</g:image_link>
-      <g:price>235.00 EUR</g:price>
+      <g:id>tori-41957118</g:id>
+      <g:title><![CDATA[Vanha talonpoikais jatkettava ruokapöytä]]></g:title>
+      <g:description><![CDATA[Talonpoikais henkinen vanhan jatkettava ruokapöytä myytävänä. Runko tukeva ja jatkot toimivat hyvin. Jalat aikanaan maalattu ja pöytä levy kunnostettu. Kaunista]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-jatkettava-ruokapoyta-383d1f346e4bb3f0</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41957118/473e4177-a397-44da-be36-89eba9c24e52</g:image_link>
+      <g:price>295.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[436]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41946318</g:id>
@@ -1462,19 +1438,17 @@ H]]></g:description>
       <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41942152</g:id>
-      <g:title><![CDATA[Vanha sohvapöytä 40/50-luku]]></g:title>
-      <g:description><![CDATA[Kompakti 40/50-luvun olohuoneenpöytä myytävänä. Pinta aikanaan maalattu, väri keltainen. Runko tukeva. Maalissa muutamia kuvan mukaisia jälkiä. 
+      <g:id>tori-41946355</g:id>
+      <g:title><![CDATA[Vintage rottinkituoli 2kpl - ILMAINEN TOIMITUS pk-seudulle, Turku]]></g:title>
+      <g:description><![CDATA[https://secondhandshop.fi/tuote/vintage-rottinkituoli-2kpl
 
-Hinta 75e
-
-Mit]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-sohvapoyta-40-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41942152/ba1fdd3e-514a-49ef-8a94-848c7bca41ba</g:image_link>
-      <g:price>75.00 EUR</g:price>
+Upeat kuvan Thonet tyyppiset rottinki käsinojatuolit 2kpl myytävänä. Vanhempaa tuotantoa. Molemmissa]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-rottinkituoli-2kpl</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41946355/1bd57a05-afb0-48e9-a332-994c1aa029c8</g:image_link>
+      <g:price>235.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41942138</g:id>
@@ -1584,15 +1558,19 @@ L]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41903959</g:id>
-      <g:title><![CDATA[Upea entisöity kirjoituspöytä / työpöytä]]></g:title>
-      <g:description><![CDATA[Tämä upea kunnostettu vanha työpöytä etsii uutta kotia. Pinnat viimeisen päälle laitettu aikanaan. Vetolaatikot toimivat hyvin. Ei hajuja. Rakenne kaikin puolin]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-entisoity-kirjoituspoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41903959/ba8ba957-88bb-4e97-82b8-da198ae5ad9f</g:image_link>
-      <g:price>390.00 EUR</g:price>
+      <g:id>tori-41942152</g:id>
+      <g:title><![CDATA[Vanha sohvapöytä 40/50-luku]]></g:title>
+      <g:description><![CDATA[Kompakti 40/50-luvun olohuoneenpöytä myytävänä. Pinta aikanaan maalattu, väri keltainen. Runko tukeva. Maalissa muutamia kuvan mukaisia jälkiä. 
+
+Hinta 75e
+
+Mit]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-sohvapoyta-40-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41942152/ba1fdd3e-514a-49ef-8a94-848c7bca41ba</g:image_link>
+      <g:price>75.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41903904</g:id>
@@ -1712,15 +1690,15 @@ Mi]]></g:description>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41840814</g:id>
-      <g:title><![CDATA[Asko Charlotte tuoli 6kpl]]></g:title>
-      <g:description><![CDATA[Askon Charlotte mallin tuolit 6kpl myytävänä. Yleiskunto ikäisekseen hyvä. Verhoilut aikanaan vaihdettu ja on helppo vielä uudelleen vaihtaa. Istuin irroitettav]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/asko-charlotte-tuoli-6kpl-58120f2de23d4295</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41840814/da3c7f30-de29-4c08-a50a-2caa94c037e7</g:image_link>
-      <g:price>150.00 EUR</g:price>
+      <g:id>tori-41903959</g:id>
+      <g:title><![CDATA[Upea entisöity kirjoituspöytä / työpöytä]]></g:title>
+      <g:description><![CDATA[Tämä upea kunnostettu vanha työpöytä etsii uutta kotia. Pinnat viimeisen päälle laitettu aikanaan. Vetolaatikot toimivat hyvin. Ei hajuja. Rakenne kaikin puolin]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-entisoity-kirjoituspoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41903959/ba8ba957-88bb-4e97-82b8-da198ae5ad9f</g:image_link>
+      <g:price>390.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41840782</g:id>
@@ -1842,17 +1820,15 @@ Second hand -huonekalut ovat y]]></g:description>
       <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41803644</g:id>
-      <g:title><![CDATA[Upea vuodesohva / sohvasänky / antiikki]]></g:title>
-      <g:description><![CDATA[Ilmainen kotiinkuljetus pk-seudulle 5.6. / 12.6. / 26.6.
-
-Kuvan upea puinen sivustavedettävä vuodesohva myytävänä. Kunto erittäin hyvä. Runko ehjä ja tukeva. Si]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-kunnostettu-antiikki-vuodesohva-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41803644/d0e1f613-8678-48c0-aa27-889c8d90a7da</g:image_link>
-      <g:price>325.00 EUR</g:price>
+      <g:id>tori-41840814</g:id>
+      <g:title><![CDATA[Asko Charlotte tuoli 6kpl]]></g:title>
+      <g:description><![CDATA[Askon Charlotte mallin tuolit 6kpl myytävänä. Yleiskunto ikäisekseen hyvä. Verhoilut aikanaan vaihdettu ja on helppo vielä uudelleen vaihtaa. Istuin irroitettav]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/asko-charlotte-tuoli-6kpl-58120f2de23d4295</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41840814/da3c7f30-de29-4c08-a50a-2caa94c037e7</g:image_link>
+      <g:price>150.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[7212]]></g:google_product_category>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41803433</g:id>
@@ -1968,17 +1944,17 @@ Tilaa laadukkaat second hand huonekalut helposti kotiovellesi ilman toim]]></g:d
       <g:google_product_category><![CDATA[4063]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41775925</g:id>
-      <g:title><![CDATA[Ilmainen toimitus pk-seudulle 5.6. / 12.6. / 26.6. - teak lipasto]]></g:title>
-      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+      <g:id>tori-41803644</g:id>
+      <g:title><![CDATA[Upea vuodesohva / sohvasänky / antiikki]]></g:title>
+      <g:description><![CDATA[Ilmainen kotiinkuljetus pk-seudulle 5.6. / 12.6. / 26.6.
 
-Perjantaina 5.6. / 12.6. / 26.6. saat ilmaisen kotiinkuljetuksen koko PK]]></g:description>
-      <g:link>https://secondhandshop.fi/</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41775925/e0d8300c-ab17-4080-9d2d-652873f10910</g:image_link>
-      <g:price>1.00 EUR</g:price>
+Kuvan upea puinen sivustavedettävä vuodesohva myytävänä. Kunto erittäin hyvä. Runko ehjä ja tukeva. Si]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-kunnostettu-antiikki-vuodesohva-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41803644/d0e1f613-8678-48c0-aa27-889c8d90a7da</g:image_link>
+      <g:price>325.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+      <g:google_product_category><![CDATA[7212]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41775819</g:id>
@@ -2088,15 +2064,17 @@ Hinta 145e]]></g:description>
       <g:google_product_category><![CDATA[5938]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41723892</g:id>
-      <g:title><![CDATA[Retro yöpöytä 2kpl]]></g:title>
-      <g:description><![CDATA[Tyylikkäät retro yöpöydät myytävänä. Kunto molemmissa hyvä. Pientä kuluneisuutta kannessa. Vetolaatikot toimivat hyvin. Ei hajuja. Vetimet ehjät. Myydään parina]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-yopoyta-2kpl-3335e231148c6a85</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41723892/a504ffae-524f-4c8f-b822-48fbedf2c030</g:image_link>
-      <g:price>200.00 EUR</g:price>
+      <g:id>tori-41775925</g:id>
+      <g:title><![CDATA[Ilmainen toimitus pk-seudulle 5.6. / 12.6. / 26.6. - teak lipasto]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+
+Perjantaina 5.6. / 12.6. / 26.6. saat ilmaisen kotiinkuljetuksen koko PK]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41775925/e0d8300c-ab17-4080-9d2d-652873f10910</g:image_link>
+      <g:price>1.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6360]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41723860</g:id>
@@ -2222,15 +2200,15 @@ Hinta 1]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41638804</g:id>
-      <g:title><![CDATA[Amerikkalainen arkku]]></g:title>
-      <g:description><![CDATA[Amerikkalainen uusvanha komea arkku myytävänä. Kansi toimii hyvin. Lukon salpa poistettu, koska ei ole avainta. Kuvan mukaista jälkeä kannessa ja toisessa pääss]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/amerikkalainen-arkku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41638804/8393ecb7-0a91-4ced-a6fb-1438ab4cade0</g:image_link>
-      <g:price>195.00 EUR</g:price>
+      <g:id>tori-41723892</g:id>
+      <g:title><![CDATA[Retro yöpöytä 2kpl]]></g:title>
+      <g:description><![CDATA[Tyylikkäät retro yöpöydät myytävänä. Kunto molemmissa hyvä. Pientä kuluneisuutta kannessa. Vetolaatikot toimivat hyvin. Ei hajuja. Vetimet ehjät. Myydään parina]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-yopoyta-2kpl-3335e231148c6a85</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41723892/a504ffae-524f-4c8f-b822-48fbedf2c030</g:image_link>
+      <g:price>200.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6360]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41638782</g:id>
@@ -2355,15 +2333,15 @@ Toim]]></g:description>
       <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41613413</g:id>
-      <g:title><![CDATA[Lundia pöytä]]></g:title>
-      <g:description><![CDATA[Kotimainen Lundian pöytä etsii uutta kotia. Voi käyttää kirjoituspöytänä tai ruokapöytänä. Kannessa ajan tuomia jälkiä ja jaloissa muutamia maaliroiskeita. Jala]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/lundia-poyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41613413/cd09abea-ac6a-459e-b2d5-a9bf00e9a902</g:image_link>
+      <g:id>tori-41638804</g:id>
+      <g:title><![CDATA[Amerikkalainen arkku]]></g:title>
+      <g:description><![CDATA[Amerikkalainen uusvanha komea arkku myytävänä. Kansi toimii hyvin. Lukon salpa poistettu, koska ei ole avainta. Kuvan mukaista jälkeä kannessa ja toisessa pääss]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/amerikkalainen-arkku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41638804/8393ecb7-0a91-4ced-a6fb-1438ab4cade0</g:image_link>
       <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41613354</g:id>
@@ -2469,15 +2447,15 @@ Hinta y]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41487943</g:id>
-      <g:title><![CDATA[Teak kirjahylly 60-luku / hylly]]></g:title>
-      <g:description><![CDATA[Tyylikäs, ajaton 60-luvun tiikki kirjahylly saapui myyntiin. Kunto ikäisekseen hyvä. Liukuovet toimivat. Sisusta siisti eikä ole hajuja. Yläosa pois nostettava.]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-teak-kirjahylly-60-luku-7c26b77de55e2bfd</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41487943/be78f799-82d7-4dcc-9869-1ea4d720de04</g:image_link>
-      <g:price>345.00 EUR</g:price>
+      <g:id>tori-41613413</g:id>
+      <g:title><![CDATA[Lundia pöytä]]></g:title>
+      <g:description><![CDATA[Kotimainen Lundian pöytä etsii uutta kotia. Voi käyttää kirjoituspöytänä tai ruokapöytänä. Kannessa ajan tuomia jälkiä ja jaloissa muutamia maaliroiskeita. Jala]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/lundia-poyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41613413/cd09abea-ac6a-459e-b2d5-a9bf00e9a902</g:image_link>
+      <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41488025</g:id>
@@ -2591,28 +2569,15 @@ S 68]]></g:description>
       <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41380434</g:id>
-      <g:title><![CDATA[Kustavi ruokapöytä (projekti)]]></g:title>
-      <g:description><![CDATA[Kaunis Kustavilainen jatkettava ruokapöytä myytävänä. Pöydän kansi jatkojen pinnat vaativat kunnostusta. Rakenteeltaan kaikin puolin ehjä ja tukeva. 
-
-Hinta 150]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kustavi-ruokapoyta-projekti</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41380434/c6730917-584b-4a08-a791-dd75257a4cbc</g:image_link>
-      <g:price>150.00 EUR</g:price>
+      <g:id>tori-41487943</g:id>
+      <g:title><![CDATA[Teak kirjahylly 60-luku / hylly]]></g:title>
+      <g:description><![CDATA[Tyylikäs, ajaton 60-luvun tiikki kirjahylly saapui myyntiin. Kunto ikäisekseen hyvä. Liukuovet toimivat. Sisusta siisti eikä ole hajuja. Yläosa pois nostettava.]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-teak-kirjahylly-60-luku-7c26b77de55e2bfd</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41487943/be78f799-82d7-4dcc-9869-1ea4d720de04</g:image_link>
+      <g:price>345.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41336208</g:id>
-      <g:title><![CDATA[Antiikki arkku]]></g:title>
-      <g:description><![CDATA[Komea puinen antiikki arkku etsii uutta kotia. Rakenteeltaan arkku on kaikin puolin ehjä. Ajan tuomaa patinaa löytyy, ei hajuja. Lukossa katkennut avain, jota s]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-arkku-b93eac88b8eb1915</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41336208/4bb01b4a-696f-4ae0-af25-0447c8de4054</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41376157</g:id>
@@ -2660,17 +2625,6 @@ Tuote]]></g:description>
       <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41332045</g:id>
-      <g:title><![CDATA[Funkkis pikku kaappi 40-luku]]></g:title>
-      <g:description><![CDATA[Nätti 40-luvun pikku funkkis kaappi myytävänä. Kunto ikäisekseen hyvä. Vanhaa madon reikää takajaloissa. Sisusta siisti eikä ole hajuja. Avaimet tallessa ja luk]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/funkkis-pikku-kaappi-40-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41332045/de4d2e03-e255-4518-a5e1-ccf5b1042d85</g:image_link>
-      <g:price>250.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-41332119</g:id>
       <g:title><![CDATA[Vintage lipasto 50-luku]]></g:title>
       <g:description><![CDATA[Kaunis kunnostettu 50-luvun lipasto myytävänä. Pinnat maalattu ja vetimet uusittu. Sisusta siisti eikä ole hajuja. Runko kaikin puolin ehjä. Maalin alta paistaa]]></g:description>
@@ -2680,17 +2634,6 @@ Tuote]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41331984</g:id>
-      <g:title><![CDATA[Vanha peilipiironki / peilikaappi]]></g:title>
-      <g:description><![CDATA[Komea vanha kunnostettu peilipiironki myytävänä. Pinnat aikanaan uudelleen ootrattu / maalattu. Muutamia pieniä kolhuja ja käytön jälkiä löytyy. Yleiskunto ikäi]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-kunnostettu-peilipiironki-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41331984/08ef337a-e91f-43a0-ad72-858cceff0fd2</g:image_link>
-      <g:price>295.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41332083</g:id>
@@ -2704,37 +2647,28 @@ Tuote]]></g:description>
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41328349</g:id>
-      <g:title><![CDATA[Jugend ruokapöytä - ilmainen toimitus Tampereelle]]></g:title>
-      <g:description><![CDATA[Vanhan ajan Jugend tyylin jatkettava ruokapöytä myytävänä. Juuri sopiva kaunis patinaa koristaa pöytää kauttaaltaan. Runko kaikin puolin tukeva ja ehjä. Jatkot ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-jugend-ruokapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41328349/1a95ee77-4015-4344-9c27-0997545d7e2a</g:image_link>
-      <g:price>370.00 EUR</g:price>
+      <g:id>tori-41380434</g:id>
+      <g:title><![CDATA[Kustavi ruokapöytä (projekti)]]></g:title>
+      <g:description><![CDATA[Kaunis Kustavilainen jatkettava ruokapöytä myytävänä. Pöydän kansi jatkojen pinnat vaativat kunnostusta. Rakenteeltaan kaikin puolin ehjä ja tukeva. 
+
+Hinta 150]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kustavi-ruokapoyta-projekti</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41380434/c6730917-584b-4a08-a791-dd75257a4cbc</g:image_link>
+      <g:price>150.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41332006</g:id>
-      <g:title><![CDATA[Jugend ruokapöytä - ilmainen toimitus Helsinkiin]]></g:title>
-      <g:description><![CDATA[Vanhan ajan Jugend tyylin jatkettava ruokapöytä myytävänä. Juuri sopiva kaunis patinaa koristaa pöytää kauttaaltaan. Runko kaikin puolin tukeva ja ehjä. Jatkot ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-jugend-ruokapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41332006/f9c88fae-6a74-4563-bb44-89c76e01000c</g:image_link>
-      <g:price>370.00 EUR</g:price>
+      <g:id>tori-41336208</g:id>
+      <g:title><![CDATA[Antiikki arkku]]></g:title>
+      <g:description><![CDATA[Komea puinen antiikki arkku etsii uutta kotia. Rakenteeltaan arkku on kaikin puolin ehjä. Ajan tuomaa patinaa löytyy, ei hajuja. Lukossa katkennut avain, jota s]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-arkku-b93eac88b8eb1915</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41336208/4bb01b4a-696f-4ae0-af25-0447c8de4054</g:image_link>
+      <g:price>195.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41360649</g:id>
-      <g:title><![CDATA[Teak kirjahylly 60-luku / hylly]]></g:title>
-      <g:description><![CDATA[Normaalista poikkeava 60-luvun tiikki kirjahylly myytävänä. Alakaappi ollut aikanaan radiokaappi, joka nyttemmin tyhjennetty. Hyllyt korkeussäädettävät. Yleisku]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/teak-kirjahylly-60-luku-be85be3b33ccc271</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41360649/918b94ef-abf1-4827-b1c5-342266efa483</g:image_link>
-      <g:price>345.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41360630</g:id>
@@ -2781,137 +2715,15 @@ Tuote]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41323088</g:id>
-      <g:title><![CDATA[Entisöity upea senkki / kaappi / peilipiironki]]></g:title>
-      <g:description><![CDATA[Erittäin siisti, aikanaan kunnostettu kuvan peilikaappi myytävänä. Avain tallessa ja kaikki lukot toimivat. Sisusta siisti eikä ole hajuja. Rakenne tukeva. Peil]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-peilipiironki-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41323088/633eac9a-c473-42a6-a993-ab0383b6c03d</g:image_link>
+      <g:id>tori-41360649</g:id>
+      <g:title><![CDATA[Teak kirjahylly 60-luku / hylly]]></g:title>
+      <g:description><![CDATA[Normaalista poikkeava 60-luvun tiikki kirjahylly myytävänä. Alakaappi ollut aikanaan radiokaappi, joka nyttemmin tyhjennetty. Hyllyt korkeussäädettävät. Yleisku]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/teak-kirjahylly-60-luku-be85be3b33ccc271</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41360649/918b94ef-abf1-4827-b1c5-342266efa483</g:image_link>
       <g:price>345.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41323129</g:id>
-      <g:title><![CDATA[Antiikki klaffilipasto / lipasto - ilmainen kotiinkuljetus Tamper]]></g:title>
-      <g:description><![CDATA[Tämä kaunis täyspuinen klaffipiironki etsii uutta omistajaa. Lipasto aikanaan kunnostettu ja pinnat maalattu. Klaffin lukitus poistettu ja korvattu kiinnikkeell]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-klaffilipasto-53769286fe2c74e7</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41323129/4dc678d7-cefa-4e33-84b5-de02f3324e93</g:image_link>
-      <g:price>345.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41323064</g:id>
-      <g:title><![CDATA[Vanha kunnostettu työpöytä / kirjoituspöytä]]></g:title>
-      <g:description><![CDATA[Kaunis kunnostettu vanhan ajan kirjoituspöytä myytävänä. Kunto hyvä ja runko ehjä. Kaksi vetolaatikkoa kannen alla. Kannessa muutamia hentoja jälkiä. Ei hajuja.]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-tyopoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41323064/d6c5cdfb-83a0-4434-a949-f508169429eb</g:image_link>
-      <g:price>250.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41319024</g:id>
-      <g:title><![CDATA[Vintage tarjoiluvaunu / tarjoilukärry]]></g:title>
-      <g:description><![CDATA[Tämä upea vintage tarjoilukärry etsii uutta kotia. Kunto hyvä. Renkaat toimivat hyvin. Kaksi lasitasoa sekä yksi vaneritaso. 
-
-Hinta 195e
-
-Mitat cm:
-
-L 68
-
-S 47]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-tarjoiluvaunu-40-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41319024/4e6e55d6-8106-45fd-bbbd-f3f5622c7750</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41319097</g:id>
-      <g:title><![CDATA[Funkkis sohvapöytä 30/40-luku]]></g:title>
-      <g:description><![CDATA[Komea 30/40-luvun funkkis henkinen pyöreä olohuoneenpöytä myytävänä. Muutamia pieniä viilu vikoja löytyy sekä ajan tuomaa kuluneisuutta kannen lakassa. Runko ed]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/sohvapoyta-30-40-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41319097/6436bbb5-bcb5-4697-9701-fafd6179fa91</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41319051</g:id>
-      <g:title><![CDATA[Rokokoo vanha sohva]]></g:title>
-      <g:description><![CDATA[Kaunis Rokokoo tyylin sohva myytävänä. Kunto ikäisekseen hyvä. Istuimet ja runko kunnossa. Kankaassa ja puuosissa pieniä käytön jälkiä. Ei hajuja. 
-
-Hinta 250e
-]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-rokokoo-sohva-0cb4291d0eec7d0d</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41319051/4655ef3f-2fd8-45cb-bc90-38912b2942ef</g:image_link>
-      <g:price>250.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41319070</g:id>
-      <g:title><![CDATA[Entisöity upea senkki / kaappi]]></g:title>
-      <g:description><![CDATA[Erittäin siisti, aikanaan kunnostettu kuvan peilikaappi myytävänä. Avain tallessa ja kaikki lukot toimivat. Sisusta siisti eikä ole hajuja. Rakenne tukeva. Peil]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-peilipiironki-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41319070/a67fbf4a-d2d0-4a8e-b785-dfe81073989b</g:image_link>
-      <g:price>345.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[447]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41299812</g:id>
-      <g:title><![CDATA[Lenco CD / radio / Bluetooth]]></g:title>
-      <g:description><![CDATA[Uudenveroinen Lenco CD-Radio soitin myytävänä. Lisäksi löytyy Bluetooth, aux sekä USB. Mukana kaukosäädin ja ohjekirja. 
-
-Hinta 140e
-
-Mitat cm:
-
-L 42
-
-S 26
-
-K 1]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/lenco-dar-081-cd-radio</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41299812/a3ddfe9d-de51-43ec-8b16-159eb989dc16</g:image_link>
-      <g:price>140.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[273]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41299757</g:id>
-      <g:title><![CDATA[Klassinen pikku kaappi]]></g:title>
-      <g:description><![CDATA[Kaunis klassinen siro kaappi myytävänä. Rakenteeltaan kaappi on kaikin puolin tukeva ja ehjä. Vetolaatikko ja ovet toimivat hyvin. Sisusta siisti. Kannessa pikk]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/klassinen-pikku-kaappi-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41299757/b09fd374-0b48-413a-b0d8-70cc50b3f0c2</g:image_link>
-      <g:price>95.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41223256</g:id>
-      <g:title><![CDATA[Upea Rokokoo ruokapöytä / pöytä]]></g:title>
-      <g:description><![CDATA[Kuvan kaunis Rokokoo tyylin ruokapöytä myytävänä. Pöydän jalka irroitettava. Runko tukeva. Kannessa kuvan mukaista jälkeä. Ei hajuja. Uudempaa tuotantoa.
-
-Hinta]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kaunis-rokokoo-ruokapoyta-?category=pydt</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41223256/5051f7fa-9a5c-44cd-9e07-ad4123f66006</g:image_link>
-      <g:price>245.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41223234</g:id>
@@ -2925,19 +2737,6 @@ Hinta]]></g:description>
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41223267</g:id>
-      <g:title><![CDATA[Jatkettava ruokapöytä / pöytä]]></g:title>
-      <g:description><![CDATA[Klassinen tyylin omaava jatkettava ruokapöytä myytävänä. Yleiskunto hyvä. Kannessa kevyttä siirtonaarmua sekä pari kolhua. Jatkopala kätevästi taitolla. 
-
-Hinta]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/jatkettava-ruokapoyta-b2b6893a6ac70078</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41223267/7aca43d0-322d-4686-a54b-38306d187490</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-41208519</g:id>
       <g:title><![CDATA[Orient matto]]></g:title>
       <g:description><![CDATA[Kaunis käsinsolmittu orient matto myytävänä. Matto on paksu ja erittäin mukava jalan alla. Muutamia painaumia sohvapöydästä ja pari pientä tahraa. Ei hajuja. Ko]]></g:description>
@@ -2949,17 +2748,17 @@ Hinta]]></g:description>
       <g:google_product_category><![CDATA[598]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41208562</g:id>
-      <g:title><![CDATA[Vintage rottinkinen tarjoiluvaunu / kärry / sohvapöytä]]></g:title>
-      <g:description><![CDATA[50-luvun kaunis rottinki tarjoilukärry myytävänä. Kunto ikäisekseen hyvä. Pieniä punos vikoja / korjauksia. Runko ehjä ja tukeva. Lasi ehjä. Ei hajuja. 
+      <g:id>tori-41223256</g:id>
+      <g:title><![CDATA[Upea Rokokoo ruokapöytä / pöytä]]></g:title>
+      <g:description><![CDATA[Kuvan kaunis Rokokoo tyylin ruokapöytä myytävänä. Pöydän jalka irroitettava. Runko tukeva. Kannessa kuvan mukaista jälkeä. Ei hajuja. Uudempaa tuotantoa.
 
-Hinta ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-rottinkinen-tarjoiluvaunu</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41208562/45cdd4ff-60dd-4903-bb31-f0d5813aae54</g:image_link>
-      <g:price>235.00 EUR</g:price>
+Hinta]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kaunis-rokokoo-ruokapoyta-?category=pydt</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41223256/5051f7fa-9a5c-44cd-9e07-ad4123f66006</g:image_link>
+      <g:price>245.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41208492</g:id>
@@ -3091,24 +2890,14 @@ Pormestarin nojatuolit 2kpl 35]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41147044</g:id>
-      <g:title><![CDATA[Rokokoo sohvapöytä / olohuoneenpöytä]]></g:title>
-      <g:description><![CDATA[Kepeä Rokokoo tyylin olohuoneenpöytä myytävänä. Kunto hyvä. Runko tukeva. Kuvan mukaista pientä jälkeä kannessa.
+      <g:id>tori-41208562</g:id>
+      <g:title><![CDATA[Vintage rottinkinen tarjoiluvaunu / kärry / sohvapöytä]]></g:title>
+      <g:description><![CDATA[50-luvun kaunis rottinki tarjoilukärry myytävänä. Kunto ikäisekseen hyvä. Pieniä punos vikoja / korjauksia. Runko ehjä ja tukeva. Lasi ehjä. Ei hajuja. 
 
-Hinta 95e
-
-Mitat cm:
-
-P 90
-
-L 54
-
-K 52
-
-Tuote ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/rokokoo-sohvapoyta-a3edd8a04aff0e96</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41147044/93b09881-90b0-4079-983a-86b95dd87940</g:image_link>
-      <g:price>95.00 EUR</g:price>
+Hinta ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-rottinkinen-tarjoiluvaunu</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41208562/45cdd4ff-60dd-4903-bb31-f0d5813aae54</g:image_link>
+      <g:price>235.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[1395]]></g:google_product_category>
@@ -3247,20 +3036,27 @@ Tuot]]></g:description>
       <g:google_product_category><![CDATA[7416]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-40754856</g:id>
-      <g:title><![CDATA[Retro hylly / teline 60-luku]]></g:title>
-      <g:description><![CDATA[60-luvun tyylikäs retro puhelinhylly / seinähylly myytävänä. Aika tuonut muutamia jälkiä. Kiinnikkeet mukana. Metallirunko ehjä ja suora.
+      <g:id>tori-41147044</g:id>
+      <g:title><![CDATA[Rokokoo sohvapöytä / olohuoneenpöytä]]></g:title>
+      <g:description><![CDATA[Kepeä Rokokoo tyylin olohuoneenpöytä myytävänä. Kunto hyvä. Runko tukeva. Kuvan mukaista pientä jälkeä kannessa.
 
 Hinta 95e
 
 Mitat cm:
-]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-seinahylly-lehtiteline-60-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/40754856/13dfcdc3-5e97-4202-8db4-2380a1d810fd</g:image_link>
+
+P 90
+
+L 54
+
+K 52
+
+Tuote ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/rokokoo-sohvapoyta-a3edd8a04aff0e96</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41147044/93b09881-90b0-4079-983a-86b95dd87940</g:image_link>
       <g:price>95.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-40708309</g:id>
@@ -3373,19 +3169,20 @@ Hyödynnä ilmainen kotiinkuljetus pk-seudulle]]></g:description>
       <g:google_product_category><![CDATA[7072]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-37941412</g:id>
-      <g:title><![CDATA[Design ryijy - Ellamaria Alakanto -67]]></g:title>
-      <g:description><![CDATA[Upea suuri kotimainen design ryijy etsii uutta kotia. Ryijy on siisti eikä siinä ole hajuja. Ryijy nimi "kevät metsässä". Koko noin 133x183 cm.
+      <g:id>tori-40754856</g:id>
+      <g:title><![CDATA[Retro hylly / teline 60-luku]]></g:title>
+      <g:description><![CDATA[60-luvun tyylikäs retro puhelinhylly / seinähylly myytävänä. Aika tuonut muutamia jälkiä. Kiinnikkeet mukana. Metallirunko ehjä ja suora.
 
-Hinta 350e
+Hinta 95e
 
-Tuo]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/ellemaria-alakanto-design-ryijy-67</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/37941412/f8935ff8-f3d7-4633-be8f-707bfc528244</g:image_link>
-      <g:price>350.00 EUR</g:price>
+Mitat cm:
+]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-seinahylly-lehtiteline-60-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/40754856/13dfcdc3-5e97-4202-8db4-2380a1d810fd</g:image_link>
+      <g:price>95.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-37867343</g:id>
@@ -3397,7 +3194,7 @@ Tavarat ovat hyväkuntoisia ja valittu arkea helpottamaan.
 \u{d83d}\]]></g:description>
       <g:link>https://secondhandshop.fi/</g:link>
       <g:image_link>https://img.tori.net/dynamic/1280w/item/37867343/d66c06e2-8b38-461a-9783-b4120de5ebb2</g:image_link>
-      <g:price>135.00 EUR</g:price>
+      <g:price>250.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
@@ -3441,7 +3238,7 @@ Tavarat ovat hyväkuntoisia ja valittu arkea helpottamaan.
       <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
       <g:link>https://secondhandshop.fi/</g:link>
       <g:image_link>https://img.tori.net/dynamic/1280w/item/37863410/4bb34cf9-38f0-413f-b512-b55fa3a1c104</g:image_link>
-      <g:price>135.00 EUR</g:price>
+      <g:price>250.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
@@ -3497,15 +3294,19 @@ H]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-37759425</g:id>
-      <g:title><![CDATA[Upea Kustavilainen sohva]]></g:title>
-      <g:description><![CDATA[Kuvan upea vanhan ajan Kustavi tyylin sohva myytävänä. Yleiskunto ikäisekseen hyvä. Verhoilu ehjä. Pieniä jälkiä löytyy verhoilusta sekä puuosista. Runko ja rak]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-vanha-kustavilainen-sohva</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/37759425/6df599da-53cd-4e72-b470-c6af52a2c190</g:image_link>
-      <g:price>390.00 EUR</g:price>
+      <g:id>tori-37941412</g:id>
+      <g:title><![CDATA[Design ryijy - Ellamaria Alakanto -67]]></g:title>
+      <g:description><![CDATA[Upea suuri kotimainen design ryijy etsii uutta kotia. Ryijy on siisti eikä siinä ole hajuja. Ryijy nimi "kevät metsässä". Koko noin 133x183 cm.
+
+Hinta 350e
+
+Tuo]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/ellemaria-alakanto-design-ryijy-67</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37941412/f8935ff8-f3d7-4633-be8f-707bfc528244</g:image_link>
+      <g:price>350.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-37759409</g:id>
@@ -3625,16 +3426,15 @@ Toimitus mahdollisuus ympäri Suo]]></g:description>
       <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-37560375</g:id>
-      <g:title><![CDATA[String-hylly 60-luku tammi]]></g:title>
-      <g:description><![CDATA[Tyylikäs korkean mallin String hylly myytävänä. Hyllyt tammiviilutetut. Kannakkeissa eroja. Yleiskunto ikäisekseen hyvä. Hyllyissä muutamia kolhuja ja jälkiä. 
-]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/string-hylly-60-luku-tammi-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/37560375/554d6747-c911-426f-a866-0d0938690f1c</g:image_link>
-      <g:price>345.00 EUR</g:price>
+      <g:id>tori-37759425</g:id>
+      <g:title><![CDATA[Upea Kustavilainen sohva]]></g:title>
+      <g:description><![CDATA[Kuvan upea vanhan ajan Kustavi tyylin sohva myytävänä. Yleiskunto ikäisekseen hyvä. Verhoilu ehjä. Pieniä jälkiä löytyy verhoilusta sekä puuosista. Runko ja rak]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-vanha-kustavilainen-sohva</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37759425/6df599da-53cd-4e72-b470-c6af52a2c190</g:image_link>
+      <g:price>390.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-37560336</g:id>
@@ -3744,15 +3544,16 @@ Hin]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-37501910</g:id>
-      <g:title><![CDATA[Vanha peililipasto / peilipiironki]]></g:title>
-      <g:description><![CDATA[Kauniisti kauttaaltaan patinoitunut puinen peilipiironki myytävänä. Kuluneisuudestaan huolimatta lipasto on kaikin puolin käyttökunnossa. Vetolaatikot toimivat ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-peilipiironki-127b9af9644f9cb3</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/37501910/a42deed8-56bc-4c3b-b590-77a3df2ac228</g:image_link>
-      <g:price>325.00 EUR</g:price>
+      <g:id>tori-37560375</g:id>
+      <g:title><![CDATA[String-hylly 60-luku tammi]]></g:title>
+      <g:description><![CDATA[Tyylikäs korkean mallin String hylly myytävänä. Hyllyt tammiviilutetut. Kannakkeissa eroja. Yleiskunto ikäisekseen hyvä. Hyllyissä muutamia kolhuja ja jälkiä. 
+]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/string-hylly-60-luku-tammi-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37560375/554d6747-c911-426f-a866-0d0938690f1c</g:image_link>
+      <g:price>345.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-37379756</g:id>
@@ -3892,12 +3693,12 @@ Tuote Sal]]></g:description>
       <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-37176745</g:id>
-      <g:title><![CDATA[Suuri antiikki arkku]]></g:title>
-      <g:description><![CDATA[Komea 1700-luvun suuri arkku myytävänä. Kunto ikäänsä nähden hyvä. Puu on kunnossa ja rakenne tukeva. Mikä hienointa lukko toimii ja avain tallessa. Ei hajuja. ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/suuri-antiikki-arkku-1700-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/37176745/a4aadd0e-20a0-44dd-8cd8-6127ff5092a8</g:image_link>
-      <g:price>270.00 EUR</g:price>
+      <g:id>tori-37501910</g:id>
+      <g:title><![CDATA[Vanha peililipasto / peilipiironki]]></g:title>
+      <g:description><![CDATA[Kauniisti kauttaaltaan patinoitunut puinen peilipiironki myytävänä. Kuluneisuudestaan huolimatta lipasto on kaikin puolin käyttökunnossa. Vetolaatikot toimivat ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-peilipiironki-127b9af9644f9cb3</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37501910/a42deed8-56bc-4c3b-b590-77a3df2ac228</g:image_link>
+      <g:price>325.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
@@ -3912,6 +3713,17 @@ Tuote Sal]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6358]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-36713421</g:id>
+      <g:title><![CDATA[Jugend kunnostettu sohva / puusohva / kangassohva]]></g:title>
+      <g:description><![CDATA[Upea kunnostettu ja uudelleen verhoiltu Jugend tyylin sohva myytävänä. Verhoilu puhdas ja siisti. Työ teetetty ammattilaisella. Runko ja jousitus kunnossa. Puuo]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/jugend-sohva</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/36713421/dfda43e7-f778-4b90-bd73-c6797a79b501</g:image_link>
+      <g:price>325.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-36713477</g:id>
@@ -3940,17 +3752,6 @@ Toimitus mahdollisuus ympäri Suomen. Rahti]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[447]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-36713421</g:id>
-      <g:title><![CDATA[Jugend kunnostettu sohva / puusohva / kangassohva]]></g:title>
-      <g:description><![CDATA[Upea kunnostettu ja uudelleen verhoiltu Jugend tyylin sohva myytävänä. Verhoilu puhdas ja siisti. Työ teetetty ammattilaisella. Runko ja jousitus kunnossa. Puuo]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/jugend-sohva</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/36713421/dfda43e7-f778-4b90-bd73-c6797a79b501</g:image_link>
-      <g:price>325.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-36610546</g:id>
@@ -3986,21 +3787,15 @@ Toimitus mahdollisuus ympäri Suomen. Rahti]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-36610525</g:id>
-      <g:title><![CDATA[Retro ryijy]]></g:title>
-      <g:description><![CDATA[Hyväkuntoinen retro ryijy etsii uutta kotia. Ei hajuja ja kangas ehjä. Koko 107x165 cm. Tankoa ei ole mukana.
-
-Hinta 170e
-
-Tuote Salossa.
-
-Toimitus mahdollisuus]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-ryijy-107x165</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/36610525/f1eea17d-e996-4d0e-882d-ceed69b6b5cb</g:image_link>
-      <g:price>170.00 EUR</g:price>
+      <g:id>tori-37176745</g:id>
+      <g:title><![CDATA[Suuri antiikki arkku]]></g:title>
+      <g:description><![CDATA[Komea 1700-luvun suuri arkku myytävänä. Kunto ikäänsä nähden hyvä. Puu on kunnossa ja rakenne tukeva. Mikä hienointa lukko toimii ja avain tallessa. Ei hajuja. ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/suuri-antiikki-arkku-1700-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37176745/a4aadd0e-20a0-44dd-8cd8-6127ff5092a8</g:image_link>
+      <g:price>270.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-36610473</g:id>
@@ -4158,15 +3953,21 @@ K]]></g:description>
       <g:google_product_category><![CDATA[4355]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-35436264</g:id>
-      <g:title><![CDATA[Pauli Blomstedt pöytä / kirjoituspöytä 30-luku, funkkis / Heteka]]></g:title>
-      <g:description><![CDATA[Hieno 30-luvun funkkis työpöytä / kirjoituspöytä myytävänä. Kunto ikäisekseen hyvä. Muutamia kuvan mukaisia jälkiä löytyy. Runko tukeva ja putket kunnossa. Ovi ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/pauli-blomstedt-tyopoyta-30-luku-heteka</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/35436264/daecc725-5b5d-4e6d-b308-f827295ac7f5</g:image_link>
-      <g:price>490.00 EUR</g:price>
+      <g:id>tori-36610525</g:id>
+      <g:title><![CDATA[Retro ryijy]]></g:title>
+      <g:description><![CDATA[Hyväkuntoinen retro ryijy etsii uutta kotia. Ei hajuja ja kangas ehjä. Koko 107x165 cm. Tankoa ei ole mukana.
+
+Hinta 170e
+
+Tuote Salossa.
+
+Toimitus mahdollisuus]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-ryijy-107x165</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/36610525/f1eea17d-e996-4d0e-882d-ceed69b6b5cb</g:image_link>
+      <g:price>170.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
+      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-35436249</g:id>
@@ -4294,15 +4095,15 @@ T]]></g:description>
       <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-35381887</g:id>
-      <g:title><![CDATA[Retro tiikki jakkara / palli 60-luku]]></g:title>
-      <g:description><![CDATA[Nätti tiikki runkoinen retro jakkara myytävänä. Runko ehjä ja tukeva. Kangas siisti eikä ole hajuja. Kuvan mukaiset painaumat tällä hetkellä läsnä, mutta saatta]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-jakkara-60-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/35381887/6af3fef1-2cd0-4190-93e2-7e85310eb3c4</g:image_link>
-      <g:price>90.00 EUR</g:price>
+      <g:id>tori-35436264</g:id>
+      <g:title><![CDATA[Pauli Blomstedt pöytä / kirjoituspöytä 30-luku, funkkis / Heteka]]></g:title>
+      <g:description><![CDATA[Hieno 30-luvun funkkis työpöytä / kirjoituspöytä myytävänä. Kunto ikäisekseen hyvä. Muutamia kuvan mukaisia jälkiä löytyy. Runko tukeva ja putket kunnossa. Ovi ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/pauli-blomstedt-tyopoyta-30-luku-heteka</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/35436264/daecc725-5b5d-4e6d-b308-f827295ac7f5</g:image_link>
+      <g:price>490.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-35095424</g:id>
@@ -4440,15 +4241,15 @@ K]]></g:description>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-34713956</g:id>
-      <g:title><![CDATA[String tyylinen hylly / kirjahylly 50/60-luku]]></g:title>
-      <g:description><![CDATA[Tämä upea 50/60-luvun String tyylinen seinähylly etsii uutta kotia. Päädyt hiljattain entisöity mustaksi. Hyllyt eivät ole alkuperäiset, mutta erittäin hyvässä ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-string-tyylin-hylly-50-60-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/34713956/d138f78c-b09d-434d-bc87-2a1e67677546</g:image_link>
-      <g:price>345.00 EUR</g:price>
+      <g:id>tori-35381887</g:id>
+      <g:title><![CDATA[Retro tiikki jakkara / palli 60-luku]]></g:title>
+      <g:description><![CDATA[Nätti tiikki runkoinen retro jakkara myytävänä. Runko ehjä ja tukeva. Kangas siisti eikä ole hajuja. Kuvan mukaiset painaumat tällä hetkellä läsnä, mutta saatta]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-jakkara-60-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/35381887/6af3fef1-2cd0-4190-93e2-7e85310eb3c4</g:image_link>
+      <g:price>90.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-34439342</g:id>
@@ -4612,21 +4413,15 @@ P 140
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-33099244</g:id>
-      <g:title><![CDATA[Retro ryijy]]></g:title>
-      <g:description><![CDATA[Erittäin siisti kuvan retro ryijy etsii uutta kotia. Ryijy on puhdas eikä ole hajuja. Ohut tanko mukana. Koko 117x155 cm.
-
-Hinta 190e
-
-Tuote Salossa.
-
-Toimitus ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-ryijy-117x155-cm</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/33099244/176df9ca-97c2-4bed-9211-a45b7cee2e04</g:image_link>
-      <g:price>190.00 EUR</g:price>
+      <g:id>tori-34713956</g:id>
+      <g:title><![CDATA[String tyylinen hylly / kirjahylly 50/60-luku]]></g:title>
+      <g:description><![CDATA[Tämä upea 50/60-luvun String tyylinen seinähylly etsii uutta kotia. Päädyt hiljattain entisöity mustaksi. Hyllyt eivät ole alkuperäiset, mutta erittäin hyvässä ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-string-tyylin-hylly-50-60-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/34713956/d138f78c-b09d-434d-bc87-2a1e67677546</g:image_link>
+      <g:price>345.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-33060040</g:id>
@@ -4742,15 +4537,21 @@ Hinta 295e
       <g:google_product_category><![CDATA[598]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-32717003</g:id>
-      <g:title><![CDATA[Varjosen pinnatuoli 2kpl]]></g:title>
-      <g:description><![CDATA[Retro henkiset kotimaiset pinnatuolit myytävänä. Molemmissa rungot tukevia ja liitokset kunnossa. Muutamia jälkiä maalissa ja kellastumaa istuimessa. Istuinkork]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/varjosen-pinnatuolit-2kpl-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/32717003/821429d1-8674-41dd-a2a6-1f67cfc90309</g:image_link>
-      <g:price>90.00 EUR</g:price>
+      <g:id>tori-33099244</g:id>
+      <g:title><![CDATA[Retro ryijy]]></g:title>
+      <g:description><![CDATA[Erittäin siisti kuvan retro ryijy etsii uutta kotia. Ryijy on puhdas eikä ole hajuja. Ohut tanko mukana. Koko 117x155 cm.
+
+Hinta 190e
+
+Tuote Salossa.
+
+Toimitus ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-ryijy-117x155-cm</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/33099244/176df9ca-97c2-4bed-9211-a45b7cee2e04</g:image_link>
+      <g:price>190.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+      <g:google_product_category><![CDATA[505384]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-32716918</g:id>
@@ -4876,24 +4677,12 @@ M]]></g:description>
       <g:google_product_category><![CDATA[5169]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-32459061</g:id>
-      <g:title><![CDATA[Barokki penkki / palli]]></g:title>
-      <g:description><![CDATA[Nätti siro vanhan tyylinen jakkara / rahi myytävänä. Kunto hyvä. Runko tukeva. Pieniä käytön jälkiä puuosissa. 
-
-Hinta 85e
-
-Mitat cm:
-
-L 45
-
-S 36
-
-K 49
-
-Tuote S]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kaunis-jakkara-rahi</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/32459061/90809ef7-14ef-4de3-951d-a6006b33843a</g:image_link>
-      <g:price>85.00 EUR</g:price>
+      <g:id>tori-32717003</g:id>
+      <g:title><![CDATA[Varjosen pinnatuoli 2kpl]]></g:title>
+      <g:description><![CDATA[Retro henkiset kotimaiset pinnatuolit myytävänä. Molemmissa rungot tukevia ja liitokset kunnossa. Muutamia jälkiä maalissa ja kellastumaa istuimessa. Istuinkork]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/varjosen-pinnatuolit-2kpl-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/32717003/821429d1-8674-41dd-a2a6-1f67cfc90309</g:image_link>
+      <g:price>90.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
@@ -4952,7 +4741,7 @@ Hinta 200e
 Mitat cm:
 
 L ]]></g:description>
-      <g:link>https://www.tori.fi/recommerce/forsale/item/32429218</g:link>
+      <g:link>https://secondhandshop.fi/tuote/kunnostettu-jugend-sohva-</g:link>
       <g:image_link>https://img.tori.net/dynamic/1280w/item/32429218/e344455c-db65-4019-9efd-32c2c05a13da</g:image_link>
       <g:price>200.00 EUR</g:price>
       <g:condition>used</g:condition>
@@ -5022,15 +4811,27 @@ Hinta 2]]></g:description>
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-32429243</g:id>
-      <g:title><![CDATA[Upea entisöity rottinki sohva]]></g:title>
-      <g:description><![CDATA[Tämä upea rottinkinen kolmen istuttava sohva etsii uutta kotia. Verhoilut uusittu ammattilaisen toimesta. Kunto ikäisekseen hyvä. Rottingeissa pieniä vikoja. Is]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-entisoity-rottinki-sohva</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/32429243/d752a696-bd7f-4173-8d23-bf5ea45d332f</g:image_link>
-      <g:price>380.00 EUR</g:price>
+      <g:id>tori-32459061</g:id>
+      <g:title><![CDATA[Barokki penkki / palli]]></g:title>
+      <g:description><![CDATA[Nätti siro vanhan tyylinen jakkara / rahi myytävänä. Kunto hyvä. Runko tukeva. Pieniä käytön jälkiä puuosissa. 
+
+Hinta 85e
+
+Mitat cm:
+
+L 45
+
+S 36
+
+K 49
+
+Tuote S]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kaunis-jakkara-rahi</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/32459061/90809ef7-14ef-4de3-951d-a6006b33843a</g:image_link>
+      <g:price>85.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-32227599</g:id>
@@ -5166,15 +4967,15 @@ K 19]]></g:description>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-31922103</g:id>
-      <g:title><![CDATA[Trestle kirjoituspöytä / työpöytä]]></g:title>
-      <g:description><![CDATA[Hienoa korkeussäädettävä design työpöytä myytävänä. 1,2 cm paksu laskikansi sekä pukkijalat. Lasin kulmassa pieni kolhu, lasista ei puutu palaa. Jalat erinomais]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/trestle-kirjoituspoyta-korkeussaadettava</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/31922103/2baa731c-46d0-44de-a9d2-1e1e03d90105</g:image_link>
-      <g:price>690.00 EUR</g:price>
+      <g:id>tori-32429243</g:id>
+      <g:title><![CDATA[Upea entisöity rottinki sohva]]></g:title>
+      <g:description><![CDATA[Tämä upea rottinkinen kolmen istuttava sohva etsii uutta kotia. Verhoilut uusittu ammattilaisen toimesta. Kunto ikäisekseen hyvä. Rottingeissa pieniä vikoja. Is]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-entisoity-rottinki-sohva</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/32429243/d752a696-bd7f-4173-8d23-bf5ea45d332f</g:image_link>
+      <g:price>380.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-27820156</g:id>
@@ -5306,21 +5107,15 @@ S 45
       <g:google_product_category><![CDATA[5169]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-28116234</g:id>
-      <g:title><![CDATA[Bouvier de Cachard - 64, Piazza San Marco printtityö]]></g:title>
-      <g:description><![CDATA[Bouvier de Cachard - 64, Piazza San Marco. Printtityö nro 11. Kunto hyvä. Kehyskoko 70x60 cm. 
-
-Hinta 120e
-
-Tuote Salossa.
-
-Toimitus mahdollisuus ympäri Suomen.]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/bouvier-de-cachard-64-piazza-san-marco-printtityo</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/e6/e633ce97-af2e-4074-8c48-c598cd35be4d</g:image_link>
-      <g:price>120.00 EUR</g:price>
+      <g:id>tori-31922103</g:id>
+      <g:title><![CDATA[Trestle kirjoituspöytä / työpöytä]]></g:title>
+      <g:description><![CDATA[Hienoa korkeussäädettävä design työpöytä myytävänä. 1,2 cm paksu laskikansi sekä pukkijalat. Lasin kulmassa pieni kolhu, lasista ei puutu palaa. Jalat erinomais]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/trestle-kirjoituspoyta-korkeussaadettava</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31922103/2baa731c-46d0-44de-a9d2-1e1e03d90105</g:image_link>
+      <g:price>690.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[505417]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-28064741</g:id>
@@ -5460,15 +5255,21 @@ Toimitus mah]]></g:description>
       <g:google_product_category><![CDATA[6358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-29579005</g:id>
-      <g:title><![CDATA[Upea kirjoituspöytä / pöytä 40-luku]]></g:title>
-      <g:description><![CDATA[Hieno 40-luvun funkkis työpöytä myytävänä. Yleiskunto ikäisekseen hyvä. Pöydän etureunassa kolhua ja kyljessä naarmu. Kansi siisti. Vetolaatikot liukuvat sujuva]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-kirjoituspoyta-40-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/01/01ee7d99-45fa-4d89-a4d4-e828099504b7</g:image_link>
-      <g:price>445.00 EUR</g:price>
+      <g:id>tori-28116234</g:id>
+      <g:title><![CDATA[Bouvier de Cachard - 64, Piazza San Marco printtityö]]></g:title>
+      <g:description><![CDATA[Bouvier de Cachard - 64, Piazza San Marco. Printtityö nro 11. Kunto hyvä. Kehyskoko 70x60 cm. 
+
+Hinta 120e
+
+Tuote Salossa.
+
+Toimitus mahdollisuus ympäri Suomen.]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/bouvier-de-cachard-64-piazza-san-marco-printtityo</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/e6/e633ce97-af2e-4074-8c48-c598cd35be4d</g:image_link>
+      <g:price>120.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
+      <g:google_product_category><![CDATA[505417]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-29598714</g:id>
@@ -5606,15 +5407,15 @@ Vanhan ajan tammiviilutettu keittiökaappi etsii uutta kotia. Avaimet]]></g:desc
       <g:google_product_category><![CDATA[8024]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-29579045</g:id>
-      <g:title><![CDATA[Retro messinkinen sohvapöytä / lasipöytä]]></g:title>
-      <g:description><![CDATA[Tyylikäs retro messinkinen lasipöytä myytävänä. Yleiskunto hyvä. Runko ehjä ja tukeva. Tarvittaessa purettavissa. Lasi siisti. Parissa kulmassa pienet kolhut. R]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/retro-messinkipoyta-71e2d754c3d5bfd5</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/6e/6e13ada1-22bf-4b98-bd83-c756ac7cf3da</g:image_link>
-      <g:price>190.00 EUR</g:price>
+      <g:id>tori-29579005</g:id>
+      <g:title><![CDATA[Upea kirjoituspöytä / pöytä 40-luku]]></g:title>
+      <g:description><![CDATA[Hieno 40-luvun funkkis työpöytä myytävänä. Yleiskunto ikäisekseen hyvä. Pöydän etureunassa kolhua ja kyljessä naarmu. Kansi siisti. Vetolaatikot liukuvat sujuva]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-kirjoituspoyta-40-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/01/01ee7d99-45fa-4d89-a4d4-e828099504b7</g:image_link>
+      <g:price>445.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-30362454</g:id>
@@ -5747,23 +5548,15 @@ Toim]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-30731707</g:id>
-      <g:title><![CDATA[Antiikki talonpoikais lapio / entisöity!]]></g:title>
-      <g:description><![CDATA[Upea kunnostettu Talonpoikais lapio myytävänä. Korkeus 125 cm. 
-
-Hinta 90e
-
-Tuote Salossa.
-
-Toimitus mahdollisuus ympäri Suomen. Rahtimaksu näkyy kassalla.
-
-Hyö]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/entisoity-antiikki-lapio-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/30731707/8e0972d3-f1e6-418e-8ce4-ec9549130adb</g:image_link>
-      <g:price>90.00 EUR</g:price>
+      <g:id>tori-29579045</g:id>
+      <g:title><![CDATA[Retro messinkinen sohvapöytä / lasipöytä]]></g:title>
+      <g:description><![CDATA[Tyylikäs retro messinkinen lasipöytä myytävänä. Yleiskunto hyvä. Runko ehjä ja tukeva. Tarvittaessa purettavissa. Lasi siisti. Parissa kulmassa pienet kolhut. R]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/retro-messinkipoyta-71e2d754c3d5bfd5</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/6e/6e13ada1-22bf-4b98-bd83-c756ac7cf3da</g:image_link>
+      <g:price>190.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[436]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-30445457</g:id>
@@ -5902,15 +5695,23 @@ Tu]]></g:description>
       <g:google_product_category><![CDATA[500003]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-31158888</g:id>
-      <g:title><![CDATA[Vanha Jugend keinu - ilmainen toimitus]]></g:title>
-      <g:description><![CDATA[Vanhan ajan Jugend puinen keinutuoli myytävänä. Rakenteeltaan tuoli on kaikin puolin tukeva ja liitokset ovat pitäviä. Verhoilussa patinaa ja repsottaa paikoite]]></g:description>
-      <g:link>https://www.tori.fi/recommerce/forsale/item/31158888</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/31158888/42d961f6-a81b-475e-8345-0837fa472038</g:image_link>
-      <g:price>95.00 EUR</g:price>
+      <g:id>tori-30731707</g:id>
+      <g:title><![CDATA[Antiikki talonpoikais lapio / entisöity!]]></g:title>
+      <g:description><![CDATA[Upea kunnostettu Talonpoikais lapio myytävänä. Korkeus 125 cm. 
+
+Hinta 90e
+
+Tuote Salossa.
+
+Toimitus mahdollisuus ympäri Suomen. Rahtimaksu näkyy kassalla.
+
+Hyö]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/entisoity-antiikki-lapio-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/30731707/8e0972d3-f1e6-418e-8ce4-ec9549130adb</g:image_link>
+      <g:price>90.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
+      <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-31149130</g:id>
@@ -6016,21 +5817,15 @@ Mitat]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-31105918</g:id>
-      <g:title><![CDATA[Upea Rokokoo sohvapöytä / olohuoneenpöytä]]></g:title>
-      <g:description><![CDATA[Hienossa kunnossa pidetty Rokokoo tyylin olohuoneenpöytä myytävänä. Runko ehjä ja tukeva. Kannessa vähäistä siirtonaarmua. Ei hajuja.
-
-Hinta 170e
-
-Mitat cm:
-
-P ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-rokokoo-sohvapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/31105918/6c247d15-d2ed-4386-8e97-b47e569ddefe</g:image_link>
-      <g:price>170.00 EUR</g:price>
+      <g:id>tori-31158888</g:id>
+      <g:title><![CDATA[Vanha Jugend keinu - ilmainen toimitus]]></g:title>
+      <g:description><![CDATA[Vanhan ajan Jugend puinen keinutuoli myytävänä. Rakenteeltaan tuoli on kaikin puolin tukeva ja liitokset ovat pitäviä. Verhoilussa patinaa ja repsottaa paikoite]]></g:description>
+      <g:link>https://www.tori.fi/recommerce/forsale/item/31158888</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31158888/42d961f6-a81b-475e-8345-0837fa472038</g:image_link>
+      <g:price>95.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-31041577</g:id>
@@ -6202,15 +5997,21 @@ Toimitus mah]]></g:description>
       <g:google_product_category><![CDATA[2524]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-31530145</g:id>
-      <g:title><![CDATA[Rottinki tuoli 2kpl]]></g:title>
-      <g:description><![CDATA[Upeat rottinkiselkänojalla varustetut vanhat tuolit myytävänä. Kunto molemmissa erittäin hyvä. Rungot tukevia. Rottingeissa hyvin pieniä vikoja. Verhoilu puhdas]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/rottinki-tuoli-2kpl</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/31530145/c05f8e0d-1f16-460c-aad5-cb59dfa86b34</g:image_link>
-      <g:price>150.00 EUR</g:price>
+      <g:id>tori-31105918</g:id>
+      <g:title><![CDATA[Upea Rokokoo sohvapöytä / olohuoneenpöytä]]></g:title>
+      <g:description><![CDATA[Hienossa kunnossa pidetty Rokokoo tyylin olohuoneenpöytä myytävänä. Runko ehjä ja tukeva. Kannessa vähäistä siirtonaarmua. Ei hajuja.
+
+Hinta 170e
+
+Mitat cm:
+
+P ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-rokokoo-sohvapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31105918/6c247d15-d2ed-4386-8e97-b47e569ddefe</g:image_link>
+      <g:price>170.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-31530123</g:id>
@@ -6368,65 +6169,15 @@ Toimitus ]]></g:description>
       <g:google_product_category><![CDATA[273]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42113052</g:id>
-      <g:title><![CDATA[Vanha kaunis penkki - ilmainen toimitus pk-seudulle 5.6. / 12.6. ]]></g:title>
-      <g:description><![CDATA[Tämä vanha kaunis Kustavi tyylin penkki etsii uutta kotia. Runko ehjä ja tukeva. Maalissa ajan tuomia jälkiä. Verhoilussa pari liimatahraa. Verhoilu aikanaan va]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-kaunis-penkki</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113052/fe0970a9-9467-4e40-97ff-d59f28520e4f</g:image_link>
-      <g:price>135.00 EUR</g:price>
+      <g:id>tori-31530145</g:id>
+      <g:title><![CDATA[Rottinki tuoli 2kpl]]></g:title>
+      <g:description><![CDATA[Upeat rottinkiselkänojalla varustetut vanhat tuolit myytävänä. Kunto molemmissa erittäin hyvä. Rungot tukevia. Rottingeissa hyvin pieniä vikoja. Verhoilu puhdas]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/rottinki-tuoli-2kpl</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31530145/c05f8e0d-1f16-460c-aad5-cb59dfa86b34</g:image_link>
+      <g:price>150.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42113274</g:id>
-      <g:title><![CDATA[Antiikki klaffipöytä / ruokapöytä]]></g:title>
-      <g:description><![CDATA[Kaunis rustiikkinen puinen ruokapöytä myytävänä. Pöydän toisessa päässä taitettava klaffi. Pöydän rakenne tukeva. Kevyt siirrettävä / käytettävä. Pöydän runkoon]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-klaffipoyta-ea6e0b22c69e8b98</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113274/c9af01ef-3965-4a6e-b988-47d3ba9bde13</g:image_link>
-      <g:price>240.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42113246</g:id>
-      <g:title><![CDATA[Vanha jatkettava sohvapöytä / olohuoneenpöytä]]></g:title>
-      <g:description><![CDATA[Aikanaan kunnostettu jatkettava olohuoneenpöytä etsii uutta kotia. Jatkossa pienet korjaukset. Muilta osin kunto erittäin hyvä. Runko tukeva. 
-
-Hinta 125e
-
-Mita]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kunnostettu-jatkettava-sohvapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113246/83270d4f-aa1c-4354-bacb-b731fc766cd9</g:image_link>
-      <g:price>125.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42113226</g:id>
-      <g:title><![CDATA[Vintage vitriini / tiski / lipasto - ILMAINEN TOIMITUS SALOSSA]]></g:title>
-      <g:description><![CDATA[https://secondhandshop.fi/tuote/vintage-vitriini-tiski
-
-Upea 50-luvun vintage vitriinitiski myytävänä. Lasit on vaihdettu. Muilta osin alkuperäinen. Löytyy kulu]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-vitriini-tiski</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113226/a1db4c07-7d04-4fe5-96f2-0e3f2c323f91</g:image_link>
-      <g:price>495.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-31676075</g:id>
-      <g:title><![CDATA[Pioneer Kuro 60" televisio]]></g:title>
-      <g:description><![CDATA[Legendaarinen Pioneer Kuro plasma tv etsii uutta kotia. Koko 60 tuumaa. Kaiuttimet, johdot ja kaukosäädin mukana. Seinätelineen saa myös halutessaan mukaansa. J]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/pioneer-kuro-60-televisio</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/31676075/9ea38e1c-cdac-4c22-aa6e-5e3b96d12303</g:image_link>
-      <g:price>490.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4458]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-31668544</g:id>
@@ -6499,15 +6250,65 @@ Tu]]></g:description>
       <g:google_product_category><![CDATA[598]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-42113212</g:id>
-      <g:title><![CDATA[Suuri Talonpoikaisrokokoo / rokokoo senkki]]></g:title>
-      <g:description><![CDATA[Vanhemman tuotannon Talonpoikaisrokokoo tyylin senkki myytävänä. Senkin koko on iso, joten Katso mitat tarkkaan. Täyttä puuta ja painoa löytyy. Kaunista sovitta]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/suuri-vanha-talonpoikaisrokokoo-senkki</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113212/90f241f6-a89b-4785-a430-a8c3e7af8031</g:image_link>
+      <g:id>tori-42113052</g:id>
+      <g:title><![CDATA[Vanha kaunis penkki - ilmainen toimitus pk-seudulle 5.6. / 12.6. ]]></g:title>
+      <g:description><![CDATA[Tämä vanha kaunis Kustavi tyylin penkki etsii uutta kotia. Runko ehjä ja tukeva. Maalissa ajan tuomia jälkiä. Verhoilussa pari liimatahraa. Verhoilu aikanaan va]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-kaunis-penkki</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113052/fe0970a9-9467-4e40-97ff-d59f28520e4f</g:image_link>
+      <g:price>135.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42113274</g:id>
+      <g:title><![CDATA[Antiikki klaffipöytä / ruokapöytä]]></g:title>
+      <g:description><![CDATA[Kaunis rustiikkinen puinen ruokapöytä myytävänä. Pöydän toisessa päässä taitettava klaffi. Pöydän rakenne tukeva. Kevyt siirrettävä / käytettävä. Pöydän runkoon]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-klaffipoyta-ea6e0b22c69e8b98</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113274/c9af01ef-3965-4a6e-b988-47d3ba9bde13</g:image_link>
+      <g:price>240.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42113246</g:id>
+      <g:title><![CDATA[Vanha jatkettava sohvapöytä / olohuoneenpöytä]]></g:title>
+      <g:description><![CDATA[Aikanaan kunnostettu jatkettava olohuoneenpöytä etsii uutta kotia. Jatkossa pienet korjaukset. Muilta osin kunto erittäin hyvä. Runko tukeva. 
+
+Hinta 125e
+
+Mita]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kunnostettu-jatkettava-sohvapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113246/83270d4f-aa1c-4354-bacb-b731fc766cd9</g:image_link>
+      <g:price>125.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42113226</g:id>
+      <g:title><![CDATA[Vintage vitriini / tiski / lipasto - ILMAINEN TOIMITUS SALOSSA]]></g:title>
+      <g:description><![CDATA[https://secondhandshop.fi/tuote/vintage-vitriini-tiski
+
+Upea 50-luvun vintage vitriinitiski myytävänä. Lasit on vaihdettu. Muilta osin alkuperäinen. Löytyy kulu]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-vitriini-tiski</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113226/a1db4c07-7d04-4fe5-96f2-0e3f2c323f91</g:image_link>
+      <g:price>495.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5169]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-31676075</g:id>
+      <g:title><![CDATA[Pioneer Kuro 60" televisio]]></g:title>
+      <g:description><![CDATA[Legendaarinen Pioneer Kuro plasma tv etsii uutta kotia. Koko 60 tuumaa. Kaiuttimet, johdot ja kaukosäädin mukana. Seinätelineen saa myös halutessaan mukaansa. J]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/pioneer-kuro-60-televisio</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/31676075/9ea38e1c-cdac-4c22-aa6e-5e3b96d12303</g:image_link>
       <g:price>490.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[447]]></g:google_product_category>
+      <g:google_product_category><![CDATA[4458]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42113195</g:id>
@@ -6649,19 +6450,6 @@ L 4]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[5938]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-42109377</g:id>
-      <g:title><![CDATA[Klassinen korkeus lipasto / laatikosto - ilmainen toimitus]]></g:title>
-      <g:description><![CDATA[Nätti kompakti klassinen lipasto myytävänä. Yleiskunto hyvä. Vetolaatikot toimivat hyvin. Sisusta siisti eikä ole hajuja. Muutamia pieniä reunakolhuja. 
-
-Hinta ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/klassinen-pikku-lipasto-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/42109377/47a0cd7d-459e-4edc-b221-22f3f45ebc83</g:image_link>
-      <g:price>95.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-42109272</g:id>
@@ -6900,17 +6688,6 @@ Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen koko Tampereen aluee]]></g:d
       <g:google_product_category><![CDATA[5938]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41957049</g:id>
-      <g:title><![CDATA[Hepplewhite tuolit 4kpl (projekti)]]></g:title>
-      <g:description><![CDATA[Nämä kauniit Hepplewhite tyylin tuolit etsivät uutta kotia. Tuolien liitoksissa väljyyttä ja puuosissa kolhua ja pieniä koriste puutoksia Verhoilut ehjät. Myydä]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/hepplewhite-tuolit-4kpl-projekti-nro-2</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41957049/4da29c38-5cd8-45c2-9ecf-0c7e56cca009</g:image_link>
-      <g:price>80.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-41946333</g:id>
       <g:title><![CDATA[Antiikki kaappi / astiakaappi / keittiökaappi]]></g:title>
       <g:description><![CDATA[Tämä komea antiikki kaappi etsii uutta kotia. Kaapin avaimet tallessa ja lukot toimivat ovissa. Kaunista patinaa kauttaaltaan. Vanhaa madon reikää taustassa ja ]]></g:description>
@@ -7027,18 +6804,6 @@ L 61,5]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[5169]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41788613</g:id>
-      <g:title><![CDATA[Ilmainen toimitus Hki 5.6. / 12.6. / 26.6. - retro lipasto, kaapp]]></g:title>
-      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
-Perjantaina 5.6. / 12.6. / 26.6. saat ilmaisen kotiinkuljetuksen koko PK-]]></g:description>
-      <g:link>https://secondhandshop.fi/</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41788613/5f6bc04d-dc84-4864-9e55-edd7475ede0a</g:image_link>
-      <g:price>1.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-41773588</g:id>
@@ -7177,90 +6942,6 @@ Toimitus mahdollisuus y]]></g:description>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-41328311</g:id>
-      <g:title><![CDATA[Upea Chippendale sohvapöytä / olohuoneenpöytä]]></g:title>
-      <g:description><![CDATA[Kuvan upea Chippendale olohuoneenpöytä myytävänä. Kunto erittäin hyvä. Runko tukeva. Uudempaa tuotantoa.
-
-Hinta 165e
-
-Mitat cm:
-
-P 105
-
-L 55
-
-K 58
-
-Tuote Saloss]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-chippendale-sohvapoyta-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41328311/580a4a69-1c7d-44dd-b2f7-619dd6fabe61</g:image_link>
-      <g:price>165.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41332061</g:id>
-      <g:title><![CDATA[Entisöity vanha lipasto]]></g:title>
-      <g:description><![CDATA[Upea kunnostettu vanhan ajan puinen lipasto etsii uutta kotia. Kunto erittäin hyvä. Sisusta siisti eikä ole. Rakenteeltaan kaikin puolin ehjä. 
-
-Hinta 290e
-
-Mit]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-lipasto-b1c48c9837582229</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41332061/9f824732-5d39-4452-b92c-78e2bcc1ed08</g:image_link>
-      <g:price>290.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41331964</g:id>
-      <g:title><![CDATA[Funkkis ruokapöytä 30/40-luku]]></g:title>
-      <g:description><![CDATA[Kuvan komea 30/40-luvun funkkis tyylin jatkettava ruokapöytä myytävänä. Runko tukeva. Jalat irroitettavat. Jatkopala sisään taittuva. Kansi uudelleen lakattu. L]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/upea-funkkis-ruokapoyta-30-40-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41331964/ea6590cc-50a5-4606-b10c-af6047276910</g:image_link>
-      <g:price>340.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41332032</g:id>
-      <g:title><![CDATA[Kustavi nojatuoli 2kpl]]></g:title>
-      <g:description><![CDATA[Kaunis vanha Kustavi tyylin nojatuoli-pari myytävänä. Molemmissa rungot tukevia. Maalissa ja verhoilussa ajan tuomia jälkiä / kulumaa. Ei hajuja. Myydään parina]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/kustavi-nojatuoli-2kpl-6cdd7a182d70e921</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41332032/eb09d77c-5bd2-408b-90fb-a5733296d789</g:image_link>
-      <g:price>160.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[7072]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41319035</g:id>
-      <g:title><![CDATA[Hienot antiikki nojatuolit / nojatuoli 2kpl]]></g:title>
-      <g:description><![CDATA[https://secondhandshop.fi/tuote/antiikki-nojatuoli-2kpl-
-
-Hienot erittäin vanhat Rokokoo tyylin antiikki nojatuolit myytävänä. Rungot ja istuimet kunnossa ja tu]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/antiikki-nojatuoli-2kpl-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41319035/a3a7d0e2-498d-4e16-8afd-ce6736008319</g:image_link>
-      <g:price>330.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[7072]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-41299547</g:id>
-      <g:title><![CDATA[Teak string hylly 60-luku]]></g:title>
-      <g:description><![CDATA[Tyylikäs ja ajaton 60-luvun tiikki String-hylly myytävänä. Yleisilme ikäisekseen siisti. Hyllyissä pari viilun korjausta sekä normaalia pientä käytön jälkeä. Hy]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/teak-string-hylly-60-luku-33b4da51ac455735</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/41299547/64e6638c-aa1d-4360-bec6-c26761a8cb36</g:image_link>
-      <g:price>245.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-41208550</g:id>
       <g:title><![CDATA[Laitala Talonpoikaisrokokoo tuoli 2kpl]]></g:title>
       <g:description><![CDATA[Laadukas Laitalan Talonpoikaisrokokoo tuoli-pari etsii uutta kotia. Molemmissa rungot tukevia. Pientä kolhaumaa maalissa. Verhoilussa muutamia jälkiä. Ei hajuja]]></g:description>
@@ -7330,23 +7011,6 @@ Toimitus mah]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[7072]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-40702943</g:id>
-      <g:title><![CDATA[Upea vanha seinäpeili / peili]]></g:title>
-      <g:description><![CDATA[Kaunis vanha seinäpeili myytävänä. Kunto erittäin hyvä. Peili ehjä ja selkeä. Ripustin löytyy. Koko 58x84 cm.
-
-Hinta 95e
-
-Tuote Salossa.
-
-Toimitus mahdollisuus ]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-upea-seinapeili-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/40702943/ccac3875-68ec-4800-be6a-c0124b2fb4af</g:image_link>
-      <g:price>95.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[6349]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-38511947</g:id>
@@ -7486,17 +7150,6 @@ S ]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[6349]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-36616145</g:id>
-      <g:title><![CDATA[Vintage simpukka sohva 50-luku]]></g:title>
-      <g:description><![CDATA[Kuvan 50-luvun "simpukka" sohva myytävänä. Rakenteeltaan sohvan runko ja istuin on kunnossa. Verhoilussa kulumaa. Sivujen saumoissa rakoa. Ei hajuja. Jalat uude]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-simpukka-sohva-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/36616145/c4a67888-f0a3-4644-9d89-ece8376c3e6d</g:image_link>
-      <g:price>165.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[460]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-36432814</g:id>
@@ -7667,29 +7320,6 @@ Toimi]]></g:description>
       <g:google_product_category><![CDATA[6947]]></g:google_product_category>
     </item>
     <item>
-      <g:id>tori-32708542</g:id>
-      <g:title><![CDATA[Vintage seinähylly / hylly 50-luku]]></g:title>
-      <g:description><![CDATA[50-luvun tyylikäs hylly myytävänä. Kunto hyvä. Kaikki osat tallella. Muutamia pieniä jälkiä hyllyissä. 
-
-Hinta 195e
-
-Mitat cm:
-
-L 85
-
-S 28
-
-K 72
-
-Tuote Salossa.]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vintage-seinahylly-50-luku</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/item/32708542/e8b0488e-f4f1-4ccf-a1e0-d3a89efb631b</g:image_link>
-      <g:price>195.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
-    </item>
-    <item>
       <g:id>tori-32459583</g:id>
       <g:title><![CDATA[Sario retro messinki kattovalaisin / kattokruunu]]></g:title>
       <g:description><![CDATA[Hieno messinkirungolla varustettu kattokruunu myytävänä. Kuvut lasia ja kaikki ehjiä. Ei pistoketta. Toiminta testattu.
@@ -7756,7 +7386,7 @@ Mitat cm:
       <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
       <g:link>https://www.tori.fi/recommerce/forsale/item/31931948</g:link>
       <g:image_link>https://img.tori.net/dynamic/1280w/item/31931948/dfd58d63-a559-43a0-89d8-eb92fa5e0d1e</g:image_link>
-      <g:price>135.00 EUR</g:price>
+      <g:price>250.00 EUR</g:price>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[5938]]></g:google_product_category>
@@ -7829,21 +7459,6 @@ Toimitus ]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[505384]]></g:google_product_category>
-    </item>
-    <item>
-      <g:id>tori-29471413</g:id>
-      <g:title><![CDATA[Vanha komea keittiökaappi / astiakaappi / kaappi]]></g:title>
-      <g:description><![CDATA[Katso paremmat kuvat verkkokaupasta:
-
-https://secondhandshop.fi/tuote/vanha-keittiokaappi-
-
-Vanhan ajan tammiviilutettu keittiökaappi etsii uutta kotia. Avaimet]]></g:description>
-      <g:link>https://secondhandshop.fi/tuote/vanha-keittiokaappi-</g:link>
-      <g:image_link>https://img.tori.net/dynamic/1280w/37/37d494e5-0744-4d82-94a2-c2bfe6739108</g:image_link>
-      <g:price>475.00 EUR</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-30429875</g:id>
@@ -7997,6 +7612,474 @@ Laitathan tilauksen]]></g:description>
       <g:condition>used</g:condition>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131269</g:id>
+      <g:title><![CDATA[Funkkis pikku kaappi 40-luku]]></g:title>
+      <g:description><![CDATA[Nätti 40-luvun pikku funkkis kaappi myytävänä. Kunto ikäisekseen hyvä. Vanhaa madon reikää takajaloissa. Sisusta siisti eikä ole hajuja. Avaimet tallessa ja luk]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/funkkis-pikku-kaappi-40-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131269/78536761-2fdb-45eb-90c2-998864720dfe</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131282</g:id>
+      <g:title><![CDATA[Entisöity vanha lipasto]]></g:title>
+      <g:description><![CDATA[Upea kunnostettu vanhan ajan puinen lipasto etsii uutta kotia. Kunto erittäin hyvä. Sisusta siisti eikä ole. Rakenteeltaan kaikin puolin ehjä. 
+
+Hinta 290e
+
+Mit]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-lipasto-b1c48c9837582229</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131282/84f26bb0-357d-4621-b5cd-f962ef10b603</g:image_link>
+      <g:price>290.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131124</g:id>
+      <g:title><![CDATA[Vanha kunnostettu työpöytä / kirjoituspöytä]]></g:title>
+      <g:description><![CDATA[Kaunis kunnostettu vanhan ajan kirjoituspöytä myytävänä. Kunto hyvä ja runko ehjä. Kaksi vetolaatikkoa kannen alla. Kannessa muutamia hentoja jälkiä. Ei hajuja.]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-tyopoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131124/c18e4535-ab85-4ef2-82c2-09c2900f6725</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4191]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131185</g:id>
+      <g:title><![CDATA[Jugend ruokapöytä - ilmainen toimitus Tampereelle]]></g:title>
+      <g:description><![CDATA[Vanhan ajan Jugend tyylin jatkettava ruokapöytä myytävänä. Juuri sopiva kaunis patinaa koristaa pöytää kauttaaltaan. Runko kaikin puolin tukeva ja ehjä. Jatkot ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-jugend-ruokapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131185/511b5b52-0200-4098-9700-9241d12dc730</g:image_link>
+      <g:price>370.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131236</g:id>
+      <g:title><![CDATA[Jugend ruokapöytä - ilmainen toimitus Helsinkiin]]></g:title>
+      <g:description><![CDATA[Vanhan ajan Jugend tyylin jatkettava ruokapöytä myytävänä. Juuri sopiva kaunis patinaa koristaa pöytää kauttaaltaan. Runko kaikin puolin tukeva ja ehjä. Jatkot ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-jugend-ruokapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131236/f51519a9-4c12-4f75-8991-6c5ca5ef55c1</g:image_link>
+      <g:price>370.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131212</g:id>
+      <g:title><![CDATA[Vanha peilipiironki / peilikaappi]]></g:title>
+      <g:description><![CDATA[Komea vanha kunnostettu peilipiironki myytävänä. Pinnat aikanaan uudelleen ootrattu / maalattu. Muutamia pieniä kolhuja ja käytön jälkiä löytyy. Yleiskunto ikäi]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-kunnostettu-peilipiironki-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131212/be3fef7d-7d0c-4f45-a535-846652c492bf</g:image_link>
+      <g:price>295.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131169</g:id>
+      <g:title><![CDATA[Upea Chippendale sohvapöytä / olohuoneenpöytä]]></g:title>
+      <g:description><![CDATA[Kuvan upea Chippendale olohuoneenpöytä myytävänä. Kunto erittäin hyvä. Runko tukeva. Uudempaa tuotantoa.
+
+Hinta 165e
+
+Mitat cm:
+
+P 105
+
+L 55
+
+K 58
+
+Tuote Saloss]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-chippendale-sohvapoyta-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131169/c98a97b2-207d-4836-a382-499ba10369ff</g:image_link>
+      <g:price>165.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131139</g:id>
+      <g:title><![CDATA[Antiikki klaffilipasto / lipasto - ilmainen kotiinkuljetus Tamper]]></g:title>
+      <g:description><![CDATA[Tämä kaunis täyspuinen klaffipiironki etsii uutta omistajaa. Lipasto aikanaan kunnostettu ja pinnat maalattu. Klaffin lukitus poistettu ja korvattu kiinnikkeell]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-klaffilipasto-53769286fe2c74e7</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131139/b61518b1-7f27-41d8-ae0f-c04534b851b4</g:image_link>
+      <g:price>345.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131202</g:id>
+      <g:title><![CDATA[Funkkis ruokapöytä 30/40-luku]]></g:title>
+      <g:description><![CDATA[Kuvan komea 30/40-luvun funkkis tyylin jatkettava ruokapöytä myytävänä. Runko tukeva. Jalat irroitettavat. Jatkopala sisään taittuva. Kansi uudelleen lakattu. L]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/upea-funkkis-ruokapoyta-30-40-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131202/0cce6951-cd25-4280-877a-41d2b205f533</g:image_link>
+      <g:price>340.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42131253</g:id>
+      <g:title><![CDATA[Kustavi nojatuoli 2kpl]]></g:title>
+      <g:description><![CDATA[Kaunis vanha Kustavi tyylin nojatuoli-pari myytävänä. Molemmissa rungot tukevia. Maalissa ja verhoilussa ajan tuomia jälkiä / kulumaa. Ei hajuja. Myydään parina]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/kustavi-nojatuoli-2kpl-6cdd7a182d70e921</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42131253/b3187f99-a0f4-460d-8ffa-e1d0b86c9bea</g:image_link>
+      <g:price>160.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[7072]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128191</g:id>
+      <g:title><![CDATA[Entisöity upea senkki / kaappi / peilipiironki]]></g:title>
+      <g:description><![CDATA[Erittäin siisti, aikanaan kunnostettu kuvan peilikaappi myytävänä. Avain tallessa ja kaikki lukot toimivat. Sisusta siisti eikä ole hajuja. Rakenne tukeva. Peil]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-peilipiironki-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128191/f5d46a44-56a0-45d7-9966-5a5ac7b3f3c1</g:image_link>
+      <g:price>345.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128155</g:id>
+      <g:title><![CDATA[Funkkis sohvapöytä 30/40-luku]]></g:title>
+      <g:description><![CDATA[Komea 30/40-luvun funkkis henkinen pyöreä olohuoneenpöytä myytävänä. Muutamia pieniä viilu vikoja löytyy sekä ajan tuomaa kuluneisuutta kannen lakassa. Runko ed]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/sohvapoyta-30-40-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128155/88fae0d2-9ce7-4f45-86ad-39a4e6621a33</g:image_link>
+      <g:price>195.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128132</g:id>
+      <g:title><![CDATA[Lenco CD / radio / Bluetooth]]></g:title>
+      <g:description><![CDATA[Uudenveroinen Lenco CD-Radio soitin myytävänä. Lisäksi löytyy Bluetooth, aux sekä USB. Mukana kaukosäädin ja ohjekirja. 
+
+Hinta 140e
+
+Mitat cm:
+
+L 42
+
+S 26
+
+K 1]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/lenco-dar-081-cd-radio</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128132/6b2d552f-c7d6-4e81-9fc7-d2fe5512daed</g:image_link>
+      <g:price>140.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[273]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128095</g:id>
+      <g:title><![CDATA[Rokokoo vanha sohva]]></g:title>
+      <g:description><![CDATA[Kaunis Rokokoo tyylin sohva myytävänä. Kunto ikäisekseen hyvä. Istuimet ja runko kunnossa. Kankaassa ja puuosissa pieniä käytön jälkiä. Ei hajuja. 
+
+Hinta 250e
+]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-rokokoo-sohva-0cb4291d0eec7d0d</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128095/b3f6dc53-141f-4881-8e3e-1646ef7fee74</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128116</g:id>
+      <g:title><![CDATA[Entisöity upea senkki / kaappi]]></g:title>
+      <g:description><![CDATA[Erittäin siisti, aikanaan kunnostettu kuvan peilikaappi myytävänä. Avain tallessa ja kaikki lukot toimivat. Sisusta siisti eikä ole hajuja. Rakenne tukeva. Peil]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/entisoity-vanha-peilipiironki-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128116/02bb403b-ba31-44cf-87bb-5a9b77b9914d</g:image_link>
+      <g:price>345.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[447]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128076</g:id>
+      <g:title><![CDATA[Hienot antiikki nojatuolit / nojatuoli 2kpl]]></g:title>
+      <g:description><![CDATA[https://secondhandshop.fi/tuote/antiikki-nojatuoli-2kpl-
+
+Hienot erittäin vanhat Rokokoo tyylin antiikki nojatuolit myytävänä. Rungot ja istuimet kunnossa ja tu]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/antiikki-nojatuoli-2kpl-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128076/8015066b-1ad5-4bbe-8979-7fd52fb4512d</g:image_link>
+      <g:price>330.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[7072]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128056</g:id>
+      <g:title><![CDATA[Vintage tarjoiluvaunu / tarjoilukärry]]></g:title>
+      <g:description><![CDATA[Tämä upea vintage tarjoilukärry etsii uutta kotia. Kunto hyvä. Renkaat toimivat hyvin. Kaksi lasitasoa sekä yksi vaneritaso. 
+
+Hinta 195e
+
+Mitat cm:
+
+L 68
+
+S 47]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-tarjoiluvaunu-40-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128056/4f0c7812-ce1e-4711-b04c-e2d2e0cf792e</g:image_link>
+      <g:price>195.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128041</g:id>
+      <g:title><![CDATA[Teak string hylly 60-luku]]></g:title>
+      <g:description><![CDATA[Tyylikäs ja ajaton 60-luvun tiikki String-hylly myytävänä. Yleisilme ikäisekseen siisti. Hyllyissä pari viilun korjausta sekä normaalia pientä käytön jälkeä. Hy]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/teak-string-hylly-60-luku-33b4da51ac455735</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128041/9d46d9f9-b05d-495f-a35a-1b718aa77f7f</g:image_link>
+      <g:price>245.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42128022</g:id>
+      <g:title><![CDATA[Klassinen pikku kaappi]]></g:title>
+      <g:description><![CDATA[Kaunis klassinen siro kaappi myytävänä. Rakenteeltaan kaappi on kaikin puolin tukeva ja ehjä. Vetolaatikko ja ovet toimivat hyvin. Sisusta siisti. Kannessa pikk]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/klassinen-pikku-kaappi-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42128022/e7863e90-78fe-46fe-a2d1-103c3e8fa1ce</g:image_link>
+      <g:price>95.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[5938]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42127998</g:id>
+      <g:title><![CDATA[Jatkettava ruokapöytä / pöytä]]></g:title>
+      <g:description><![CDATA[Klassinen tyylin omaava jatkettava ruokapöytä myytävänä. Yleiskunto hyvä. Kannessa kevyttä siirtonaarmua sekä pari kolhua. Jatkopala kätevästi taitolla. 
+
+Hinta]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/jatkettava-ruokapoyta-b2b6893a6ac70078</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42127998/7f9f4fc7-1ca3-4c4c-a0c8-59801a4e5af7</g:image_link>
+      <g:price>195.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[4355]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42090639</g:id>
+      <g:title><![CDATA[Ostetaan kuolinpesät / tavarat / vanhat huonekalut | Tori]]></g:title>
+      <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42090639/d36853ff-396f-4ffd-9a7d-5607423442b2</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[436]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42090651</g:id>
+      <g:title><![CDATA[Ostetaan tavaraa / vanhat huonekalut / kuolinpesät | Tori]]></g:title>
+      <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42090651/29131c50-db0d-4b79-8947-417d0ac4fd8f</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41990600</g:id>
+      <g:title><![CDATA[Ilmainen toimitus Tampereelle ke 24.6. - teak tv-taso, antiikki k]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+
+Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen koko Tampereen aluee]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41990600/cfbdee71-2a95-42b2-be26-7542f20b2132</g:image_link>
+      <g:price>1.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6358]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41990650</g:id>
+      <g:title><![CDATA[Ilmainen toimitus Tampereelle ke 24.6. - teak lipasto / klaffilip]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+
+Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen koko Tampereen aluee]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41990650/c6a0ca83-6c5d-4eb8-bbb7-4ed6074315e0</g:image_link>
+      <g:price>1.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41990567</g:id>
+      <g:title><![CDATA[Ilmainen toimitus Tampereelle ke 24.6. - kaappi, lipasto]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+
+Keskiviikkona 24.6. saat ilmaisen kotiinkuljetuksen koko Tampereen aluee]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41990567/1b5264d0-2420-4bbf-806e-95efa1928108</g:image_link>
+      <g:price>1.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-37020290</g:id>
+      <g:title><![CDATA[Ostetaan tavaraa / vanhat huonekalut / kuolinpesät | Tori]]></g:title>
+      <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37020290/b6d21314-1d4f-468c-88a8-68ef94a77d6d</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-37020275</g:id>
+      <g:title><![CDATA[Ostetaan kuolinpesät / tavarat / vanhat huonekalut | Tori]]></g:title>
+      <g:description><![CDATA[Meiltä kuolinpesien tyhjennykset sopimuksen mukaan. Ostamme joko jälleenmyynti kelpoiset tavarat tai hoidamme koko tyhjäyksen alusta loppuun. Koko tyhjäys katta]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/37020275/79a5124b-3264-4def-909b-c507edd1afa3</g:image_link>
+      <g:price>250.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[436]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42045982</g:id>
+      <g:title><![CDATA[Artek aurinkotuoli 4kpl, Aalto 50-luku]]></g:title>
+      <g:description><![CDATA[Harvemmin saatavilla oleva Aallon 50-luvun aurinko tuolit 4kpl myytävänä. Rungot ehjiä. Uudelleen maalatut. Muutamia jälkiä maalissa ja pari kolhua tuolin alapu]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/alvar-aalto-aurinkotuoli-4kpl-artek-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42045982/addc4de1-2189-4ed6-aa71-932e9e6ac36a</g:image_link>
+      <g:price>1400.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[703]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42113212</g:id>
+      <g:title><![CDATA[Suuri Talonpoikaisrokokoo / rokokoo senkki]]></g:title>
+      <g:description><![CDATA[Vanhemman tuotannon Talonpoikaisrokokoo tyylin senkki myytävänä. Senkin koko on iso, joten Katso mitat tarkkaan. Täyttä puuta ja painoa löytyy. Kaunista sovitta]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/suuri-vanha-talonpoikaisrokokoo-senkki</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42113212/90f241f6-a89b-4785-a430-a8c3e7af8031</g:image_link>
+      <g:price>490.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[447]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-42109377</g:id>
+      <g:title><![CDATA[Klassinen korkeus lipasto / laatikosto - ilmainen toimitus]]></g:title>
+      <g:description><![CDATA[Nätti kompakti klassinen lipasto myytävänä. Yleiskunto hyvä. Vetolaatikot toimivat hyvin. Sisusta siisti eikä ole hajuja. Muutamia pieniä reunakolhuja. 
+
+Hinta ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/klassinen-pikku-lipasto-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42109377/47a0cd7d-459e-4edc-b221-22f3f45ebc83</g:image_link>
+      <g:price>95.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41957049</g:id>
+      <g:title><![CDATA[Hepplewhite tuolit 4kpl (projekti)]]></g:title>
+      <g:description><![CDATA[Nämä kauniit Hepplewhite tyylin tuolit etsivät uutta kotia. Tuolien liitoksissa väljyyttä ja puuosissa kolhua ja pieniä koriste puutoksia Verhoilut ehjät. Myydä]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/hepplewhite-tuolit-4kpl-projekti-nro-2</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41957049/4da29c38-5cd8-45c2-9ecf-0c7e56cca009</g:image_link>
+      <g:price>80.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[3358]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-41788613</g:id>
+      <g:title><![CDATA[Ilmainen toimitus Hki 5.6. / 12.6. / 26.6. - retro lipasto, kaapp]]></g:title>
+      <g:description><![CDATA[\u{d83c}\u{df3f} Tee vastuullinen valinta – ja me tuomme sen kotiisi! \u{d83c}\u{df3f}
+Perjantaina 5.6. / 12.6. / 26.6. saat ilmaisen kotiinkuljetuksen koko PK-]]></g:description>
+      <g:link>https://secondhandshop.fi/</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/41788613/5f6bc04d-dc84-4864-9e55-edd7475ede0a</g:image_link>
+      <g:price>1.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6947]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-40702943</g:id>
+      <g:title><![CDATA[Upea vanha seinäpeili / peili]]></g:title>
+      <g:description><![CDATA[Kaunis vanha seinäpeili myytävänä. Kunto erittäin hyvä. Peili ehjä ja selkeä. Ripustin löytyy. Koko 58x84 cm.
+
+Hinta 95e
+
+Tuote Salossa.
+
+Toimitus mahdollisuus ]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-upea-seinapeili-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/40702943/ccac3875-68ec-4800-be6a-c0124b2fb4af</g:image_link>
+      <g:price>95.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6349]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-36616145</g:id>
+      <g:title><![CDATA[Vintage simpukka sohva 50-luku]]></g:title>
+      <g:description><![CDATA[Kuvan 50-luvun "simpukka" sohva myytävänä. Rakenteeltaan sohvan runko ja istuin on kunnossa. Verhoilussa kulumaa. Sivujen saumoissa rakoa. Ei hajuja. Jalat uude]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-simpukka-sohva-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/36616145/c4a67888-f0a3-4644-9d89-ece8376c3e6d</g:image_link>
+      <g:price>165.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-32708542</g:id>
+      <g:title><![CDATA[Vintage seinähylly / hylly 50-luku]]></g:title>
+      <g:description><![CDATA[50-luvun tyylikäs hylly myytävänä. Kunto hyvä. Kaikki osat tallella. Muutamia pieniä jälkiä hyllyissä. 
+
+Hinta 195e
+
+Mitat cm:
+
+L 85
+
+S 28
+
+K 72
+
+Tuote Salossa.]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vintage-seinahylly-50-luku</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/32708542/e8b0488e-f4f1-4ccf-a1e0-d3a89efb631b</g:image_link>
+      <g:price>195.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[8024]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>tori-29471413</g:id>
+      <g:title><![CDATA[Vanha komea keittiökaappi / astiakaappi / kaappi]]></g:title>
+      <g:description><![CDATA[Katso paremmat kuvat verkkokaupasta:
+
+https://secondhandshop.fi/tuote/vanha-keittiokaappi-
+
+Vanhan ajan tammiviilutettu keittiökaappi etsii uutta kotia. Avaimet]]></g:description>
+      <g:link>https://secondhandshop.fi/tuote/vanha-keittiokaappi-</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/37/37d494e5-0744-4d82-94a2-c2bfe6739108</g:image_link>
+      <g:price>475.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[436]]></g:google_product_category>
     </item>
     <item>
       <g:id>tori-31698768</g:id>
