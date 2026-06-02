@@ -739,5 +739,16 @@ Profim-tuoli toimistoon tai kotiin: Asiak]]></g:description>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[2045]]></g:google_product_category>
     </item>
+    <item>
+      <g:id>tori-42127984</g:id>
+      <g:title><![CDATA[Dalshult pöytä ja 7 tuolia]]></g:title>
+      <g:description><![CDATA[Valkoinen Dalshult-ruokapöytä / neuvottelupöytä sekä 7kpl mustia tuoleja. Pöydän koko 185cm x 90cm, korkeus n.73cm. Hyväkuntoinen ja siisti pöytä. Pöydänjaloiss]]></g:description>
+      <g:link>https://www.tori.fi/recommerce/forsale/item/42127984</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42127984/4d246860-296b-402e-9afe-5d5d4ffe88fd</g:image_link>
+      <g:price>400.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[6944]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
