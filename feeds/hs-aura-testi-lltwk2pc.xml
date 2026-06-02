@@ -4,6 +4,20 @@
     <title>HS-aura testi</title>
     <link>https://vend.com</link>
     <description>HS-aura testi – HS-aura testi</description>
+    <item>
+      <g:id>tori-38041376</g:id>
+      <g:title><![CDATA[Musta Lasinen Sohvapöytä - Ilmainen Toimitus]]></g:title>
+      <g:description><![CDATA[Ilmainen toimitus 24 tunnin sisällä
 
+Mitat / Dimensions (cm): Halkaisija 72
+Kokonaiskorkeus / Total height (cm): 45
+Yleinenkunto: Erittäin hyvä/General conditio]]></g:description>
+      <g:link>https://www.tori.fi/recommerce/forsale/item/38041376</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/38041376/004e8236-58e1-4eb6-9d47-5acac7e1417a</g:image_link>
+      <g:price>99.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
