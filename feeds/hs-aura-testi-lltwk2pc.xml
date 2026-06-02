@@ -34,5 +34,20 @@ Yleinenkunto: Erittäin hyvä/General conditio]]></g:description>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[1395]]></g:google_product_category>
     </item>
+    <item>
+      <g:id>tori-42284890</g:id>
+      <g:title><![CDATA[SOTKA Sanza Divaanisohva 215 x 150 – Ilmainen Toimitus]]></g:title>
+      <g:description><![CDATA[ERÄMAKSU: KLARNA
+Merkki / Brand : SOTKA
+Korkeus / Height (cm) :   75
+Mitat (Leveys x Syvvys) / Dimensions (cm) :  215 x 150
+Nukkumisleveys / Sleeping width (cm)]]></g:description>
+      <g:link>https://www.tori.fi/recommerce/forsale/item/42284890</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/42284890/9e6c68d7-a7f9-4e42-afdf-02091c92246f</g:image_link>
+      <g:price>449.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[460]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
