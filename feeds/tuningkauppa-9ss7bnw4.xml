@@ -5,21 +5,21 @@
     <link>https://vend.com</link>
     <description>Tuningkauppa – Tuningkauppa</description>
     <item>
-      <g:id>woo-99699</g:id>
-      <g:title><![CDATA[FOUR Connect 4-690678 ANL-sulake 250A, 1kpl]]></g:title>
-      <g:description><![CDATA[Rhodium-pinnoitettu 250A ANL-sulake. Yhden kappaleen pakkaus.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/four-connect-4-690678-anl-sulake-250a-1kpl/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/250-a-anl-sulake.jpg</g:image_link>
-      <g:price>4.90 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-99689</g:id>
       <g:title><![CDATA[FOUR Connect 4-690675 ANL-sulake 125A, 1kpl]]></g:title>
       <g:description><![CDATA[FOUR Connect 4-690675 ANL-sulake 125A, 1kpl]]></g:description>
       <g:link>https://tuningkauppa.com/tuote/four-connect-4-690659-minianl-sulake-200a-1kpl-2/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/125-a-sulake.jpg</g:image_link>
+      <g:price>4.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-99699</g:id>
+      <g:title><![CDATA[FOUR Connect 4-690678 ANL-sulake 250A, 1kpl]]></g:title>
+      <g:description><![CDATA[Rhodium-pinnoitettu 250A ANL-sulake. Yhden kappaleen pakkaus.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/four-connect-4-690678-anl-sulake-250a-1kpl/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/250-a-anl-sulake.jpg</g:image_link>
       <g:price>4.90 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
@@ -32,6 +32,22 @@
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/Verhoiluhuopa-silver.jpg</g:image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/Verhoiluhuopa-new.jpg</g:additional_image_link>
       <g:price>28.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-97858</g:id>
+      <g:title><![CDATA[Polaris Ranger koppimönkijän kaiutinkotelot – 6,5” erillissarjalle]]></g:title>
+      <g:description><![CDATA[Laadukkaat kaiutinkotelot Polaris Ranger koppimönkijään , suunniteltu 6,5” erillissarjalle. Sopii Polaris Ranger 1000, 1000 XP ja Diesel malleihin sekä Polariksen ja DFK hytteihin.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/polaris-ranger-kaiutinkotelot-65-dfk-oem-hytti/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_120220-scaled.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115009-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115017-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115025-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115056-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_122220-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260326_110820-scaled.jpg</g:additional_image_link>
+      <g:price>289.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -294,22 +310,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-97858</g:id>
-      <g:title><![CDATA[Polaris Ranger koppimönkijän kaiutinkotelot – 6,5” erillissarjalle]]></g:title>
-      <g:description><![CDATA[Laadukkaat kaiutinkotelot Polaris Ranger koppimönkijään , suunniteltu 6,5” erillissarjalle. Sopii Polaris Ranger 1000, 1000 XP ja Diesel malleihin sekä Polariksen ja DFK hytteihin.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/polaris-ranger-kaiutinkotelot-65-dfk-oem-hytti/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_120220-scaled.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115009-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115017-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115025-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_115056-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260321_122220-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/20260326_110820-scaled.jpg</g:additional_image_link>
-      <g:price>289.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-97887</g:id>
       <g:title><![CDATA[BMW E46 1-DIN asennuspaneeli – musta]]></g:title>
       <g:description><![CDATA[Laadukas 1-DIN asennuspaneeli BMW E46 -malleihin , jolla saat jälkiasenteisen autoradion siististi paikalleen. OEM-tyylinen viimeistely ja helppo asennus.]]></g:description>
@@ -534,6 +534,37 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-96060</g:id>
+      <g:title><![CDATA[Alpine SPC-L350FB In Cabin -kaiutin matkailuautoon, musta]]></g:title>
+      <g:description><![CDATA[Alpine SPC-L350FB In-Cabin kaiutin matkailuautoihin. Ultraohut rakenne, 50 W RMS teho ja selkeä ääni camper-vanin ohjaamoon.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/alpine-spc-l350fb-matkailuauton-in-cabin-kaiutin-musta/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d288a91.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d269a8a.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d38f062.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d3a9220.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d4b0253.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d523e9a.jpg</g:additional_image_link>
+      <g:price>279.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-94396</g:id>
+      <g:title><![CDATA[Can-Am Traxter koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:title>
+      <g:description><![CDATA[Can-Am Traxter koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/can-am-traxter-koppimonkijan-soitinkotelo-2-din-soittimelle/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_102449-scaled.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260220_125939-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260220_125933-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_102449-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_075655-1-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_075706-scaled.jpg</g:additional_image_link>
+      <g:price>152.10 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:sale_price>152.10 EUR</g:sale_price>
+    </item>
+    <item>
       <g:id>woo-95617</g:id>
       <g:title><![CDATA[Frovena Aeroport 4″ – Musta Refleksiputki]]></g:title>
       <g:description><![CDATA[Frovena Aeroport 4″ musta refleksiputki sisältää kaksi torvipäätä ja 30 cm putken (~400 mm). Parantaa subwoofer-kotelon ilmanvirtausta ja bassotoistoa.]]></g:description>
@@ -586,21 +617,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-96060</g:id>
-      <g:title><![CDATA[Alpine SPC-L350FB In Cabin -kaiutin matkailuautoon, musta]]></g:title>
-      <g:description><![CDATA[Alpine SPC-L350FB In-Cabin kaiutin matkailuautoihin. Ultraohut rakenne, 50 W RMS teho ja selkeä ääni camper-vanin ohjaamoon.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/alpine-spc-l350fb-matkailuauton-in-cabin-kaiutin-musta/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d288a91.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d269a8a.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d38f062.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d3a9220.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d4b0253.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350fb-in-cabin-speaker-0699c68d523e9a.jpg</g:additional_image_link>
-      <g:price>279.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-96068</g:id>
       <g:title><![CDATA[Alpine SPC-L350FB In Cabin -kaiutin matkailuautoon]]></g:title>
       <g:description><![CDATA[Alpine SPC-L350FB In-Cabin kaiutin matkailuautoihin. Ultraohut rakenne, 50 W RMS teho ja selkeä ääni camper-vanin ohjaamoon.]]></g:description>
@@ -626,8 +642,24 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-92157</g:id>
+      <g:title><![CDATA[Can-Am Maverick koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:title>
+      <g:description><![CDATA[Can-Am Maverick koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/can-am-maverick-koppimonkijan-soitinkotelo-2-din-soittimelle/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din__.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-ohjaamoon-2-din.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din-2.jpg</g:additional_image_link>
+      <g:price>152.10 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:sale_price>152.10 EUR</g:sale_price>
+    </item>
+    <item>
       <g:id>woo-94285</g:id>
-      <g:title><![CDATA[Eristehuopa 8mm, 1x2m]]></g:title>
+      <g:title><![CDATA[Eristehuopa 10mm, 1x2m]]></g:title>
       <g:description><![CDATA[ACOUSTIC FELT on 8mm paksu eristehuopa, joka on suunniteltu lämpöeristykseen sekä melun vaimennukseen.]]></g:description>
       <g:link>https://tuningkauppa.com/tuote/eristehuopa-8mm-1x2m/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/Voylok-STP-6.jpg</g:image_link>
@@ -648,22 +680,6 @@
       <g:price>449.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-94396</g:id>
-      <g:title><![CDATA[Can-Am Traxter koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:title>
-      <g:description><![CDATA[Can-Am Traxter koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/can-am-traxter-koppimonkijan-soitinkotelo-2-din-soittimelle/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_102449-scaled.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260220_125939-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260220_125933-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_102449-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_075655-1-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_075706-scaled.jpg</g:additional_image_link>
-      <g:price>152.10 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:sale_price>152.10 EUR</g:sale_price>
     </item>
     <item>
       <g:id>woo-94405</g:id>
@@ -714,6 +730,26 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/Waveflex15.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/Backside-1.jpg</g:additional_image_link>
       <g:price>99.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-90823</g:id>
+      <g:title><![CDATA[DLS CRPP-BMW1.4 Erillissarja]]></g:title>
+      <g:description><![CDATA[DLS CRUISE Plug & Play erillissarja, joka sopii todella monen BMW:n etuoveen, takakaiuttimeksi sekä kojelaudan keskikanavaksi. Yhteensopiva: BMW 1-Sarja BMW 2-Sarja BMW 3-Sarja BMW 4-Sarja BMW 5-Sarja BMW 6-Sarja BMW 7-Sarja BMW i8 BMW X1 / X3 / X4 / X5 / X6 BMW Z4 Mini]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/dls-crpp-bmw1-4/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_01.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_02.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_03.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_04.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_05.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_06.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_07.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_08.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_12.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_13.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_16.jpg</g:additional_image_link>
+      <g:price>299.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -889,6 +925,21 @@
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:sale_price>449.00 EUR</g:sale_price>
+    </item>
+    <item>
+      <g:id>woo-88881</g:id>
+      <g:title><![CDATA[Ground Zero GZRC 165/28-IV SQ Erillissarja]]></g:title>
+      <g:description><![CDATA[6,5″ 2-tie erillissarja 200W 3 Ohm]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/ground-zero-gzrc-165-28-iv-sq-6-5%e2%80%b3-2-tie-erillissarja/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRC-166.2SQ-IV-sqplus.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Front.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Grill.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Rear.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Side.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRT28SE.jpg</g:additional_image_link>
+      <g:price>249.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
     </item>
     <item>
       <g:id>woo-93663</g:id>
@@ -1171,6 +1222,21 @@
       <g:sale_price>429.00 EUR</g:sale_price>
     </item>
     <item>
+      <g:id>woo-73183</g:id>
+      <g:title><![CDATA[Phoenix Gold ZDSKV3 Volvo 6,5&#8243; erillissarja]]></g:title>
+      <g:description><![CDATA[Phoenix Gold ZDSKV3 Volvo 6,5&#8243; erillissarja. Sopii sekä etu- että takaoviin todella moneen Volvo -malliin.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/phoenix-gold-zdskv3-volvo-65-erillissarja/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-4.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-3.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja_.jpg</g:additional_image_link>
+      <g:price>299.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
       <g:id>woo-91930</g:id>
       <g:title><![CDATA[FOUR Connect 4-800230 STAGE2 OFC-kaiutinkaapeli 2&#215;0.75mm2 (15m kela)]]></g:title>
       <g:description><![CDATA[2&#215;0.75mm2 kaiutinkaapeli 100% happivapaata kuparia Pituus: 15m Eritäin notkea kaapeli]]></g:description>
@@ -1230,22 +1296,6 @@
       <g:sale_price>152.10 EUR</g:sale_price>
     </item>
     <item>
-      <g:id>woo-92157</g:id>
-      <g:title><![CDATA[Can-Am Maverick koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:title>
-      <g:description><![CDATA[Can-Am Maverick koppimönkijän soitinkotelo 2-DIN soittimelle]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/can-am-maverick-koppimonkijan-soitinkotelo-2-din-soittimelle/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din__.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-ohjaamoon-2-din.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-soitinkotelo-2-din-2.jpg</g:additional_image_link>
-      <g:price>152.10 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:sale_price>152.10 EUR</g:sale_price>
-    </item>
-    <item>
       <g:id>woo-92165</g:id>
       <g:title><![CDATA[Polaris Ranger koppimönkijän soitinkotelo 1-DIN]]></g:title>
       <g:description><![CDATA[Polaris Ranger koppimönkijän soitinkotelo 1-DIN]]></g:description>
@@ -1271,6 +1321,19 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-72213</g:id>
+      <g:title><![CDATA[Pioneer SPH-PF97BT plug&#038;play Volkswagen soitinpaketti (9&#8243; kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
+      <g:description><![CDATA[Täydellinen Plug&Play sarja Volkswagen malleihin. Sisältää soittimen lisäksi asennuskehät, johtosarjan ja antenniadapterin. Tällä korvaat alkuperäisen soittimen suoraan 9&#8243; kosketusnäyttömalliksi!]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-2-din-taydellinen-plugplay-sarja-volkswagen-malleihin/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja_1.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja.jpg</g:additional_image_link>
+      <g:price>659.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
       <g:id>woo-91030</g:id>
       <g:title><![CDATA[FOUR Connect 4-SCM1530 kaiutinjohto 2 x 1,5mm2 / 30 metriä]]></g:title>
       <g:description><![CDATA[Kaiutinkaapeli 2&#215;1,5mm2. OFCA-kaapelia. Pituus: 30 metriä. Erittäin notkea kaapeli]]></g:description>
@@ -1287,17 +1350,6 @@
       <g:link>https://tuningkauppa.com/tuote/jarruvalokamera-mercedes-benz-vitoon-w447-2016-2021/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/CAM-MB7.jpg</g:image_link>
       <g:price>199.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-91040</g:id>
-      <g:title><![CDATA[FOUR Connect 4-800154 STAGE1 RCA-kaapeli 3.5m]]></g:title>
-      <g:description><![CDATA[FOUR Connect 4-800154 STAGE1 RCA-kaapeli 3.5m]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/four-connect-4-800154-stage1-rca-kaapeli-3-5m/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/rca-kaapeli-3.5metria.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/rca-kaapeli-3.5metria-1.jpg</g:additional_image_link>
-      <g:price>12.90 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -1366,22 +1418,27 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-90823</g:id>
-      <g:title><![CDATA[DLS CRPP-BMW1.4 Erillissarja]]></g:title>
-      <g:description><![CDATA[DLS CRUISE Plug & Play erillissarja, joka sopii todella monen BMW:n etuoveen, takakaiuttimeksi sekä kojelaudan keskikanavaksi. Yhteensopiva: BMW 1-Sarja BMW 2-Sarja BMW 3-Sarja BMW 4-Sarja BMW 5-Sarja BMW 6-Sarja BMW 7-Sarja BMW i8 BMW X1 / X3 / X4 / X5 / X6 BMW Z4 Mini]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/dls-crpp-bmw1-4/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_01.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_02.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_03.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_04.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_05.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_06.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_07.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_08.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_12.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_13.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_CRPP_BMW14_16.jpg</g:additional_image_link>
-      <g:price>299.00 EUR</g:price>
+      <g:id>woo-91040</g:id>
+      <g:title><![CDATA[FOUR Connect 4-800154 STAGE1 RCA-kaapeli 3.5m]]></g:title>
+      <g:description><![CDATA[FOUR Connect 4-800154 STAGE1 RCA-kaapeli 3.5m]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/four-connect-4-800154-stage1-rca-kaapeli-3-5m/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/rca-kaapeli-3.5metria.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/rca-kaapeli-3.5metria-1.jpg</g:additional_image_link>
+      <g:price>12.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-51189</g:id>
+      <g:title><![CDATA[FOUR Connect vedenpitävä USB-C/A pistorasia jännitenäytöllä 3A]]></g:title>
+      <g:description><![CDATA[Tupla USB-laturi jännitenäytöllä. Voidaan uppoasentaa 29 mm aukkoon, toimii sekä 12 että 24 voltin järjestelmissä.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/four-connect-vedenpitava-usb-c-a-pistorasia-jannitenaytolla-3a/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla-2.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla_.jpg</g:additional_image_link>
+      <g:price>29.90 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -1462,6 +1519,20 @@
       <g:link>https://tuningkauppa.com/tuote/acv-linjamuunnin-kaksikanavainen/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/acv_305000-22.jpg</g:image_link>
       <g:price>29.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-28644</g:id>
+      <g:title><![CDATA[FOUR Audio SW8-BMW, penkinalusbassot (2kpl) BMW -malleihin]]></g:title>
+      <g:description><![CDATA[FOUR Audio 8″ subwoofer BMW etupenkkien alle. Sopii kaikkiin Bmw malleihin, missä vakiona bassot penkkien alla (~2004 alkaen korimallista riippuen) BMW HiFi-pakettiin koodilla S676A ja S674A. Bassot ovat 2 ohm, eli eivät suoraan käy perusaudioon tai Top HiFi/L7, koska vakiot ovat 4 ohm.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/four-audio-sw8-bmw-penkinalusbassot-2kpl-bmw-malleihin/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW-penkinalusbasso-8.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-_Audio-BMW-penkinalusbasso-8.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio_-BMW-penkinalusbasso-8.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW_-penkinalusbasso-8.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW-penkinalusbasso-8_.jpg</g:additional_image_link>
+      <g:price>199.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -1578,21 +1649,6 @@
       <g:link>https://tuningkauppa.com/tuote/alpine-sbg-1224bp-12-subbari-kotelolla-ja-sinisella-led-valaistulla-ikkunalla/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/alpine-12-tuumainen-subbari-ledivaloilla-ja-kotelolla.jpg</g:image_link>
       <g:price>199.90 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-88881</g:id>
-      <g:title><![CDATA[Ground Zero GZRC 165/28-IV SQ Erillissarja]]></g:title>
-      <g:description><![CDATA[6,5″ 2-tie erillissarja 200W 3 Ohm]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/ground-zero-gzrc-165-28-iv-sq-6-5%e2%80%b3-2-tie-erillissarja/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRC-166.2SQ-IV-sqplus.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Front.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Grill.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Rear.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRK-165SQ-Side.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZRT28SE.jpg</g:additional_image_link>
-      <g:price>249.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -1910,6 +1966,46 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-74002</g:id>
+      <g:title><![CDATA[Fiat Ducato mallikohtainein peruutuskamera]]></g:title>
+      <g:description><![CDATA[Fiat Ducato mallikohtainein peruutuskamera]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/fiat-ducato-2015-2021-mallikohtainein-peruutuskamera/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/Fiat-ducato-peruutuskamera-2.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/Fiat-ducato-peruutuskamera-1.jpg</g:additional_image_link>
+      <g:price>199.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-50123</g:id>
+      <g:title><![CDATA[Ground Zero Pink Powerpack, 2 kpl 12&#8243; bassoa, vahvistin + kotelo]]></g:title>
+      <g:description><![CDATA[Ground Zero Pink Powerpack sisältää 2kpl GZIW 12XSPL-D2 PINK -subwooferia, 4-AI212SLOT -kotelon sekä SD1200.1-2 EVO5 -vahvistimen.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/groud-zero-pink-powerpack-2-kpl-12-bassoa-vahvistin-kotelo/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-5.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-4.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-3.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-2.jpg</g:additional_image_link>
+      <g:price>699.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-73506</g:id>
+      <g:title><![CDATA[SPH-PF97BT Mercedes-Benz Sprinter W906 / Vito W447 soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
+      <g:description><![CDATA[Pioneer SPH-PF97BT MB Sprinter W906 / Vito W447 soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-mb-sprinter-w906-vito-w447-soitinpaketti-9%e2%80%b3-kosketusnayttosoitin-johtosarja-asennuskeha-ym/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja_.jpg</g:additional_image_link>
+      <g:price>649.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
       <g:id>woo-73991</g:id>
       <g:title><![CDATA[MB Sprinter W906/W907 mallikohtainen peruutuskamera]]></g:title>
       <g:description><![CDATA[MB Sprinter W906/W907 mallikohtainen peruutuskamera]]></g:description>
@@ -1928,17 +2024,6 @@
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/proace-vivaro-jumpy-peruutuskamera.jpg</g:image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/proace-vivaro-jumpy-peruutuskamera-1.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/proace-vivaro-jumpy-peruutuskamera_.jpg</g:additional_image_link>
-      <g:price>199.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-74002</g:id>
-      <g:title><![CDATA[Fiat Ducato mallikohtainein peruutuskamera]]></g:title>
-      <g:description><![CDATA[Fiat Ducato mallikohtainein peruutuskamera]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/fiat-ducato-2015-2021-mallikohtainein-peruutuskamera/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/Fiat-ducato-peruutuskamera-2.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/04/Fiat-ducato-peruutuskamera-1.jpg</g:additional_image_link>
       <g:price>199.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
@@ -1973,21 +2058,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-73183</g:id>
-      <g:title><![CDATA[Phoenix Gold ZDSKV3 Volvo 6,5&#8243; erillissarja]]></g:title>
-      <g:description><![CDATA[Phoenix Gold ZDSKV3 Volvo 6,5&#8243; erillissarja. Sopii sekä etu- että takaoviin todella moneen Volvo -malliin.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/phoenix-gold-zdskv3-volvo-65-erillissarja/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-4.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Phoenix-Gold-Volvo-erillissarja_.jpg</g:additional_image_link>
-      <g:price>299.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-73237</g:id>
       <g:title><![CDATA[Alpine SPC-106TRA7 Ford Transit / Transit Custom erillissarja]]></g:title>
       <g:description><![CDATA[Alpine SPC-106TRA7 Ford Transit / Transit Custom erillissarja]]></g:description>
@@ -2000,6 +2070,39 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ford-Transit-Alpine-erillissarja-1.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ford-Transit-Alpine-erillissarja_.jpg</g:additional_image_link>
       <g:price>449.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-90386</g:id>
+      <g:title><![CDATA[Ground Zero GZIB 2.165 kaiutinboksi + SounDigital vahvistin (hattuhyllylle, mönkkäriin, traktoriin yms)]]></g:title>
+      <g:description><![CDATA[Valmis setti joka sisältää sekä kaiutinboksin, että vahvistimen!]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/ground-zero-gzib-2-165-kaiutinboksi-soundigital-vahvistin-hattuhyllylle-monkkariin-traktoriin-yms/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-3.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-2.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-1.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin_.jpg</g:additional_image_link>
+      <g:price>299.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-97794</g:id>
+      <g:title><![CDATA[BLAM 200RS-Audi – 8” Plug &#038; Play erillissarja Audi A4 / A5 / Q5]]></g:title>
+      <g:description><![CDATA[Laadukas BLAM 200RS-Audi 8” erillissarja , joka on suunniteltu suoraan Audi-malleihin. Plug & Play -asennus ja merkittävästi parempi äänenlaatu ilman muutoksia auton johtosarjaan.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/blam-200rs-audi-8-kaiutinsarja-audi-a4-a5-q5/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_01_000.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_02a.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_03.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_04.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_05.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_06.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_07.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_08.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_09.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_10.jpg</g:additional_image_link>
+      <g:price>329.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -2075,6 +2178,18 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-100120</g:id>
+      <g:title><![CDATA[SPH-PF97BT Volkswagen Passat B7 / CC soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
+      <g:description><![CDATA[Pioneer SPH-PF97BT Volkswagen Passat B7 / CC soitin soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/sph-pf97bt-volkswagen-passat-b7-cc-soitinpaketti-9%e2%80%b3-kosketusnayttosoitin-johtosarja-asennuskeha-ym/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/SPH-PF97BT-Volkswagen-Passat-B7-CC-soitinpaketti.jpeg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/f620029b-3440-4311-a96b-a79aeb74b8c2.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja_.jpg</g:additional_image_link>
+      <g:price>649.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
       <g:id>woo-69002</g:id>
       <g:title><![CDATA[ACV Passiivinen antenniadapteri MB / VW / Seat / Audi / Skoda /Bmw]]></g:title>
       <g:description><![CDATA[Muuttaa FAKRA-liittimen DIN-liittimeksi]]></g:description>
@@ -2092,19 +2207,6 @@
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/01/mb-vito-w447-rattiohjain-adapteri.jpg</g:image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/01/mb-vito-w447-rattiohjain-adapteri_.jpg</g:additional_image_link>
       <g:price>79.90 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-72213</g:id>
-      <g:title><![CDATA[Pioneer SPH-PF97BT plug&#038;play Volkswagen soitinpaketti (9&#8243; kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
-      <g:description><![CDATA[Täydellinen Plug&Play sarja Volkswagen malleihin. Sisältää soittimen lisäksi asennuskehät, johtosarjan ja antenniadapterin. Tällä korvaat alkuperäisen soittimen suoraan 9&#8243; kosketusnäyttömalliksi!]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-2-din-taydellinen-plugplay-sarja-volkswagen-malleihin/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja_1.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/pioneer-sph-pf97bt-anroid-soitin-vw-asennussarja.jpg</g:additional_image_link>
-      <g:price>659.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -2321,11 +2423,11 @@
     </item>
     <item>
       <g:id>woo-54988</g:id>
-      <g:title><![CDATA[Ground Zero virtakitti 20mm2]]></g:title>
-      <g:description><![CDATA[Ground Zero virtakitti 20m2 virtakaapelilla. Täydellinen sarja vahvistimen asennukseen. Sisältää myös maadoitusjohdon, RCA-piuhan, sulakepesän ja sulakkeen]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/ground-zero-virtakitti-20mm2/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/05/Ground-zero-20m2-virtakitti.png</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/05/Ground-zero-20m2-virtakitti_.png</g:additional_image_link>
+      <g:title><![CDATA[FOUR Connect 4-PKIT20 virtakitti 20mm2]]></g:title>
+      <g:description><![CDATA[FOUR Connect 4-PKIT20 virtakitti sisältää 20 mm² virtakaapelit, RCA-kaapelin, sulakepesän ja asennustarvikkeet vahvistimen asennukseen.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/four-connect-4-pkit20-virtakitti-20-mm%c2%b2-vahvistimen-asennussarja-tuningkauppa-com/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/05/4-PKIT20.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/05/4-PKIT20-2.jpg</g:additional_image_link>
       <g:price>59.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
@@ -2386,20 +2488,6 @@
       <g:link>https://tuningkauppa.com/tuote/ground-zero-gzda-1200al-gold/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/GZDA-1200AL-GOLD.jpeg</g:image_link>
       <g:price>59.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-51189</g:id>
-      <g:title><![CDATA[FOUR Connect vedenpitävä USB-C/A pistorasia jännitenäytöllä 3A]]></g:title>
-      <g:description><![CDATA[Tupla USB-laturi jännitenäytöllä. Voidaan uppoasentaa 29 mm aukkoon, toimii sekä 12 että 24 voltin järjestelmissä.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/four-connect-vedenpitava-usb-c-a-pistorasia-jannitenaytolla-3a/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla-2.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/03/vedenpitava-USB-C_A-pistorasia-jannitenaytolla_.jpg</g:additional_image_link>
-      <g:price>29.90 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -2465,6 +2553,20 @@
       <g:link>https://tuningkauppa.com/tuote/ground-zero-gzwr-10m-langaton-bluetooth-vastaanotin-kosketusnaytolla/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-Zero-langaton-bluetooth-vastaanotin.png</g:image_link>
       <g:price>39.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-101247</g:id>
+      <g:title><![CDATA[VW T5 / T6 / T6.1 peruutuskamera pariovellisiin]]></g:title>
+      <g:description><![CDATA[OEM-tyylinen peruutuskamera VW T5-, T6- ja T6.1 -malleihin pariovilla. Integroitu lisäjarruvaloon, laaja kuvakulma ja siisti asennus ilman näkyviä lisäosia.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/vw-t5-t6-t6-1-peruutuskamera-pariovellisiin/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-.png</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-1.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-2.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-3.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-4.png</g:additional_image_link>
+      <g:price>179.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -2555,6 +2657,22 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Ground-Zero-GZFA-2-kanavainen-vahvistin-1-scaled.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Ground-Zero-GZFA-2-kanavainen-vahvistin-2.jpeg</g:additional_image_link>
       <g:price>99.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-90937</g:id>
+      <g:title><![CDATA[DLS CRPP-MB2.6 – Erillissarja Mercedes w447 Vito/eVito/EQV -malleihin]]></g:title>
+      <g:description><![CDATA[Täydellinen OEM-kaiutinpäivitys ilman kompromisseja. Suunniteltu erityisesti Mercedes Vitoon (2014–), eVitoon ja EQV:hen, DLS CRPP-MB2.6 tarjoaa luonnollisen ja lämpimän äänen täydellisesti auton alkuperäisiin kaiutinpaikkoihin sopivana.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/dls-crpp-mb2-6-erillissarja-mercedes-vito-evito-eqv-malleihin/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_15.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_0.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_10.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_11.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_12.jpg</g:additional_image_link>
+      <g:price>299.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -2688,20 +2806,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-28644</g:id>
-      <g:title><![CDATA[FOUR Audio SW8-BMW, penkinalusbassot (2kpl) BMW -malleihin]]></g:title>
-      <g:description><![CDATA[FOUR Audio 8″ subwoofer BMW etupenkkien alle. Sopii kaikkiin Bmw malleihin, missä vakiona bassot penkkien alla (~2004 alkaen korimallista riippuen) BMW HiFi-pakettiin koodilla S676A ja S674A. Bassot ovat 2 ohm, eli eivät suoraan käy perusaudioon tai Top HiFi/L7, koska vakiot ovat 4 ohm.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/four-audio-sw8-bmw-penkinalusbassot-2kpl-bmw-malleihin/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW-penkinalusbasso-8.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-_Audio-BMW-penkinalusbasso-8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio_-BMW-penkinalusbasso-8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW_-penkinalusbasso-8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2022/10/Four-Audio-BMW-penkinalusbasso-8_.jpg</g:additional_image_link>
-      <g:price>199.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-100625</g:id>
       <g:title><![CDATA[FOUR Connect verhoiluhuopa tummanharmaa 1,36 m x 2,1 m]]></g:title>
       <g:description><![CDATA[FOUR Connect tummanharmaa verhoiluhuopa autohifi- ja sisustaprojekteihin. Soveltuu esimerkiksi subwoofer-koteloiden, tavaratilojen ja paneelien verhoiluun. Koko 1,36 m x 2,1 m.]]></g:description>
@@ -2804,22 +2908,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-50123</g:id>
-      <g:title><![CDATA[Ground Zero Pink Powerpack, 2 kpl 12&#8243; bassoa, vahvistin + kotelo]]></g:title>
-      <g:description><![CDATA[Ground Zero Pink Powerpack sisältää 2kpl GZIW 12XSPL-D2 PINK -subwooferia, 4-AI212SLOT -kotelon sekä SD1200.1-2 EVO5 -vahvistimen.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/groud-zero-pink-powerpack-2-kpl-12-bassoa-vahvistin-kotelo/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-5.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-4.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-3.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/02/Ground-zero-pinkki-bassopaketti-vahvistin-2.jpg</g:additional_image_link>
-      <g:price>699.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-53176</g:id>
       <g:title><![CDATA[Match UP 8BMW -DSP vahvistin (BMW -hifi 676-optiolle E-sarja, F-sarja + G30 / G31)]]></g:title>
       <g:description><![CDATA[Match 8-kanavainen vahvistin sisäänrakennetulla DSP:llä ( BMW hifi 676 audiojärjestelmälle). Bmw E-sarjan, F-sarjan malleihin, sekä G30/G31 -pre-facelit autot.]]></g:description>
@@ -2905,19 +2993,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-73506</g:id>
-      <g:title><![CDATA[SPH-PF97BT Mercedes-Benz Sprinter W906 / Vito W447 soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
-      <g:description><![CDATA[Pioneer SPH-PF97BT MB Sprinter W906 / Vito W447 soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-mb-sprinter-w906-vito-w447-soitinpaketti-9%e2%80%b3-kosketusnayttosoitin-johtosarja-asennuskeha-ym/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja_.jpg</g:additional_image_link>
-      <g:price>649.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-73882</g:id>
       <g:title><![CDATA[FOUR Connect 4-SPK Sprayliima]]></g:title>
       <g:description><![CDATA[FOUR Connect 4-SPK Sprayliima]]></g:description>
@@ -2971,6 +3046,35 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
+      <g:id>woo-43856</g:id>
+      <g:title><![CDATA[Pioneer DMH-AF555BT 2-din kokoinen soitin/viihdekeskus 9″ näytöllä + asennuskehällä]]></g:title>
+      <g:description><![CDATA[Upea uusi huippuluokan 2DIN -soitin bluetoohtilla, USB, FLAC, 13 kaistainen taajuuskorjain, 9&#8243; näyttö, 4x50W oma pääte ja 3 kpl RCA-lähtöjä + asennuskehäpaketti]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/pioneer-dmh-af555bt-2-din-kokoinen-soitin-viihdekeskus-9%e2%80%b3-naytolla-asennuskehalla/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-3.png</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla_.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla__.jpg</g:additional_image_link>
+      <g:price>369.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-64263</g:id>
+      <g:title><![CDATA[DD Audio RL-AE10 10&#8243; aktiivisubbari (sopii myös penkin alle)]]></g:title>
+      <g:description><![CDATA[DD Audio RL-AE10 10&#8243; 700W, aktiivisubbari . Soveltuu asennettavaksi esimerkiksi etuistuimen alle, takapenkin selkänojaan, tavaratilan kylkeen, lava-autossa takaseinään jne jne.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/dd-audio-rl-ae10-10-aktiivisubbari-sopii-myos-penkin-alle/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-3.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbassot.jpg</g:additional_image_link>
+      <g:price>299.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
       <g:id>woo-88425</g:id>
       <g:title><![CDATA[Alpine iLX-F905D Halo 9]]></g:title>
       <g:description><![CDATA[XL-kokoisella 9″ näytöllä oleva toisen sukupolven Halo-soitin! Langaton Apple CarPlay sekä huikea määrä uusia ominaisuuksia.]]></g:description>
@@ -2997,20 +3101,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZIC-165.2HE-3.jpeg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/GZIC-165.2HE-4.jpeg</g:additional_image_link>
       <g:price>120.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-90386</g:id>
-      <g:title><![CDATA[Ground Zero GZIB 2.165 kaiutinboksi + SounDigital vahvistin (hattuhyllylle, mönkkäriin, traktoriin yms)]]></g:title>
-      <g:description><![CDATA[Valmis setti joka sisältää sekä kaiutinboksin, että vahvistimen!]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/ground-zero-gzib-2-165-kaiutinboksi-soundigital-vahvistin-hattuhyllylle-monkkariin-traktoriin-yms/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-3.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-2.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin-1.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/ground-zero-raggarplanka-kaiutin-vahvistin_.jpg</g:additional_image_link>
-      <g:price>299.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3055,6 +3145,22 @@
       <g:link>https://tuningkauppa.com/tuote/four-connect-4-690657-minianl-sulake-100a-2kpl/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/100-a-sulake.jpg</g:image_link>
       <g:price>4.50 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-80262</g:id>
+      <g:title><![CDATA[Pioneer SPH-PF97BT 9&#8243; -soitin (langaton Apple Carplay / Anroid) + 2DIN asennuskehys]]></g:title>
+      <g:description><![CDATA[Pioneer SPH-PF97BT 9&#8243; -soitin (langaton Apple Carplay / Anroid) + 2DIN asennuskehys]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-9-soitin-langaton-apple-carplay-anroid-2din-asennuskehys/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-soittimen-adapteri.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-3.jpeg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin__.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin_.jpg</g:additional_image_link>
+      <g:price>549.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3125,6 +3231,25 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/eton_fiat_fd16_fiat_ducato_component_system-0659d5dc931118.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/eton_fiat_fd16_fiat_ducato_component_system-0659d5dc6744a2.jpg</g:additional_image_link>
       <g:price>249.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-88434</g:id>
+      <g:title><![CDATA[Alpine iLX-F115D Halo 11]]></g:title>
+      <g:description><![CDATA[XXL-kokoisella 11″ näytöllä oleva toisen sukupolven Halo-soitin! Langaton Apple CarPlay sekä huikea määrä uusia ominaisuuksia.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/alpine-ilx-f115d-halo-11/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_01.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_02.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_03.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_04.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_05.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_06.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_07.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_08.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_09.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_10.jpg</g:additional_image_link>
+      <g:price>1099.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3219,25 +3344,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-97794</g:id>
-      <g:title><![CDATA[BLAM 200RS-Audi – 8” Plug &#038; Play erillissarja Audi A4 / A5 / Q5]]></g:title>
-      <g:description><![CDATA[Laadukas BLAM 200RS-Audi 8” erillissarja , joka on suunniteltu suoraan Audi-malleihin. Plug & Play -asennus ja merkittävästi parempi äänenlaatu ilman muutoksia auton johtosarjaan.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/blam-200rs-audi-8-kaiutinsarja-audi-a4-a5-q5/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_01_000.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_02a.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_03.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_04.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_05.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_06.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_07.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_08.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_09.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/200rs-audi_10.jpg</g:additional_image_link>
-      <g:price>329.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-97998</g:id>
       <g:title><![CDATA[Polaris Ranger koppimönkijän etukaiutin kehykset – 5,25” / 6,5” (DFK &#038; OEM hytti)]]></g:title>
       <g:description><![CDATA[Laadukkaat Polaris Ranger etukaiutin kehykset . Saatavilla 5,25” ja 6,5” versiot – kaiuttimet suunnattu suoraan kuuntelupisteeseen paremman äänenlaadun saavuttamiseksi. Mahdollistaa 5,25&#8243; tai 6,5&#8243; kaiuttimien asennuksen 👉 Ilmoita haluttu koko tilauksen yhteydessä viestikenttään (5,25” tai 6,5”)]]></g:description>
@@ -3303,18 +3409,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-100120</g:id>
-      <g:title><![CDATA[SPH-PF97BT Volkswagen Passat B7 / CC soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:title>
-      <g:description><![CDATA[Pioneer SPH-PF97BT Volkswagen Passat B7 / CC soitin soitinpaketti (9″ kosketusnäyttösoitin + johtosarja + asennuskehä ym)]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/sph-pf97bt-volkswagen-passat-b7-cc-soitinpaketti-9%e2%80%b3-kosketusnayttosoitin-johtosarja-asennuskeha-ym/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/SPH-PF97BT-Volkswagen-Passat-B7-CC-soitinpaketti.jpeg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/f620029b-3440-4311-a96b-a79aeb74b8c2.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Pioneer-Mercedes-Sprinter-Vito-kosketusnaytto-plug-n-play-muutossarja_.jpg</g:additional_image_link>
-      <g:price>649.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-100620</g:id>
       <g:title><![CDATA[FOUR Connect 4-600118 liitinpuristin]]></g:title>
       <g:description><![CDATA[FOUR Connect liitinpuristin 8–70 mm² liittimille. Helppokäyttöinen puristustyökalu autohifi- ja sähköasennuksiin. Toimii vasaran avulla ja tekee pitävän puristusliitoksen.]]></g:description>
@@ -3323,20 +3417,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/4-600118-2.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/4-600118-3.jpg</g:additional_image_link>
       <g:price>19.90 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-101247</g:id>
-      <g:title><![CDATA[VW T5 / T6 / T6.1 peruutuskamera pariovellisiin]]></g:title>
-      <g:description><![CDATA[OEM-tyylinen peruutuskamera VW T5-, T6- ja T6.1 -malleihin pariovilla. Integroitu lisäjarruvaloon, laaja kuvakulma ja siisti asennus ilman näkyviä lisäosia.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/vw-t5-t6-t6-1-peruutuskamera-pariovellisiin/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-.png</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-1.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-2.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-3.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/05/VW-T5-T6-T6.1-lisajarruvalo-peruutuskamera-pariovellisiin-4.png</g:additional_image_link>
-      <g:price>179.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3352,21 +3432,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/06/Vw-Transporter-Ground-Zero-erillissarja-1.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/06/Vw-Transporter-Ground-Zero-erillissarja_.jpg</g:additional_image_link>
       <g:price>295.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-43856</g:id>
-      <g:title><![CDATA[Pioneer DMH-AF555BT 2-din kokoinen soitin/viihdekeskus 9″ näytöllä + asennuskehällä]]></g:title>
-      <g:description><![CDATA[Upea uusi huippuluokan 2DIN -soitin bluetoohtilla, USB, FLAC, 13 kaistainen taajuuskorjain, 9&#8243; näyttö, 4x50W oma pääte ja 3 kpl RCA-lähtöjä + asennuskehäpaketti]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/pioneer-dmh-af555bt-2-din-kokoinen-soitin-viihdekeskus-9%e2%80%b3-naytolla-asennuskehalla/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-3.png</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla_.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2023/09/Pioneer-9-tuumainen-soitin_viihdekeskus-2-Din-aukolla__.jpg</g:additional_image_link>
-      <g:price>369.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3391,40 +3456,6 @@
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/IMG-91178.jpg</g:image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/Verhoiluhuopa-new.jpg</g:additional_image_link>
       <g:price>28.90 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-64263</g:id>
-      <g:title><![CDATA[DD Audio RL-AE10 10&#8243; aktiivisubbari (sopii myös penkin alle)]]></g:title>
-      <g:description><![CDATA[DD Audio RL-AE10 10&#8243; 700W, aktiivisubbari . Soveltuu asennettavaksi esimerkiksi etuistuimen alle, takapenkin selkänojaan, tavaratilan kylkeen, lava-autossa takaseinään jne jne.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/dd-audio-rl-ae10-10-aktiivisubbari-sopii-myos-penkin-alle/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbasso-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2024/11/dd-audio-penkinalusbassot.jpg</g:additional_image_link>
-      <g:price>299.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-72325</g:id>
-      <g:title><![CDATA[AI-SONIC S1-CX6.2 6,5&#8243; 2-tie erillissarja / coaxial]]></g:title>
-      <g:description><![CDATA[6,5″ 2-tie erillissarja / coaxial 130W Designed in Finland]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/ai-sonic-s1-cx6-2-65-2-tie-erillissarja-coaxial/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-1.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-4.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-5.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-6.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-7.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-8.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-9.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-10.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-11.jpg</g:additional_image_link>
-      <g:price>149.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3504,22 +3535,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-80262</g:id>
-      <g:title><![CDATA[Pioneer SPH-PF97BT 9&#8243; -soitin (langaton Apple Carplay / Anroid) + 2DIN asennuskehys]]></g:title>
-      <g:description><![CDATA[Pioneer SPH-PF97BT 9&#8243; -soitin (langaton Apple Carplay / Anroid) + 2DIN asennuskehys]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/pioneer-sph-pf97bt-9-soitin-langaton-apple-carplay-anroid-2din-asennuskehys/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-soittimen-adapteri.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-3.jpeg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin-1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin__.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/07/pioneer-sph-pf97bt-9-tuuman-multimedia-soitin_.jpg</g:additional_image_link>
-      <g:price>549.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-87878</g:id>
       <g:title><![CDATA[MATCH UP 6DSP]]></g:title>
       <g:description><![CDATA[7-kanavainen DSP-prosessori 6-kanavainen vahvistin 4 x 65W + 2 x 160W RCA-lähtö ACO platform]]></g:description>
@@ -3528,25 +3543,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/MATCH-UP-6DSP-Front-connector-side-16-01-2024.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/MATCH-UP-6DSP-Front-input-side-16-01-2023.jpg</g:additional_image_link>
       <g:price>649.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-88434</g:id>
-      <g:title><![CDATA[Alpine iLX-F115D Halo 11]]></g:title>
-      <g:description><![CDATA[XXL-kokoisella 11″ näytöllä oleva toisen sukupolven Halo-soitin! Langaton Apple CarPlay sekä huikea määrä uusia ominaisuuksia.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/alpine-ilx-f115d-halo-11/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_01.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_02.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_03.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_04.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_05.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_06.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_07.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_08.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_09.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/11/Alpine_iLX-F115D_10.jpg</g:additional_image_link>
-      <g:price>1099.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3579,22 +3575,6 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-90937</g:id>
-      <g:title><![CDATA[DLS CRPP-MB2.6 – Erillissarja Mercedes w447 Vito/eVito/EQV -malleihin]]></g:title>
-      <g:description><![CDATA[Täydellinen OEM-kaiutinpäivitys ilman kompromisseja. Suunniteltu erityisesti Mercedes Vitoon (2014–), eVitoon ja EQV:hen, DLS CRPP-MB2.6 tarjoaa luonnollisen ja lämpimän äänen täydellisesti auton alkuperäisiin kaiutinpaikkoihin sopivana.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/dls-crpp-mb2-6-erillissarja-mercedes-vito-evito-eqv-malleihin/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_15.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_0.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_1.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_10.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_11.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/12/DLS_Cruise_CRPP-MB2_6_12.jpg</g:additional_image_link>
-      <g:price>299.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
       <g:id>woo-92143</g:id>
       <g:title><![CDATA[Can-Am Maverick koppimönkijän ohjaamon kaiutinkotelot 6,5&#8243; erillissarjalle (DFK hytti)]]></g:title>
       <g:description><![CDATA[Can-Am Maverick koppimönkijöihin tarkoitetut suomessa valmistetut kaiutinkotelot 6,5&#8243; erillisarjalle]]></g:description>
@@ -3605,19 +3585,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-kaiutinkotelot-ohjaamoon-2.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/01/can-am-maverick-kaiutinkotelot-ohjaamoon_.jpg</g:additional_image_link>
       <g:price>289.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-93571</g:id>
-      <g:title><![CDATA[Zenec Z-E2065 Volkswagen mallikohtainen Apple Carplay-soitin]]></g:title>
-      <g:description><![CDATA[&#8221; Alkuperäistä soitinta edullisempi päivitysvaihtoehto VW, Skoda ja Seat -autoihin, sekä huomattavasti laadukkaampi kuin netistä tilattavat Android-pohjaiset laitteet. Selkeä ja hyvin toimiva käyttöliittymä, langaton Apple Carplay ja Android Auto, integroidut auton toiminnot kuten ilmastointitiedot ja parkkitutkat, hyvät ääniominaisuudet ja paljon muuta. Testitulokset ovat moitteettomat sekä autossa että testilaboratoriossa.&#8221; -Car & Hifi 6/2025]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/zenec-z-e2065-volkswagen-mallikohtainen-apple-carplay-soitin/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486abd7bb4.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486ada1f12.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486ad876a5.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486abd2d45.jpg</g:additional_image_link>
-      <g:price>699.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3709,18 +3676,22 @@
       <g:availability>in_stock</g:availability>
     </item>
     <item>
-      <g:id>woo-94436</g:id>
-      <g:title><![CDATA[Can-Am Traxter koppimönkijä bassokotelo BRP &#038; DFK hytteihin]]></g:title>
-      <g:description><![CDATA[Traxter subbarikotelo BRP ja DFK hytteihin. Asennetaan kuljettajan penkin alle ilman että huoltoluukku peittyy tai penkin säätö estyy. Tilavuus 23,5 L. Elementin maksimi asennussyvyys 185 mm.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/traxter-subbarikotelo-brp-dfk-hytteihin-235l/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_155137-scaled.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112756-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112738-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112711-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112706-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112659-scaled.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112646-scaled.jpg</g:additional_image_link>
-      <g:price>329.00 EUR</g:price>
+      <g:id>woo-72325</g:id>
+      <g:title><![CDATA[AI-SONIC S1-CX6.2 6,5&#8243; 2-tie erillissarja / coaxial]]></g:title>
+      <g:description><![CDATA[6,5″ 2-tie erillissarja / coaxial 130W Designed in Finland]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/ai-sonic-s1-cx6-2-65-2-tie-erillissarja-coaxial/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-1.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-2.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-3.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-4.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-5.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-6.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-7.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-8.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-9.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-10.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2025/03/Ai-sonic-S1-6.5-Erillissarja-11.jpg</g:additional_image_link>
+      <g:price>149.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3735,20 +3706,6 @@
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/fhd-adas-wifi-dash-cam-0691ef49df1c19.jpg</g:additional_image_link>
       <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/fhd-adas-wifi-dash-cam-0691ef49e83750.jpg</g:additional_image_link>
       <g:price>169.00 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:availability>in_stock</g:availability>
-    </item>
-    <item>
-      <g:id>woo-96097</g:id>
-      <g:title><![CDATA[Alpine SPC-L350S In Cabin -kaiutin matkailuautoon]]></g:title>
-      <g:description><![CDATA[Alpine SPC-L350S In-Cabin kaiutin matkailuautoihin. Kompakti pinta-asennettava kaiutin, 50 W RMS teho ja selkeä ääni camper-vanin ohjaamoon.]]></g:description>
-      <g:link>https://tuningkauppa.com/tuote/alpine-spc-l350s-in-cabin-kaiutin-matkailuautoon/</g:link>
-      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cbfc02a9.jpg</g:image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cbfca2fb.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc139486.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc16a10a.jpg</g:additional_image_link>
-      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc2b03c5.jpg</g:additional_image_link>
-      <g:price>249.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
@@ -3786,6 +3743,49 @@
       <g:link>https://tuningkauppa.com/tuote/four-connect-4-690659-minianl-sulake-200a-1kpl/</g:link>
       <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/04/sulake-200.jpg</g:image_link>
       <g:price>2.50 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-93571</g:id>
+      <g:title><![CDATA[Zenec Z-E2065 Volkswagen mallikohtainen Apple Carplay-soitin]]></g:title>
+      <g:description><![CDATA[&#8221; Alkuperäistä soitinta edullisempi päivitysvaihtoehto VW, Skoda ja Seat -autoihin, sekä huomattavasti laadukkaampi kuin netistä tilattavat Android-pohjaiset laitteet. Selkeä ja hyvin toimiva käyttöliittymä, langaton Apple Carplay ja Android Auto, integroidut auton toiminnot kuten ilmastointitiedot ja parkkitutkat, hyvät ääniominaisuudet ja paljon muuta. Testitulokset ovat moitteettomat sekä autossa että testilaboratoriossa.&#8221; -Car & Hifi 6/2025]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/zenec-z-e2065-volkswagen-mallikohtainen-apple-carplay-soitin/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486abd7bb4.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486ada1f12.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486ad876a5.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/zenec-z-e2065-volkswagen-soitin-067b486abd2d45.jpg</g:additional_image_link>
+      <g:price>699.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-94436</g:id>
+      <g:title><![CDATA[Can-Am Traxter koppimönkijä bassokotelo BRP &#038; DFK hytteihin]]></g:title>
+      <g:description><![CDATA[Traxter subbarikotelo BRP ja DFK hytteihin. Asennetaan kuljettajan penkin alle ilman että huoltoluukku peittyy tai penkin säätö estyy. Tilavuus 23,5 L. Elementin maksimi asennussyvyys 185 mm.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/traxter-subbarikotelo-brp-dfk-hytteihin-235l/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260213_155137-scaled.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112756-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112738-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112711-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112706-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112659-scaled.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/02/20260222_112646-scaled.jpg</g:additional_image_link>
+      <g:price>329.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+    </item>
+    <item>
+      <g:id>woo-96097</g:id>
+      <g:title><![CDATA[Alpine SPC-L350S In Cabin -kaiutin matkailuautoon]]></g:title>
+      <g:description><![CDATA[Alpine SPC-L350S In-Cabin kaiutin matkailuautoihin. Kompakti pinta-asennettava kaiutin, 50 W RMS teho ja selkeä ääni camper-vanin ohjaamoon.]]></g:description>
+      <g:link>https://tuningkauppa.com/tuote/alpine-spc-l350s-in-cabin-kaiutin-matkailuautoon/</g:link>
+      <g:image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cbfc02a9.jpg</g:image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cbfca2fb.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc139486.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc16a10a.jpg</g:additional_image_link>
+      <g:additional_image_link>https://tuningkauppa.com/wp-content/uploads/2026/03/alpine-spc-l350s-in-cabin-speaker-0699c6cc2b03c5.jpg</g:additional_image_link>
+      <g:price>249.00 EUR</g:price>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
     </item>
