@@ -4,6 +4,16 @@
     <title>TEST Cat2 SEK</title>
     <link>https://vend.com</link>
     <description>TEST Cat2 SEK</description>
-
+    <item>
+      <g:id>blocket-23777443</g:id>
+      <g:title><![CDATA[HÖRSELKÅPA 3M, PELTOR WS ALERT X, HJÄLMFÄSTE MRX21P3E4WS6 APP GUL]]></g:title>
+      <g:description><![CDATA[Hos Budi (www.budi.se) auktioneras HÖRSELKÅPA 3M, PELTOR WS ALERT X, HJÄLMFÄSTE MRX21P3E4WS6 APP GUL ut till förmånligt pris. Auktionsavslut sker onsdag 2026-06]]></g:description>
+      <g:link>https://www.blocket.se/recommerce/forsale/item/23777443</g:link>
+      <g:image_link>https://images.blocketcdn.se/dynamic/1600w/item/23777443/6f064a30-2b9f-45f9-843a-e982428bff0b</g:image_link>
+      <g:price>1000.00 SEK</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[499958]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
