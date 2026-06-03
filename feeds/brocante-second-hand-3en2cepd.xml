@@ -4,6 +4,16 @@
     <title> Brocante Second Hand</title>
     <link>https://vend.com</link>
     <description> Brocante Second Hand –  Brocante Second Hand</description>
-
+    <item>
+      <g:id>blocket-23776699</g:id>
+      <g:title><![CDATA[Soffbord]]></g:title>
+      <g:description><![CDATA[Soffbord-Butlers tray]]></g:description>
+      <g:link>https://www.blocket.se/recommerce/forsale/item/23776699</g:link>
+      <g:image_link>https://images.blocketcdn.se/dynamic/1600w/item/23776699/a4139526-afcf-48be-b87c-9f80c15f237b</g:image_link>
+      <g:price>599.00 SEK</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[1395]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
