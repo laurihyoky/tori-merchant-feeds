@@ -4,6 +4,27 @@
     <title>FINN test</title>
     <link>https://vend.com</link>
     <description>FINN test – Test</description>
+    <item>
+      <g:id>finn-317578490</g:id>
+      <g:title><![CDATA[Hoover vaskemaskin med tørk. 14kg vask.2021mod.GRATIS FRAKT I OSL]]></g:title>
+      <g:description><![CDATA[Hoover vaskemaskin 
+Kombi Vask og tørk 
+14kg vask 
+9kg Tørk 
+60cm bredt 
+85cm høy 
+65cm dypt 
+Fungerer perfekt 
 
+GRATIS RETUR 
+GRATIS FRAKT I OSLO 
+R]]></g:description>
+      <g:link>https://www.finn.no/recommerce/forsale/item/317578490</g:link>
+      <g:image_link>https://images.finncdn.no/dynamic/1600w/2023/8/vertical-5/30/0/317/578/490_1068817739.jpg</g:image_link>
+      <g:price>5500.00 NOK</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[2549]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
