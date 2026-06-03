@@ -340,5 +340,23 @@ Haapapane]]></g:description>
       <g:availability>in_stock</g:availability>
       <g:google_product_category><![CDATA[115]]></g:google_product_category>
     </item>
+    <item>
+      <g:id>tori-39616348</g:id>
+      <g:title><![CDATA[Laudelauta Leppä Lämpökäsitelty 21x90 A-laatu (4,99 €/m)]]></g:title>
+      <g:description><![CDATA[Laudelauta Lämpökäsitelty Leppä 21x90 A-laatu.
+Hyvännäköinen ja edullinen A-laadun laudelauta.
+
+Puulaji: Leppä
+Laatu A-laatu
+Vahvuus: 21 mm
+Leveys: 90 mm
+Pituus]]></g:description>
+      <g:link>https://www.tori.fi/recommerce/forsale/item/39616348</g:link>
+      <g:image_link>https://img.tori.net/dynamic/1280w/item/39616348/959227c2-eb4c-4bd3-95ea-44b85a6ebb82</g:image_link>
+      <g:price>4.00 EUR</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[115]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
