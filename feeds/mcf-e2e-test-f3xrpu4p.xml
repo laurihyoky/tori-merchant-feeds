@@ -4,6 +4,736 @@
     <title>MCF E2E Test</title>
     <link>https://vend.com</link>
     <description>MCF E2E Test</description>
-
+    <item>
+      <g:id>mycashflow-110</g:id>
+      <g:title><![CDATA[MyCashflow -kosketusnäyttökynä, vihreä]]></g:title>
+      <g:description><![CDATA[Kosketusnäyttö- ja kuulakärkikynä MyCashflow-logolla Tyylikäs ja käytännöllinen kynä monipuoliseen käyttöön. Toisessa päässä mustekynä, toisessa päässä kosketusnäyttöpää. Kynän kyljessä on valkoinen MyCashflow-logo, ja värivaihtoehtoina musta sekä tummanvihreä. Täydellinen valinta toimistolle, asiakastapaamisiin ja mukaan otettavaksi.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/110/mycashflow--kosketusnayttokyna-vihrea</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/kyna-vihrea34.jpg</g:image_link>
+      <g:price>1.79 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-111</g:id>
+      <g:title><![CDATA[MyCashflow-lounasrasia]]></g:title>
+      <g:description><![CDATA[Käytännöllinen ja monipuolinen eväsboksi, joka sopii täydellisesti arkeen ja vapaa-aikaan! Lounasrasian bambukansi toimii myös kätevänä puhelintelineenä, joka tekee lounastauoista entistä mukavampia. Rasiassa on kaksi erillistä laatikkoa, joista toisessa on irrotettava välilevy, mikä helpottaa ruokien erottelua. Mukana tulevat kolme ruokailuvälinettä – haarukka, veitsi ja lusikka – sekä nauha, joka pitää rasian tiiviisti suljettuna kuljetuksen aikana.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/111/mycashflow-lounasrasia</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Nimeto%CC%88n%20malli%20%284%29.jpg</g:image_link>
+      <g:price>19.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-112</g:id>
+      <g:title><![CDATA[MyCashflow Store -lahjakortti, 30 €]]></g:title>
+      <g:description><![CDATA[Tässä lahjaidea, joka tuo iloa varmasti! MyCashflow-lahjakortti käy maksuvälineenä sekä MyCashflow Storessa että Kajaanin myymälässä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/112/mycashflow-store--lahjakortti-30-</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/lahjakortti-30euroa.jpg</g:image_link>
+      <g:price>30.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-113</g:id>
+      <g:title><![CDATA[MyCashflow Store -lahjakortti, 20 €]]></g:title>
+      <g:description><![CDATA[Tässä lahjaidea, joka tuo iloa varmasti! MyCashflow-lahjakortti käy maksuvälineenä sekä MyCashflow Storessa että Kajaanin myymälässä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/113/mycashflow-store--lahjakortti-20-</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/lahjakortti-20euroa.jpg</g:image_link>
+      <g:price>20.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-114</g:id>
+      <g:title><![CDATA[MyCashflow-hiirimatto, korkki]]></g:title>
+      <g:description><![CDATA[Moderni ja käytännöllinen hiirimatto, joka tekee työpisteestäsi ainutlaatuisen! Hiirimaton binäärikoodi-design tuo modernia ilmettä ja sopii täydellisesti niin toimistoon kuin kotiin. Hiirimatto on saatavilla kahdella eri tyylillä: luonnonläheinen korkkikuvio ja minimalistinen musta pinta. Molemmissa malleissa on MyCashflow-logo, joka viimeistelee ilmeen. Valitse oma tyylisi ja paranna työpisteesi mukavuutta ja näyttävyyttä tyylikkäällä hiirimatolla!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/114/mycashflow-hiirimatto-korkki</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Hiirimatto1.jpg</g:image_link>
+      <g:price>9.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-115</g:id>
+      <g:title><![CDATA[MyCashflow-shaker]]></g:title>
+      <g:description><![CDATA[MyCashflow-shaker on käytännöllinen sekoituspullo, joka sopii täydellisesti arjen aktiiviseen rytmiin. Voit käyttää vesipullona tai sekoittaa smoothiet, proteiinijuomat tai muut sekoitettavat juomat nopeasti ja tasaisesti. Korkealaatuinen materiaali tekee shakerista kestävän ja helpon puhdistaa, ja sen kompakti koko kulkee kätevästi mukana kaikkialle. Ota mukaan treeneihin, salille, töihin, matkalle – minne vain!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/115/mycashflow-shaker</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Shaker.jpg</g:image_link>
+      <g:price>9.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-117</g:id>
+      <g:title><![CDATA[Lämpimäinen-tee, mansikkapilvi]]></g:title>
+      <g:description><![CDATA[Vihreä tee: Mansikkapilvi Hemmottele makuhermojasi mansikkaisella vihreällä teellä, jossa yhdistyy makeus ja pehmeys täydellisellä tavalla. Mansikkapilvi on vihreä gunpowder-tee, joka on maustettu aidolla mansikalla, kermaisella vaniljalla ja metsämansikkaöljyllä. Tämän teen maku muistuttaa makean pilven keveyttä – täydellinen valinta, kun kaipaat jotain herkullista ilman turhaa sokeria. Mansikkapilvi toimii loistavasti myös jälkiruoan korvikkeena, sillä vihreän teen L-teaniini auttaa vähentämään stressiä ja tuo mukanaan kevyen kylläisyyden tunteen. Löydä uusi suosikkisi ja nauti hetkistä, jotka maistuvat kesän mansikoilta! Käyttöohje: Hauduta teetä 2-4 min 80-asteisessa vedessä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/117/lampimainen-tee-mansikkapilvi</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/128.jpg</g:image_link>
+      <g:price>3.95 EUR</g:price>
+      <g:brand><![CDATA[Forsman tee]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-118</g:id>
+      <g:title><![CDATA[MyCashflow-retropipo, musta]]></g:title>
+      <g:description><![CDATA[Lämmin ja tyylikäs MyCashflow-retropipo talven viimoihin kahdessa värissä! Tämä paksusta ja miellyttävästä materiaalista valmistettu pipo pitää sinut lämpimänä ja näyttää hyvältä. Pipossa on käänne, näyttävä tupsu ja MyCashflow-logo. Se sopii täydellisesti niin arkikäyttöön kuin talvisille ulkoiluretkille.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/118/mycashflow-retropipo-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/pipo-musta28.jpg</g:image_link>
+      <g:price>19.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-119</g:id>
+      <g:title><![CDATA[MyCashflow-kosketusnäyttökynä, musta]]></g:title>
+      <g:description><![CDATA[Kosketusnäyttö- ja kuulakärkikynä MyCashflow-logolla Tyylikäs ja käytännöllinen kynä monipuoliseen käyttöön. Toisessa päässä mustekynä, toisessa päässä kosketusnäyttöpää. Kynän kyljessä on valkoinen MyCashflow-logo, ja värivaihtoehtoina musta sekä tummanvihreä. Täydellinen valinta toimistolle, asiakastapaamisiin ja mukaan otettavaksi.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/119/mycashflow-kosketusnayttokyna-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/kyna-musta59.jpg</g:image_link>
+      <g:price>1.79 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-120</g:id>
+      <g:title><![CDATA[MyCashflow-hiirimatto, musta]]></g:title>
+      <g:description><![CDATA[Moderni ja käytännöllinen hiirimatto, joka tekee työpisteestäsi ainutlaatuisen! Hiirimaton binäärikoodi-design tuo modernia ilmettä ja sopii täydellisesti niin toimistoon kuin kotiin. Hiirimatto on saatavilla kahdella eri tyylillä: luonnonläheinen korkkikuvio ja minimalistinen musta pinta. Molemmissa malleissa on MyCashflow-logo, joka viimeistelee ilmeen. Valitse oma tyylisi ja paranna työpisteesi mukavuutta ja näyttävyyttä tyylikkäällä hiirimatolla!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/120/mycashflow-hiirimatto-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Hiirimatto-3.jpg</g:image_link>
+      <g:price>9.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-123</g:id>
+      <g:title><![CDATA[Kuittirulla 57mm]]></g:title>
+      <g:description><![CDATA[Kapea kuittirulla, valkoinen.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/123/kuittirulla-57mm</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_34324174.jpg</g:image_link>
+      <g:price>1.95 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-124</g:id>
+      <g:title><![CDATA[Kuittirulla 80mm]]></g:title>
+      <g:description><![CDATA[Leveä kuittirulla valkoinen.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/124/kuittirulla-80mm</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_25384790.jpg</g:image_link>
+      <g:price>3.50 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-135</g:id>
+      <g:title><![CDATA[Zebra ZD421 Thermal Transfer lämpösiirto-tulostin]]></g:title>
+      <g:description><![CDATA[Voit tulostaa osoitekortteja paketteihin käyttäen tulostimen suoralämpöä ilman värinauhaa, sekä etikettejä käyttäen tulostimen lämpösiirtotekniikkaa. Toimii LAN, WLAN tai Bluetooth yhteydellä tai USB-johdon avulla.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/135/zebra-zd421-thermal-transfer-lamposiirto-tulostin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Img_27279425.jpg</g:image_link>
+      <g:price>695.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-152</g:id>
+      <g:title><![CDATA[Zebra ZD230 Direct Thermal suoralämpö-tulostin]]></g:title>
+      <g:description><![CDATA[Zebra ZD230 Direct Thermal -suoralämpötulostin on edullinen ja helppo tapa tulostaa tarroja ilman mustetta tai värinauhoja! Tällä tulostimella tulostat kätevästi verkkokaupan osoitekortit, sekä myymälän etiketit, hintalaput sekä varastotunnisteet. Tulostus tapahtuu lämpöherkälle etikettimateriaalille, joka tummuu kuumennettaessa. Tulostin ei käytä värinauhaa, joten materiaali itsessään toimii musteena. Tulosteet kestävät hyvin lämpötilanvaihteluja sekä kosteutta Tulostin on liitettävissä helposti Windows- ja Mac-tietokoneisiin LAN-yhteydellä tai USB-johdolla. Tätä tulostinta ei ole mahdollista yhdistää langattomasti.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/152/zebra-zd230-direct-thermal-suoralampo-tulostin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Osoitekortin-tulostin_3.png</g:image_link>
+      <g:price>369.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-153</g:id>
+      <g:title><![CDATA[Star MCW10 WLAN-adapteri kuittitulostimeen]]></g:title>
+      <g:description><![CDATA[Tällä Star mC-Print3 tulostimen WLAN-adapterilla saat yhdistettyä kuittitulostimesi langattomasti Wi-Fi lähiverkkoon. Tämä kompakti adapteri mahtuu piiloon tulostimen taakse. Se sisältää 2 porttia, joten voit liittää kaksi tulostinta tai lisälaitetta samanaikaisesti. Adapteri on yhteensopiva Star mC-Print3 -kuittitulostimelle ja saat sen helposti käyttöön Star-tulostintyökalun avulla.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/153/star-mcw10-wlan-adapteri-kuittitulostimeen</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Star%20Micronics%20mC-Print3.jpg</g:image_link>
+      <g:price>145.00 EUR</g:price>
+      <g:brand><![CDATA[Star]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-154</g:id>
+      <g:title><![CDATA[Etiketti-tarra 102 x 38mm, 1 rulla, 1790 tarraa]]></g:title>
+      <g:description><![CDATA[Etiketti-tarra 102 x 38mm soveltuu hinta- ja hyllynreuna-etikettien tulostamiseen. Pysyvä tulostusjälki lämpösiirto-tekniikalla. Vaatii lämpösiirto-tulostimen värinauhan. 1790 tarraa / rulla. Keskiön halkaisija 25mm.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/154/etiketti-tarra-102-x-38mm-1-rulla-1790-tarraa</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_32591590.jpg</g:image_link>
+      <g:price>14.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-155</g:id>
+      <g:title><![CDATA[Osoitetarra 102 x 210mm, 1 rulla, 300 osoitekorttia]]></g:title>
+      <g:description><![CDATA[Tämä 102 x210 mm kokoinen osoitetarra soveltuu kaikkien kuljetusyhtiöiden osoitekorttien tulostamiseen. Saat tulostettua verkkokaupastasi lähetettäviin paketteihin osoitekortit vaivattomasti suoralämpö-tekniikkaa hyödyntävällä Zebra-tulostimella , joka ei vaadi värinauhaa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/155/osoitetarra-102-x-210mm-1-rulla-300-osoitekorttia</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_32370232.jpg</g:image_link>
+      <g:price>11.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-156</g:id>
+      <g:title><![CDATA[Irroitettava tarra 57 x 32 mm, 1 rulla, 2100 tarraa]]></g:title>
+      <g:description><![CDATA[Irroitettava tarra 57 x 32mm soveltuu tuotteiden merkintään viivakoodilla. Tarra pysyy kiinni, mutta irtoaa helposti. Pysyvä tulostusjälki lämpösiirto-tekniikalla. Vaatii lämpösiirto-tulostimen värinauhan. 2100 tarraa / rulla. Keskiön halkaisija 25mm.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/156/irroitettava-tarra-57-x-32-mm-1-rulla-2100-tarraa</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_32368030.jpg</g:image_link>
+      <g:price>17.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-157</g:id>
+      <g:title><![CDATA[Etiketti-tarra, 70 x 32mm, 1 rulla, 2100 tarraa]]></g:title>
+      <g:description><![CDATA[Etiketti-tarra 70 x 32mm soveltuu hinta- ja hyllynreuna-etikettien tulostamiseen. Pysyvä tulostusjälki lämpösiirto-tekniikalla. Vaatii lämpösiirto-tulostimen värinauhan. 2100 tarraa / rulla]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/157/etiketti-tarra-70-x-32mm-1-rulla-2100-tarraa</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_34965742.jpg</g:image_link>
+      <g:price>16.90 EUR</g:price>
+      <g:brand><![CDATA[Zebra]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-158</g:id>
+      <g:title><![CDATA[Zebra Media 2300 Ribbon Wax, tulostinnauha, Musta, 1kpl]]></g:title>
+      <g:description><![CDATA[Vaha-vähinauha viivakoodien tulostamiseen Zebra ZD421 Thermal Transfer tarratulostin .]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/158/zebra-media-2300-ribbon-wax-tulostinnauha-musta-1kpl</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_34967641.jpg</g:image_link>
+      <g:price>4.90 EUR</g:price>
+      <g:brand><![CDATA[Zebra]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-161</g:id>
+      <g:title><![CDATA[Slimline™ -listaprofiili perhoskiinnikkeisiin]]></g:title>
+      <g:description><![CDATA[Slimline™-listaprofiili hintalistaprofiili sopii metallisten teollisten hyllyjen perhoskiinnikkeisiin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/161/slimline--listaprofiili-perhoskiinnikkeisiin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/300032898-170502-mpginr_eps.jpg</g:image_link>
+      <g:price>3.95 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-162</g:id>
+      <g:title><![CDATA[Hintanäytön pidike Slimline™-listaan]]></g:title>
+      <g:description><![CDATA[Tällä elektronisen hintanäytön kiinnikkeellä saat helposti SoluM Newton-merkin hintanäytöt kiinnitettyä. Pidike soveltuu Slimline™-profiililistaan. Hintanäytön pidike on varustettu saranatoiminnolla, joka mahdollistaa etiketin noston hyllynreunasta ylöspäin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/162/hintanayton-pidike-slimline-listaan</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/300036646-165335-sonesf-01.jpg</g:image_link>
+      <g:price>0.59 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-163</g:id>
+      <g:title><![CDATA[39x105mm etikettipidike Slimline™-listaan]]></g:title>
+      <g:description><![CDATA[Tällä 39x105mm kokoisella etikettipidikkeellä saat kätevästi kiinnitettyä paperisen etiketin hyllynreunaan Slimline™-listaan. Tuotteita hyllystä otettaessa etiketinpidikkeen saa nostettua pois edestä, jonka jälkeen se palautuu alkuperäiseen asentoon.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/163/39x105mm-etikettipidike-slimline-listaan</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300033029-164216-ff-ff_eps.jpg</g:image_link>
+      <g:price>0.39 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-164</g:id>
+      <g:title><![CDATA[Kiinnitysadapteri hintanäytölle]]></g:title>
+      <g:description><![CDATA[Tällä kiinnitysadapterilla saat liitettyä SoluM Newton elektroniset hintanäytöt yhteensopivan pidikkeen kanssa. Valikoimassamme on useita eri mallisia pidikkeitä, joita voit käyttää adapterin kanssa, kuten ripustuskoukku , varsipidike ja 360 astetta kääntyvä varsipidike .]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/164/kiinnitysadapteri-hintanaytolle</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300036597-165339-pc-gadget-smn_001.jpg</g:image_link>
+      <g:price>0.79 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-165</g:id>
+      <g:title><![CDATA[Varsipidike hintanäytölle tai hyllypuhujan kehykselle, kirkas]]></g:title>
+      <g:description><![CDATA[Tällä pidikkeellä kiinnität hyllypuhujat, hintakasetit sekä elektroniset hintanäytöt kätevästi esimerkiksi korin tai laatikon reunaan. Elektronisen hintanäytön kanssa käytettäessä vaatii erillisen adapterin . Voit säätää pidikkeen kulmaa haluamaksesi.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/165/varsipidike-hintanaytolle-tai-hyllypuhujan-kehykselle-kirkas</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300032493-171241-ad-multi_eps.jpg</g:image_link>
+      <g:price>3.25 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-166</g:id>
+      <g:title><![CDATA[360-kääntyvä varsipidike hintanäytölle tai hyllypuhujan kehykselle, musta]]></g:title>
+      <g:description><![CDATA[Tämän kätevän yleispidikkeen voit kiinnittää lähes mihin vaan hauenleukakiinnityksen avulla, voit käyttää sitä elektronisen hintanäytön,hintakasetin tai hyllypuhujan kanssa. Näyttö liikkuu pidikkeessä ympäri 360 astetta. Elektronisen hintanäytön kanssa käytettäessä tuote vaatii adapterin .]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/166/360-kaantyva-varsipidike-hintanaytolle-tai-hyllypuhujan-kehykselle-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300036022-165736-esl-clamp-xl_001.jpg</g:image_link>
+      <g:price>5.59 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-167</g:id>
+      <g:title><![CDATA[Ripustuskoukko hintanäytölle, musta]]></g:title>
+      <g:description><![CDATA[Tällä ripustuskoukulla saat kiinnitettyä elektroniset hintanäytöt, hintakasetit ja hyllypuhujat roikkumaan esimerkiksi pakastealtaan tai ale-laarin yläpuolelle. Elektronisen hintanäytön kiinnitys vaatii erillisen adapterin .]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/167/ripustuskoukko-hintanaytolle-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300032444-171430-fxw16_eps.jpg</g:image_link>
+      <g:price>1.05 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-168</g:id>
+      <g:title><![CDATA[Hintanäytön pidike piikkiin]]></g:title>
+      <g:description><![CDATA[Tähän hintanäytön pidikkeeseen voit kiinnittää elektronisen hintanäytön hyllyn piikki-kannattimeen. Tuotteita hyllystä otettaessa etiketinpidikkeen saa nostettua pois edestä, jonka jälkeen se palautuu alkuperäiseen asentoon.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/168/hintanayton-pidike-piikkiin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300033235-165816-expe_eps.jpg</g:image_link>
+      <g:price>0.39 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-169</g:id>
+      <g:title><![CDATA[39x75mm etikettipidike piikkiin]]></g:title>
+      <g:description><![CDATA[Tällä 39x75mm kokoisella etikettipidikkeellä saat kätevästi kiinnitettyä paperisen etiketin hyllyn piikki-kannattimeen. Tuotteita hyllystä otettaessa etiketinpidikkeen saa nostettua pois edestä, jonka jälkeen se palautuu alkuperäiseen asentoon.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/169/39x75mm-etikettipidike-piikkiin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/300034201-170908-vh_eps.jpg</g:image_link>
+      <g:price>0.60 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-171</g:id>
+      <g:title><![CDATA[MyCashflow t-paita, unisex, persikka]]></g:title>
+      <g:description><![CDATA[Mukava ja laadukas persikka T-paita, joka sopii unisex-mallin ansiosta täydellisesti niin miehille kuin naisille. Varustettu tyylikkäällä MyCashflow-logolla. T-paidan pehmeä materiaali tekee siitä miellyttävän valinnan kaikkiin tilanteisiin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/171/mycashflow-t-paita-unisex-persikka</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/mcf-peach-shirt.jpg</g:image_link>
+      <g:price>20.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-176</g:id>
+      <g:title><![CDATA[MyCashflow t-paita, unisex, vihreä]]></g:title>
+      <g:description><![CDATA[Mukava ja laadukas viherä T-paita, joka sopii unisex-mallin ansiosta täydellisesti niin miehille kuin naisille. Varustettu tyylikkäällä MyCashflow-logolla. T-paidan pehmeä materiaali tekee siitä miellyttävän valinnan kaikkiin tilanteisiin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/176/mycashflow-t-paita-unisex-vihrea</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/mcf-shirt-green.jpg</g:image_link>
+      <g:price>20.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-177</g:id>
+      <g:title><![CDATA[Zebra DS2278 1D/2D -viivakoodinlukija Bluetooth + MicroUSB]]></g:title>
+      <g:description><![CDATA[Zebra DS2278 on luotettava, langaton viivakoodinlukija, joka tarjoaa nopean ja vaivattoman tavan lukea sekä 1D- että 2D-koodeja. Se yhdistää Bluetoothin kautta esimerkiksi kassapäätteeseen tai tietokoneeseen, ja lataa akun mukana tulevalla MicroUSB-kaapelilla.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/177/zebra-ds2278-1d2d--viivakoodinlukija-bluetooth--microusb</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/ds2200-series-black-scanner-standing-up-right-3x2-36006017.jpg</g:image_link>
+      <g:price>199.00 EUR</g:price>
+      <g:brand><![CDATA[Zebra]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-193</g:id>
+      <g:title><![CDATA[Zebra TC27 -mobiilitietokone]]></g:title>
+      <g:description><![CDATA[Zebra TC27 on vahvennettu ja yrityskäyttöön suunniteltu Android-käyttöinen mobiilitietokone, joka yhdistää älypuhelimen helppokäyttöisyyden ja teollisuuden tarpeisiin tarkoitetun kestävyyden. Kuuden tuuman Full HD+-näytöllä, 5G-yhteydellä sekä Wi-Fi 6/6E- ja Bluetooth 5.2-liitännöillä varustettu TC27 mahdollistaa reaaliaikaisen tiedonkeruun, skannauksen ja työnkulkujen hallinnan niin kentällä kuin varastossa. Integroitu 1D/2D-viivakoodinlukija, takakamera, etukamera, NFC-tuki ja mikros­d‐muistikorttipaikka tekevät laitteesta monipuolisen koko yrityksen käyttöön. Rugged-suunnittelu (IP68, pudotuskestävyys) tekee siitä luotettavan myös vaativissa olosuhteissa. Zebra TC27 tarjoaa tehokkaan ja kestävän ratkaisun tiedon keräämiseen ja prosessien automatisointiin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/193/zebra-tc27--mobiilitietokone</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_31372358.jpg</g:image_link>
+      <g:price>1129.50 EUR</g:price>
+      <g:brand><![CDATA[Zebra]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-194</g:id>
+      <g:title><![CDATA[MyCashflow LED-kynttilä]]></g:title>
+      <g:description><![CDATA[Tämä elegantti LED-kynttilä on valmistettu savulasista, ja sen lämmin, himmeä LED-valo yhdessä aidon vahan tuntua jäljittelevän pinnan kanssa luo autenttisen kynttiläelämyksen ilman avotulen riskiä. Kynttilä on ihanteellinen sisä- ja ulkokäyttöön — esimerkiksi pöydän somistukseen illallisella tai osana sisustusta arjessa ja juhlassa. Paketissa toimitetaan myös paristot valmiiksi asennettuina, joten kynttilä on käyttövalmis heti. LED-kynttilä on erinomainen vaihtoehto perinteiselle kynttilälle silloin, kun halutaan pitkäikäistä, siistiä ja turvallista valaistusta — ilman savun ja kipinöiden vaaraa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/194/mycashflow-led-kynttila</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/MyCashflow%20Led-kynttila2.jpg</g:image_link>
+      <g:price>10.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-195</g:id>
+      <g:title><![CDATA[Suklainen]]></g:title>
+      <g:description><![CDATA[Anna itsesi uppoutua suklaiseen nautintoon! Tämä maitosuklaalevy on täydellinen valinta sinulle, joka rakastat perinteisen pehmeää ja suussa sulavaa suklaata. Sukalainen on aito klassikko, joka tuo iloa jokaiseen hetkeen. Hemmottele itseäsi tällä suklaisella herkkupalalla!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/195/suklainen</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Nimeto%CC%88n%20malli%20%286%29.jpg</g:image_link>
+      <g:price>4.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-205</g:id>
+      <g:title><![CDATA[EloPOS  Z30 - Kassa-tietokone integroidulla asiakasnäytöllä]]></g:title>
+      <g:description><![CDATA[EloPOS Z30 Intel® tarjoaa modernin ja integroidun ratkaisun, joka yhdistää tyylikkään muotoilun ja Intelin suorituskyvyn. Tämä 15,6-tuumainen Full HD -kassapääte on suunniteltu erityisesti vähittäiskaupan vaativiin tarpeisiin. Laitteen jalustaan on integroitu kattava liitinkeskus, joka mahdollistaa siistin kaapelinhallinnan ja kaikkien oheislaitteiden kytkemisen yhteen paikkaan. Innovatiivisen rakenteensa ansiosta Z30 säästää arvokasta tilaa myyntitiskillä tinkimättä tehosta. Tärkeimmät ominaisuudet: Suorituskyky: Varustettu Intel® 11. sukupolven suorittimilla, jotka takaavat nopean ja sujuvan käytön. Kirkas näyttö: 15,6" Full HD -kosketusnäyttö 10 pisteen monikosketuksella. Integroitu asiakasnäyttö: 10,1" Full HD -kosketusnäyttö Kestävyys: Testattu kestämään jatkuvaa kaupallista käyttöä. Laajennettavuus: Kattava valikoima portteja, mukaan lukien USB-C lisänäytön kytkemiseen yhdellä kaapelilla. Siisti asennus: Integroitu hubi ja kaapelikanavat pitävät tiskin vapaana johtosotkuista.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/205/elopos--z30---kassa-tietokone-integroidulla-asiakasnaytolla</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/elo_z30_gen2android_slate5_backright_nologo_product_hero_gallery_1400x800.png</g:image_link>
+      <g:price>2685.00 EUR</g:price>
+      <g:brand><![CDATA[Elo Touch Solutions]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-206</g:id>
+      <g:title><![CDATA[Star Micronics mPOP]]></g:title>
+      <g:description><![CDATA[Star Micronics 39655990 on mPOP-yhdistelmä 58 mm lämpötulostin ja käteiskassa, joka yhdistää tehokkaan tulostuksen ja kassatoiminnot kompaktissa muodossa. Laite tarjoaa monipuoliset liitäntämahdollisuudet, kuten USB-C, USB-B, USB-A (x3) ja Bluetooth 5.0, sekä autocutter-toiminnon siistiin tulostukseen. Se on suunniteltu erityisesti pienille ja keskikokoisille yrityksille, ja se soveltuu erinomaisesti vähittäiskauppaan, ravintoloihin ja teollisuuteen. Käyttäjät ovat kiitelleet sen korkeaa tulostuslaatua ja kestävyyttä. Laite toimitetaan virtalähteen, USB-kaapelin ja käyttöohjeiden kanssa, ja sille myönnetään 1 vuoden tehdastakuu. Tärkeimmät edut: Kaikki yhdessä: Integroitu 58 mm lämpötulostin ja kassalipas samassa laitteessa säästävät arvokasta pöytätilaa. Monipuoliset liitännät: Varustettu Bluetooth-, USB-C- (Power Delivery), USB-B- ja USB-A-liitännöillä oheislaitteita varten. Tehokas tulostus: Sisäänrakennettu automaattileikkuri takaa siistit kuittien leikkaukset jokaisella kerralla. Yksinkertainen käyttöönotto: Helppo liittää iOS-, Android- ja Windows-laitteisiin. Moderni muotoilu: Musta viimeistely ja matala profiili sopivat täydellisesti nykyaikaiseen myymäläympäristöön.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/206/star-micronics-mpop</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Img_34820385.jpg</g:image_link>
+      <g:price>609.00 EUR</g:price>
+      <g:brand><![CDATA[Star]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-208</g:id>
+      <g:title><![CDATA[Elo 1502L 15,6" kosketusnäyttö myymälän kassalle]]></g:title>
+      <g:description><![CDATA[Kosketusnäyttö myymäläkassoihin. Yhteensopiva MyCashflow Kassan sekä Windows ja Mac OS X tietokoneiden kanssa. Tukee monikosketusta ja stylys-kynää. VESA-kiinnitys, sisältää jalustan.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/208/elo-1502l-156-kosketusnaytto</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Na%CC%88ytto%CC%88kuva%202026-03-03%20kello%2012.38.42.png</g:image_link>
+      <g:price>865.95 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-209</g:id>
+      <g:title><![CDATA[Liquid ROI – kotimainen lähdevesi]]></g:title>
+      <g:description><![CDATA[0,35 litran pullo kotimaista lähdevettä. Vesi on liiketoiminnan polttoainetta, joka pitää pään kylmänä ja mielen virkeänä. Kuten nimikin lupaa: tässä on sijoitus, josta saat välittömän tuoton (Liquid ROI).]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/209/liquid-roi--kotimainen-lahdevesi</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/2.jpg</g:image_link>
+      <g:price>1.20 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-210</g:id>
+      <g:title><![CDATA[MyCashflow-tarrat, 3 kpl]]></g:title>
+      <g:description><![CDATA[Setti sisältää kolme erilaista MyCashflow-tarraa, joilla tuot sopivasti asennetta läppäriin, muistikirjaan tai oikeastaan mihin tahansa tasaiseen pintaan. Tämä on helpoin tapa tunnustaa väriä ja näyttää, kenen alustalla hommat hoituvat.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/210/mycashflow-tarrat-3-kpl</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/MyCashflow-tarrat.png</g:image_link>
+      <g:price>3.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-213</g:id>
+      <g:title><![CDATA[MyCashflow-messureppu]]></g:title>
+      <g:description><![CDATA[MyCashflow–messureppu ansaitsee paikkansa messujen lisäksi arjen menoissa – olitpa sitten matkalla, salilla tai toimistolla. Kevyt, musta narureppu kulkee helposti mukana minne tahansa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/213/mycashflow-messureppu</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/gym-bag-tuotekuva.png</g:image_link>
+      <g:price>15.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-215</g:id>
+      <g:title><![CDATA[MyCashflow sukat, musta/valkoinen]]></g:title>
+      <g:description><![CDATA[Nämä eivät ole vain sukat – nämä ovat kannanotto. Sidosteen laadukkaasta luomupuuvillasta valmistetut valko-mustat tennissukat tuovat tarvittavaa pilkettä silmäkulmaan niin toimistolle, varastolle kuin kotisohvallekin. Pehmeä neulos ja napakka tennisvarsi takaavat, että sukat pysyvät menossa mukana aamun ensimmäisestä kahvikupista illan viimeiseen sähköpostiin Tennisvarsisukat piristämään työ ja vapaa päiviäsi.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/215/mycashflow-sukat-mustavalkoinen</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/267.jpg</g:image_link>
+      <g:price>12.50 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-217</g:id>
+      <g:title><![CDATA[MyCashflow sukat, persikka/ vihreä]]></g:title>
+      <g:description><![CDATA[Nämä eivät ole vain sukat – nämä ovat kannanotto. Sidosteen laadukkaasta luomupuuvillasta valmistetut valko-persikka-vihreä tennissukat tuovat tarvittavaa pilkettä silmäkulmaan niin toimistolle, varastolle kuin kotisohvallekin. Pehmeä neulos ja napakka tennisvarsi takaavat, että sukat pysyvät menossa mukana aamun ensimmäisestä kahvikupista illan viimeiseen sähköpostiin Tennisvarsisukat piristämään työ ja vapaa päiviäsi.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/217/mycashflow-sukat-persikka-vihrea</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/116.jpg</g:image_link>
+      <g:price>12.50 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-218</g:id>
+      <g:title><![CDATA[MyCashflow lippis, musta]]></g:title>
+      <g:description><![CDATA[Päivitä asusteesi tällä ajattomalla ja laadukkaalla lippiksellä. Malli yhdistää rennon katu-uskottavuuden ja huolitellun viimeistelyn. Pehmeä materiaali ja hillitty MyCashflow-brändäys tekevät tästä asusteen, joka kestää aikaa. Miellyttävä materiaali: Valmistettu kestävästä mutta pehmeästä kankaasta, joka tuntuu mukavalta päässä koko päivän. Rento istuvuus: Matalaprofiilinen ja rakenteeltaan pehmeä malli mukautuu pään muotoon luonnollisesti. Takana on messinkinen metallisolki ja kangashihna, joiden avulla koon saa säädettyä juuri sopivaksi. Viimeistelty look: Kaareva lippa ja huolelliset ompeleet takaavat, että lippis säilyttää tyylikkään linjansa pitkään.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/218/mycashflow-lippis-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Nimeto%CC%88n%20malli%20%281%29.png</g:image_link>
+      <g:price>25.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-219</g:id>
+      <g:title><![CDATA[MyCashflow lippis, hazy pink]]></g:title>
+      <g:description><![CDATA[Päivitä asusteesi tällä ajattomalla ja laadukkaalla lippiksellä. Malli yhdistää rennon katu-uskottavuuden ja huolitellun viimeistelyn. Pehmeä materiaali ja hillitty MyCashflow-brändäys tekevät tästä asusteen, joka kestää aikaa. Miellyttävä materiaali: Valmistettu kestävästä mutta pehmeästä kankaasta, joka tuntuu mukavalta päässä koko päivän. Rento istuvuus: Matalaprofiilinen ja rakenteeltaan pehmeä malli mukautuu pään muotoon luonnollisesti. Takana on messinkinen metallisolki ja kangashihna, joiden avulla koon saa säädettyä juuri sopivaksi. Viimeistelty look: Kaareva lippa ja huolelliset ompeleet takaavat, että lippis säilyttää tyylikkään linjansa pitkään.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/219/mycashflow-lippis-hazy-pink</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Nimeto%CC%88n%20malli.png</g:image_link>
+      <g:price>25.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-243</g:id>
+      <g:title><![CDATA[Slimline™ -listaprofiili teipillä]]></g:title>
+      <g:description><![CDATA[Slimline™-listaprofiili hintalistaprofiili sopii metallisiin ja puisiin hyllyihin teipillä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/243/slimline--listaprofiili-teipilla</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/300032898-170502-mpginr_eps.jpg</g:image_link>
+      <g:price>3.95 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-69</g:id>
+      <g:title><![CDATA[MyCashflow-juomapullo]]></g:title>
+      <g:description><![CDATA[MyCashflow-termospullo sopii erinomaisesti sekä kylmien että kuumien juomien säilyttämiseen. Tehokas vakuumieristys pitää juomat viileinä jopa 18 tuntia ja lämpiminä 6 tuntia. Tyhjiön ansiosta kosteutta ei kondensoidu pullon ulkopuolelle, ja lämpö ja viileys pysyvät sisällä. Termospullo on valmistettu kestävästä, ruostumattomasta teräksestä (18/8), joten nesteisiin ei liukene haitallisia kemikaaleja, eikä myöskään siirry pullon tai aikaisempien juomien makuja tai hajuja. Pullon kyljessä valkoinen MyCashflow-logo. Suositellaan pestäväksi vain käsin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/69/mycashflow-juomapullo</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Juomapullo-large6.jpg</g:image_link>
+      <g:price>24.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-70</g:id>
+      <g:title><![CDATA[MyCashflow-kestomuki]]></g:title>
+      <g:description><![CDATA[Kätevä ja ympäristöystävällinen, uudelleenkäytettävä take away -muki valkoisella MyCashflow logolla.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/70/mycashflow-kestomuki</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Take-away-kuppi-large8.jpg</g:image_link>
+      <g:price>7.95 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-71</g:id>
+      <g:title><![CDATA[MyCashflow-huppari, unisex, musta]]></g:title>
+      <g:description><![CDATA[Laadukas ja mukava huppari valkoisella MyCashflow-logolla. Hupparin materiaali on 80 % puuvillaa ja 20 % polyesteriä, mikä tekee siitä pehmeän, kestävän ja miellyttävän käyttää. Rennon ja ajattoman leikkauksen ansiosta huppari sopii erinomaisesti sekä miehille että naisille – tarjoten mukavuutta kaikissa tilanteissa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/71/mycashflow-huppari-unisex-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Hupparimusta78.jpg</g:image_link>
+      <g:price>30.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-72</g:id>
+      <g:title><![CDATA[MyCashflow t-paita, unisex, musta]]></g:title>
+      <g:description><![CDATA[Mukava ja laadukas musta T-paita, joka sopii unisex-mallin ansiosta täydellisesti niin miehille kuin naisille. Varustettu tyylikkäällä MyCashflow-logolla. T-paidan pehmeä materiaali tekee siitä miellyttävän valinnan kaikkiin tilanteisiin.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/72/mycashflow-t-paita-unisex-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Rtshirt-front1399.jpg</g:image_link>
+      <g:price>20.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-73</g:id>
+      <g:title><![CDATA[MyCashflow-läppärilaukku, harmaa]]></g:title>
+      <g:description><![CDATA[R-Collectionin ja MyCashflow yhdessä suunnittelema läppärilaukku. Pehmustettu ja vettä hylkivä kangas pitää läppärin suojassa. Laukkuun mahtuu hyvin 16" MacBook Pro tai pienempi kannettava sekä muuta tarpeellista tavaraa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/73/mycashflow-lapparilaukku-harmaa</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Laukku-harmaa.jpg</g:image_link>
+      <g:price>129.90 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-74</g:id>
+      <g:title><![CDATA[MyCashflow-läppärilaukku, vihreä]]></g:title>
+      <g:description><![CDATA[R-Collectionin ja MyCashflow yhdessä suunnittelema läppärilaukku. Pehmustettu ja vettä hylkivä kangas pitää läppärin suojassa. Laukkuun mahtuu hyvin 16" MacBook Pro tai pienempi kannettava sekä muuta tarpeellista tavaraa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/74/mycashflow-lapparilaukku-vihrea</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Laukku-vihrea%CC%88.jpg</g:image_link>
+      <g:price>129.00 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-75</g:id>
+      <g:title><![CDATA[MyCashflow-heijastin, retrologo]]></g:title>
+      <g:description><![CDATA[Näy turvallisesti pimeässä heijastimen avulla! MyCashflow'n retrohenkinen logo tuo persoonallisuutta, ja heijastin kiinnittyy helposti laukkuun, takkiin tai reppuun.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/75/mycashflow-heijastin-retrologo</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Retro-heijastin-.jpg</g:image_link>
+      <g:price>0.09 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-76</g:id>
+      <g:title><![CDATA[MyCashflow-avainnauha]]></g:title>
+      <g:description><![CDATA[Käytännöllinen avainnauha jokapäiväiseen käyttöön. Vihreässä avainnauhassa on valkoinen MyCashflow-logopainatus, joka tuo sille selkeän ilmeen. Sopii erinomaisesti avaimille, kulkukorteille tai muille tärkeille esineille.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/76/mycashflow-avainnauha</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Kaulanauha-1-largef.jpg</g:image_link>
+      <g:price>0.99 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-77</g:id>
+      <g:title><![CDATA[MyCashflow Store -lahjakortti, 50 €]]></g:title>
+      <g:description><![CDATA[Tässä lahjaidea, joka tuo iloa varmasti! MyCashflow-lahjakortti käy maksuvälineenä sekä MyCashflow Storessa että Kajaanin myymälässä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/77/mycashflow-store--lahjakortti-50-</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/lahjakortti-50euroa.jpg</g:image_link>
+      <g:price>50.00 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-79</g:id>
+      <g:title><![CDATA[MyCashflow t-paita, ladyfit, musta]]></g:title>
+      <g:description><![CDATA[Mukava ja tyylikäs, mustanvärinen T-paita MyCashflow-logolla, naisille sopivalla ladyfit-leikkauksella. Valmistettu pehmeästä ja laadukkaasta materiaalista, joka tuntuu miellyttävältä koko päivän.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/79/mycashflow-t-paita-ladyfit-musta</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Rtshirt39.jpg</g:image_link>
+      <g:price>20.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-80</g:id>
+      <g:title><![CDATA[MyCashflow-huppari, unisex, vihreä]]></g:title>
+      <g:description><![CDATA[Laadukas ja mukava putelinvihreä huppari valkoisella MyCashflow-logolla. Hupparin materiaali on 80 % puuvillaa ja 20 % polyesteriä, mikä tekee siitä pehmeän, kestävän ja miellyttävän käyttää. Rennon ja ajattoman leikkauksen ansiosta huppari sopii erinomaisesti sekä miehille että naisille – tarjoten mukavuutta kaikissa tilanteissa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/80/mycashflow-huppari-unisex-vihrea</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Rhoodie-front.jpg</g:image_link>
+      <g:price>30.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-81</g:id>
+      <g:title><![CDATA[MyCashflow-body, lyhythihainen]]></g:title>
+      <g:description><![CDATA[Pehmeä ja mukava, puuvillasta valmistettu lyhythihainen body vauvalle, valkoisella MyCashflow-logolla. Tässä oiva lahjaidea vastasyntyneelle!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/81/mycashflow-body-lyhythihainen</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/Body.jpg</g:image_link>
+      <g:price>14.90 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-84</g:id>
+      <g:title><![CDATA[Lämpimäinen-tee, mustikka]]></g:title>
+      <g:description><![CDATA[Musta tee: Mustikka Tässä tee, joka sopii suomalaiseen makuun! Mustikka yhdistyy mustan teen täyteläiseen makuun luoden juoman, joka lämmittää ja virkistää samanaikaisesti. Mustikkateessä käytetään aitoja mustikoita ja suomalaista mustikkaöljyä, jotka tuovat makuun luonnollista raikkautta. Mustikka tunnetaan superfoodina sen monipuolisten terveyshyötyjen vuoksi, ja tämä tee tarjoaa täydellisen tavan aloittaa päiväsi. Mustan teen luonnollinen kofeiini antaa energiaa ja auttaa keskittymään, samalla kun se tukee immuunijärjestelmää ja tarjoaa makuelämyksen, joka vie metsän keskelle. Nauti aamupuuron seurana tai missä tahansa hetkessä, kun kaipaat pientä lisäenergiaa ja suomalaista makumaailmaa. Käyttöohje: Hauduta 3-5 minuuttia 90-100-asteisessa vedessä.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/84/lampimainen-tee-mustikka</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/262.jpg</g:image_link>
+      <g:price>3.95 EUR</g:price>
+      <g:brand><![CDATA[Forsman tee]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-89</g:id>
+      <g:title><![CDATA[Star CB-2002 - Kassalaatikko]]></g:title>
+      <g:description><![CDATA[Tämän kestävän kassalaatikon avulla käteisen rahan käsittely sujuu myymälässäsi helposti! Kassalaatikko sisältää avaimella lukittavan lippaan sekä 8 paikkaa kolikoille ja 4 litteää setelipidikepaikkaa. Kassalaatikon päällysosassa on metallinen tuki, jonka ansiosta lippaan päälle voi asettaa esimerkiksi kassanäytön tai muita painavampia esineitä. Star-merkin kassalaatikko on yhteensopiva Star- kassatulostimen sekä muiden alan standardien mukaisten kassa-tulostimien kanssa.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/89/star-cb-2002---kassalaatikko</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Untitled-design-164327.jpg</g:image_link>
+      <g:price>159.50 EUR</g:price>
+      <g:brand><![CDATA[Star]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>out_of_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-90</g:id>
+      <g:title><![CDATA[Star mC-Print3 - Kuittitulostin]]></g:title>
+      <g:description><![CDATA[Star Micronicsin mC-Print3 on kompakti ja monipuolinen 80 mm lämpötulostin. Sen tyylikäs muotoilu ja monipuoliset liitäntämahdollisuudet tekevät siitä erinomaisen valinnan erilaisiin myyntipistejärjestelmiin. mC-Print3 on mCollection-sarjan 3 tuuman kassa-tulostin. Siinä on IPX2-luokiteltu roiskeenkestävä muotoilu sekä etupuolelta ladattava paperinsyöttö, joka tarjoaa erinomaista käytettävyyttä. Tämä 3 tuuman lämpötulostin tarjoaa useita liitäntävaihtoehtoja, kuten USB, LAN ja CloudPRNT/WebPRNT. Kaikki viisi liitäntää ovat osa mC-Print3-mallia, mikä tekee tulostimesta mukautuvan tuleviin kassa-järjestelmämuutoksiin. mC-Print3hub-toiminnallisuus mahdollistaa jopa kolmen oheislaitteen USB-liitännän. Täydellinen yhteensopivuus MyCashflow Kassan kanssa Kuittitulostin on yhteensopiva MyCashflow Kassan kanssa ja nopeuttaa kassatyöskentelyä tulostamalla kuitit suoraan kassajärjestelmästä. MyCashflow Kassa on pilvipohjainen ja saumattomasti toimiva kassajärjestelmä, joka tarjoaa täydellisen yhteensopivuuden myyntipisteen ja MyCashflow-verkkokaupan välille. Lue lisää MyCashflow Kassasta!]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/90/star-mc-print3---kuittitulostin</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1500x1500/mcp3_front_gallery80.jpg</g:image_link>
+      <g:price>319.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-92</g:id>
+      <g:title><![CDATA[Zebra DS2208 1D/2D -viivakoodinlukija USB]]></g:title>
+      <g:description><![CDATA[Zebra DS2208 - viivakoodinlukijalla luet perinteisten viivakoodien lisäksi myös 2D-koodeja. Koodien lukeminen onnistuu vaivattomasti niin tuotteiden hintalapuista kuin vaikkapa puhelimen näytöltäkin. Tämä langallinen malli on helposti liitettävissä USB-kaapelilla eri laitteisiisi ja mukana tulee kätevä pöytäteline viivakoodinlukijalle.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/92/zebra-ds2208-1d2d--viivakoodinlukija-usb</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/ds2200-series-black-scanner-standing-up-right-3x2-36006017.jpg</g:image_link>
+      <g:price>96.00 EUR</g:price>
+      <g:brand><![CDATA[Zebra]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-93</g:id>
+      <g:title><![CDATA[Socket Scan S700  1D-viivakoodinlukija Bluetooth]]></g:title>
+      <g:description><![CDATA[Socket Mobile S700 -viivakoodinlukija on kevyt ja kätevä langaton ratkaisu, joka yhdistyy helposti moniin eri laitteisiin Bluetooth-teknologian avulla. Se on Applen sertifioima iOS-laitteille ja täysin yhteensopiva myös Android- ja Windows-käyttöjärjestelmien kanssa. S700 lukee kaikki yleisimmät 1D- ja pinotut viivakoodit nopeasti ja tarkasti.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/93/socket-scan-s700--1d-viivakoodinlukija-bluetooth</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/41VkoBR1T0L-_AC_SL1080_.jpg</g:image_link>
+      <g:price>379.00 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
+    <item>
+      <g:id>mycashflow-96</g:id>
+      <g:title><![CDATA[Kuittirulla 57mm MyCashflow logolla]]></g:title>
+      <g:description><![CDATA[Kapea lämpöpaperirulla MyCashflow logolla.]]></g:description>
+      <g:link>https://www.mycashflowstore.fi/product/96/kuittirulla-57mm-mycashflow-logolla</g:link>
+      <g:image_link>https://www.mycashflowstore.fi/tuotekuvat/1200x1200/Kuittirulla-large4.jpg</g:image_link>
+      <g:price>1.25 EUR</g:price>
+      <g:brand><![CDATA[MyCashflow]]></g:brand>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:google_product_category><![CDATA[166]]></g:google_product_category>
+    </item>
   </channel>
 </rss>
